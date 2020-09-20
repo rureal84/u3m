@@ -1,0 +1,65 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB NETWORK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mlb_network.png" ,MLB NETWORK
+http://mlsh1.com:2086/iptvreal/55225/4460
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB NETWORK STRIKE ZONE (Tuesday and Friday nights only)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/StrikeZoneLogo.jpg" ,MLB NETWORK STRIKE ZONE (Tuesday and Friday nights only)
+http://mlsh1.com:2086/iptvreal/55225/4475
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB ARIZONA DIAMONDBACKS" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/ari.png" ,ARIZONA DIAMONDBACKS
+http://mlsh1.com:2086/iptvreal/55225/4443
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB ATLANTA BRAVES" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/atl.png" ,ATLANTA BRAVES
+http://mlsh1.com:2086/iptvreal/55225/4444
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB BALTIMORE ORIOLES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Baltimore_Orioles_cap.svg/1200px-Baltimore_Orioles_cap.svg.png" ,BALTIMORE ORIOLES
+http://mlsh1.com:2086/iptvreal/55225/4445
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: BOSTON RED SOX" tvg-logo="https://purepng.com/public/uploads/large/boston-red-sox-logo-yki.png" ,BOSTON RED SOX
+http://mlsh1.com:2086/iptvreal/55225/154643
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB CHICAGO CUBS" tvg-logo="http://www.stickpng.com/assets/images/584d41b10a44bd1070d5d411.png" ,CHICAGO CUBS
+http://mlsh1.com:2086/iptvreal/55225/4447
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB CHICAGO WHITE SOX" tvg-logo="https://images.homedepot-static.com/productImages/f255745a-15b6-42f0-8912-2d2808f906f7/svn/gray-fanmats-sports-rugs-18131-64_1000.jpg" ,CHICAGO WHITE SOX
+http://mlsh1.com:2086/iptvreal/55225/4448
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB CINCINNATI REDS" tvg-logo="https://purepng.com/public/uploads/large/cincinnati-reds-logo-4ld.png" ,CINCINNATI REDS
+http://mlsh1.com:2086/iptvreal/55225/4449
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB CLEVELAND INDIANS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Cleveland_Indians_logo.svg/1200px-Cleveland_Indians_logo.svg.png" ,CLEVELAND INDIANS
+http://mlsh1.com:2086/iptvreal/55225/4450
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB COLORADO ROCKIES" tvg-logo="http://www.stickpng.com/assets/images/584d3edd0a44bd1070d5d3dc.png" ,COLORADO ROCKIES
+http://mlsh1.com:2086/iptvreal/55225/4451
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB DETRIOT TIGERS" tvg-logo="http://assets.stickpng.com/thumbs/584d44640a44bd1070d5d43c.png" ,DETRIOT TIGERS
+http://mlsh1.com:2086/iptvreal/55225/4452
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB HOUSTON ASTROS" tvg-logo="http://www.stickpng.com/assets/images/584d493b0a44bd1070d5d477.png" ,HOUSTON ASTROS
+http://mlsh1.com:2086/iptvreal/55225/4453
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB KANSAS CITY ROYALS" tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/kansas_city_royals.png" ,KANSAS CITY ROYALS
+http://mlsh1.com:2086/iptvreal/55225/4454
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB LOS ANGELES ANGELS" tvg-logo="https://seeklogo.com/images/L/los-angeles-angels-of-anaheim-logo-616C722BEC-seeklogo.com.png" ,LOS ANGELES ANGELS
+http://mlsh1.com:2086/iptvreal/55225/4455
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB LOS ANGELES DODGERS" tvg-logo="http://www.stickpng.com/assets/images/584d3e7c0a44bd1070d5d3d5.png" ,LOS ANGELES DODGERS
+http://mlsh1.com:2086/iptvreal/55225/4456
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB MIAMI MARLINS" tvg-logo="http://www.stickpng.com/assets/images/584d439b0a44bd1070d5d42e.png" ,MIAMI MARLINS
+http://mlsh1.com:2086/iptvreal/55225/4457
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB MILWAUKEE BREWERS" tvg-logo="http://www.stickpng.com/assets/images/584d40b50a44bd1070d5d3fe.png" ,MILWAUKEE BREWERS
+http://mlsh1.com:2086/iptvreal/55225/4458
+#EXTINF:-1 group-title="USA | MLB" tvg-id="FMC-9" tvg-name="USA: MLB MINNESOTA TWINS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/MinnesotaTwins.PNG" ,MINNESOTA TWINS
+http://mlsh1.com:2086/iptvreal/55225/4459
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB NEW YORK METS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/New_York_Mets.svg/1280px-New_York_Mets.svg.png" ,NEW YORK METS
+http://mlsh1.com:2086/iptvreal/55225/4462
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB NEW YORK YANKEES" tvg-logo="http://www.capsinfo.com/images/MLB_Team_Logos/NewYork_Yankees.png" ,NEW YORK YANKEES
+http://mlsh1.com:2086/iptvreal/55225/4463
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB OAKLAND ATHLETICS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oakland_A%27s_logo.svg/1200px-Oakland_A%27s_logo.svg.png" ,OAKLAND ATHLETICS
+http://mlsh1.com:2086/iptvreal/55225/4464
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB PHILADELPHIA PHILLIES" tvg-logo="http://3.bp.blogspot.com/-SuWyfwL-CK8/T16EOq8MtjI/AAAAAAAAAvU/ZP-EKJBgSc4/s1600/1984-1991%2BPhiladelphia%2BPhillies%2BVintage%2BLogo.gif" ,PHILADELPHIA PHILLIES
+http://mlsh1.com:2086/iptvreal/55225/4465
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB PITTSBURGH PIRATES" tvg-logo="http://www.stickpng.com/assets/images/584d40380a44bd1070d5d3f6.png" ,PITTSBURGH PIRATES
+http://mlsh1.com:2086/iptvreal/55225/4466
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB SAN DIEGO PADRES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/San_Diego_Padres_logo.svg/1024px-San_Diego_Padres_logo.svg.png" ,SAN DIEGO PADRES
+http://mlsh1.com:2086/iptvreal/55225/4467
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB SAN FRANCISCO GIANTS" tvg-logo="http://www.stickpng.com/assets/images/584d3dbd0a44bd1070d5d3c8.png" ,SAN FRANCISCO GIANTS
+http://mlsh1.com:2086/iptvreal/55225/4468
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB SEATTLE MARINERS" tvg-logo="https://th.bing.com/th/id/OIP.slFSoF9RDcdf9_a8u77fSQHaHa?pid=Api&rs=1" ,SEATTLE MARINERS
+http://mlsh1.com:2086/iptvreal/55225/4469
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB ST LOUIS CARDINALS" tvg-logo="http://www.stickpng.com/assets/images/584d3fc80a44bd1070d5d3ed.png" ,ST LOUIS CARDINALS
+http://mlsh1.com:2086/iptvreal/55225/4470
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB TAMPA BAY RAYS" tvg-logo="http://www.stickpng.com/assets/images/584d48780a44bd1070d5d469.png" ,TAMPA BAY RAYS
+http://mlsh1.com:2086/iptvreal/55225/4471
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB TEXAS RANGERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Texas_Rangers_logo.png" ,TEXAS RANGERS
+http://mlsh1.com:2086/iptvreal/55225/4472
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB TORONTO BLUE JAYS" tvg-logo="https://mlbreports.files.wordpress.com/2013/07/toronto-blue-jays1.jpg" ,TORONTO BLUE JAYS
+http://mlsh1.com:2086/iptvreal/55225/4473
+#EXTINF:-1 group-title="USA | MLB" tvg-id="mlbnetwork.us" tvg-name="USA: MLB WASHINGTON NATIONALS" tvg-logo="http://www.stickpng.com/assets/images/584d42110a44bd1070d5d417.png" ,WASHINGTON NATIONALS
+http://mlsh1.com:2086/iptvreal/55225/4474
