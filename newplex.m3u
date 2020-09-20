@@ -1,0 +1,1000 @@
+#EXTM3U url-tvg="http://192.168.178.20:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.178.20:34400/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.0" tvg-chno="1000" tvg-name="5 SELECT SD UK" tvg-id="1000" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1c/5Select.svg/revision/latest/scale-to-width-down/250?cb=20190919065146" group-title="ALLTV",5 SELECT SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/3b1932023c8cc3c75ee322cffea7b762
+#EXTINF:0 channelID="x-ID.1" tvg-chno="1001" tvg-name="5 SPIKE SD UK" tvg-id="1001" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7b/5Spike.svg/revision/latest/scale-to-width-down/300?cb=20171031125012" group-title="ALLTV",5 SPIKE SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e7d538b958b0a7b5749007642365a385
+#EXTINF:0 channelID="x-ID.2" tvg-chno="1002" tvg-name="5 STAR SD UK" tvg-id="1002" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/5Star_2019.svg/revision/latest/scale-to-width-down/250?cb=20190911204421" group-title="ALLTV",5 STAR SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/11725aa90339e2563a01847508860d27
+#EXTINF:0 channelID="x-ID.3" tvg-chno="1003" tvg-name="5 USA SD UK" tvg-id="1003" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/ed/5USA_logo_2016.svg/revision/latest/scale-to-width-down/250?cb=20190430121401" group-title="ALLTV",5 USA SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/53ff95a02ed9a50c4c6628b5bd182dca
+#EXTINF:0 channelID="x-ID.4" tvg-chno="1004" tvg-name="A&E" tvg-id="1004" tvg-logo="http://192.168.178.20:34400/images/56752158006044a75c73eb3b37ab3f9a.png" group-title="ALLTV",A&E
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5cfd980b9821ddc6e5cb90327503cab0
+#EXTINF:0 channelID="x-ID.5" tvg-chno="1005" tvg-name="ABC" tvg-id="1005" tvg-logo="http://192.168.178.20:34400/images/7a9e34ce6949a02d9e1df752e9183e01.png" group-title="ALLTV",ABC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f1ae54e4b58789eba6fc679490223f63
+#EXTINF:0 channelID="x-ID.6" tvg-chno="1006" tvg-name="ABC NEWS LIVE" tvg-id="1006" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6a/ABC_Newslogo.svg/revision/latest/scale-to-width-down/150?cb=20200716221007" group-title="ALLTV",ABC NEWS LIVE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0ccebf1dd351c835f575847caa7178ef
+#EXTINF:0 channelID="x-ID.7" tvg-chno="1007" tvg-name="ALIBI FHD UK" tvg-id="1007" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Alibi_2015.svg/revision/latest/scale-to-width-down/180?cb=20150708104409" group-title="ALLTV",ALIBI FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/adbd9e93e66fc144dbf4b7f0f9b5c758
+#EXTINF:0 channelID="x-ID.8" tvg-chno="1008" tvg-name="AMC" tvg-id="1008" tvg-logo="http://192.168.178.20:34400/images/518c7b5023ca80eccd1478968f78f578.png" group-title="ALLTV",AMC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/9a34b05dadba89f4f1b26fe81bbb7e2e
+#EXTINF:0 channelID="x-ID.9" tvg-chno="1009" tvg-name="AMERICAN HEROES CHANNEL" tvg-id="1009" tvg-logo="http://192.168.178.20:34400/images/475ca48b7149605e1e037be87cce6097.png" group-title="ALLTV",AMERICAN HEROES CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/4e748da77306fa0dbb5ce527d32c24b4
+#EXTINF:0 channelID="x-ID.10" tvg-chno="1010" tvg-name="ANIMAL PLANET" tvg-id="1010" tvg-logo="http://192.168.178.20:34400/images/6db8ceb4834ea43df7a01e686b40839c.png" group-title="ALLTV",ANIMAL PLANET
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/c8c0965e3ce00a650c03890a140fe5a5
+#EXTINF:0 channelID="x-ID.11" tvg-chno="1011" tvg-name="ANIMAL PLANET" tvg-id="1011" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20181016205525" group-title="ALLTV",ANIMAL PLANET
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/91bd7bafd0d7450c854273d23e2a3281
+#EXTINF:0 channelID="x-ID.12" tvg-chno="1012" tvg-name="ANIMAL PLANET HD UK" tvg-id="1012" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20181016205525" group-title="ALLTV",ANIMAL PLANET HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d6dcd9ffe4463fcd7017a53f10893db3
+#EXTINF:0 channelID="x-ID.13" tvg-chno="1013" tvg-name="ANTENNA TV" tvg-id="1013" tvg-logo="http://192.168.178.20:34400/images/2df0cf0951130a2e539de64150e4e03e.png" group-title="ALLTV",ANTENNA TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6d62049359d19a8cc2849e0894d9885f
+#EXTINF:0 channelID="x-ID.14" tvg-chno="1014" tvg-name="AXS TV" tvg-id="1014" tvg-logo="http://192.168.178.20:34400/images/a80a0ae904405898f400947b87e396fe.png" group-title="ALLTV",AXS TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/fb5d8a2c27468345309b854929059cbf
+#EXTINF:0 channelID="x-ID.15" tvg-chno="1015" tvg-name="BBC AMERICA" tvg-id="1015" tvg-logo="http://192.168.178.20:34400/images/b7b4dead35cb3145d1580c6459f74728.png" group-title="ALLTV",BBC AMERICA
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/85b1e759641c21b6805aafbb2f8ae442
+#EXTINF:0 channelID="x-ID.16" tvg-chno="1016" tvg-name="BBC CANADA" tvg-id="1016" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/BBC_Canada.svg/revision/latest/scale-to-width-down/300?cb=20181129225024" group-title="ALLTV",BBC CANADA
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/4b00e3308e5661a9a0f0f90cca24a4e4
+#EXTINF:0 channelID="x-ID.17" tvg-chno="1017" tvg-name="BBC NEWS UK" tvg-id="1017" tvg-logo="http://192.168.178.20:34400/images/8debd5b296fd691fb4c93170ab43f245.jpg" group-title="ALLTV",BBC NEWS UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6be534000db09dc4318207b940d0c0ea
+#EXTINF:0 channelID="x-ID.18" tvg-chno="1018" tvg-name="BBC ONE FHD UK" tvg-id="1018" tvg-logo="http://192.168.178.20:34400/images/0645ef8238ac4804050ff16525770bfe.jpg" group-title="ALLTV",BBC ONE FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/28f6939096947f310bcf049d7d81692c
+#EXTINF:0 channelID="x-ID.19" tvg-chno="1019" tvg-name="BBC TWO FHD UK" tvg-id="1019" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e5/BBC_Two.svg/revision/latest/scale-to-width-down/200?cb=20200816045342" group-title="ALLTV",BBC TWO FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/052784c2fa4287ee4690c4548fe06894
+#EXTINF:0 channelID="x-ID.20" tvg-chno="1020" tvg-name="BBC WORLD NEWS" tvg-id="1020" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/BBC_World_News_2019.svg/revision/latest/scale-to-width-down/200?cb=20191123221705" group-title="ALLTV",BBC WORLD NEWS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0fc7c7f4dacdb0d5a1837aeafe087cea
+#EXTINF:0 channelID="x-ID.21" tvg-chno="1021" tvg-name="BET" tvg-id="1021" tvg-logo="http://192.168.178.20:34400/images/ac1cc01c3d92e65b47b46ae98a0acdc9.png" group-title="ALLTV",BET
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/09f1b0aecab588a034d3d30c5d304e2f
+#EXTINF:0 channelID="x-ID.22" tvg-chno="1022" tvg-name="BET" tvg-id="1022" tvg-logo="http://192.168.178.20:34400/images/5fc0cdb10ac31580f9f3c0663953abc3.png" group-title="ALLTV",BET
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/09f1b0aecab588a034d3d30c5d304e2f
+#EXTINF:0 channelID="x-ID.23" tvg-chno="1023" tvg-name="BET HER" tvg-id="1023" tvg-logo="http://192.168.178.20:34400/images/043a7a65e735242c130ce2baea746c77.png" group-title="ALLTV",BET HER
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/8c3fd6187d3ea9a3007f8837062caec9
+#EXTINF:0 channelID="x-ID.24" tvg-chno="1024" tvg-name="BET INTERNATIONAL" tvg-id="1024" tvg-logo="http://192.168.178.20:34400/images/5fc0cdb10ac31580f9f3c0663953abc3.png" group-title="ALLTV",BET INTERNATIONAL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/fa1ef0a7b5088bdf739d353d791252f1
+#EXTINF:0 channelID="x-ID.25" tvg-chno="1025" tvg-name="BET JAMS" tvg-id="1025" tvg-logo="http://192.168.178.20:34400/images/902c664125b5bd024004e1d9ed39083e.png" group-title="ALLTV",BET JAMS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/bec9948c5fd42f476663b4ca07b254e0
+#EXTINF:0 channelID="x-ID.26" tvg-chno="1026" tvg-name="BET SOUL" tvg-id="1026" tvg-logo="http://192.168.178.20:34400/images/8d866b7acc486e4fac342a2c51f64b8a.png" group-title="ALLTV",BET SOUL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/27621b138584cf5c0ac87851e88089ff
+#EXTINF:0 channelID="x-ID.27" tvg-chno="1027" tvg-name="BLAZE HD UK" tvg-id="1027" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/48/Blaze.svg/revision/latest/scale-to-width-down/250?cb=20161029175136" group-title="ALLTV",BLAZE HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b40c0465a5907155527eb7383d4f819b
+#EXTINF:0 channelID="x-ID.28" tvg-chno="1028" tvg-name="BLOOMBERG" tvg-id="1028" tvg-logo="http://192.168.178.20:34400/images/ae09340b5e9d03defea14ca3958fba7d.png" group-title="ALLTV",BLOOMBERG
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6bd3a8937325693751ba95507bae7d5e
+#EXTINF:0 channelID="x-ID.30" tvg-chno="1030" tvg-name="BON APPETIT" tvg-id="1030" tvg-logo="http://192.168.178.20:34400/images/7c79971354c7c6c8c21c372865d3c9d0.png" group-title="ALLTV",BON APPETIT
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/70c02853cdcf1afa4cd500fb9793f1c8
+#EXTINF:0 channelID="x-ID.31" tvg-chno="1031" tvg-name="BOOK TV" tvg-id="1031" tvg-logo="http://192.168.178.20:34400/images/7b33b45be38430d44b6aeaa7bdc0476f.png" group-title="ALLTV",BOOK TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b23cf4a7f54e7eb35e0351792ac0bbf9
+#EXTINF:0 channelID="x-ID.32" tvg-chno="1032" tvg-name="BOOMERANG" tvg-id="1032" tvg-logo="http://192.168.178.20:34400/images/6f19afeb092b3602293f5b59a0229d20.png" group-title="ALLTV",BOOMERANG
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/055755b05fea34e961d30d73773dbc58
+#EXTINF:0 channelID="x-ID.33" tvg-chno="1033" tvg-name="BOOMERANG UK" tvg-id="1033" tvg-logo="http://192.168.178.20:34400/images/6f19afeb092b3602293f5b59a0229d20.png" group-title="ALLTV",BOOMERANG UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0076708f6a0f1e4a9394b977b2ea6415
+#EXTINF:0 channelID="x-ID.34" tvg-chno="1034" tvg-name="BOUNCE TV" tvg-id="1034" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Bounce_2017.png/revision/latest/scale-to-width-down/300?cb=20191020221233" group-title="ALLTV",BOUNCE TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6102f1be852d548e1f1d2128def35914
+#EXTINF:0 channelID="x-ID.35" tvg-chno="1035" tvg-name="BOX HITS UK" tvg-id="1035" tvg-logo="http://192.168.178.20:34400/images/5a182aa6da7a79833de3a52c47cbc996.png" group-title="ALLTV",BOX HITS UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/4b366d165a3e8c73887552e4d530f538
+#EXTINF:0 channelID="x-ID.36" tvg-chno="1036" tvg-name="BRAVO" tvg-id="1036" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Bravo%21_Canada.svg/revision/latest/scale-to-width-down/250?cb=20100815070057" group-title="ALLTV",BRAVO
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/8f9b0128781aadd3a96d8a90dc17b63d
+#EXTINF:0 channelID="x-ID.37" tvg-chno="1037" tvg-name="BRAVO" tvg-id="1037" tvg-logo="http://192.168.178.20:34400/images/7cd0d82f8277702ad54612471de29534.png" group-title="ALLTV",BRAVO
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/8f9b0128781aadd3a96d8a90dc17b63d
+#EXTINF:0 channelID="x-ID.38" tvg-chno="1038" tvg-name="BRAVO (WEST)" tvg-id="1038" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3e/Bravo_TV.svg/revision/latest/scale-to-width-down/200?cb=20180730145434" group-title="ALLTV",BRAVO (WEST)
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/936fc523520f5ec7101986bcd038b2b2
+#EXTINF:0 channelID="x-ID.39" tvg-chno="1039" tvg-name="BUZZER TV" tvg-id="1039" tvg-logo="http://192.168.178.20:34400/images/e7303e46a4869b1a1ff367213997e6eb.png" group-title="ALLTV",BUZZER TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/4cf3a3d41d8f0385478320ad2823fd36
+#EXTINF:0 channelID="x-ID.40" tvg-chno="1040" tvg-name="CARTOON NETWORK" tvg-id="1040" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/27/Cartoon_Network_1992.svg/revision/latest/scale-to-width-down/250?cb=20190305210028" group-title="ALLTV",CARTOON NETWORK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2ba598dfb9e9893e62671d85c373a468
+#EXTINF:0 channelID="x-ID.41" tvg-chno="1041" tvg-name="CARTOON NETWORK" tvg-id="1041" tvg-logo="http://192.168.178.20:34400/images/76e091638a55f55bf19d8a9d73d48d02.png" group-title="ALLTV",CARTOON NETWORK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2ba598dfb9e9893e62671d85c373a468
+#EXTINF:0 channelID="x-ID.42" tvg-chno="1042" tvg-name="CARTOON NETWORK UK" tvg-id="1042" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/Cartoon_Network_2004.svg/revision/latest/scale-to-width-down/250?cb=20181129141625" group-title="ALLTV",CARTOON NETWORK UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/cf55560e938495d9d08f2a3497592313
+#EXTINF:0 channelID="x-ID.43" tvg-chno="1043" tvg-name="CARTOONITO UK" tvg-id="1043" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4c/Cartoonito.svg/revision/latest/scale-to-width-down/300?cb=20200623201550" group-title="ALLTV",CARTOONITO UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/dfb70fbb31d3435120d50f90738fef07
+#EXTINF:0 channelID="x-ID.45" tvg-chno="1045" tvg-name="CBBC UK" tvg-id="1045" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cf/Cbbc-logo.svg/revision/latest/scale-to-width-down/170?cb=20180511151052" group-title="ALLTV",CBBC UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/c39386ce9ef7d2d9a8c769c8daee4ea5
+#EXTINF:0 channelID="x-ID.46" tvg-chno="1046" tvg-name="CBEEBIES UK" tvg-id="1046" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7a/Cbeebies.svg/revision/latest/scale-to-width-down/300?cb=20091108144549" group-title="ALLTV",CBEEBIES UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/303ce25ad7123bee7939ae3a996e7b48
+#EXTINF:0 channelID="x-ID.47" tvg-chno="1047" tvg-name="CBS DRAMA SD UK" tvg-id="1047" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c4/CBS_Drama_2013.svg/revision/latest/scale-to-width-down/300?cb=20171202082322" group-title="ALLTV",CBS DRAMA SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/1ca78b78595362aae2be1bd707fa5a5a
+#EXTINF:0 channelID="x-ID.48" tvg-chno="1048" tvg-name="CBS REALITY SD UK" tvg-id="1048" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/CBS_Reality_%282012%29.svg/revision/latest/scale-to-width-down/300?cb=20160214214520" group-title="ALLTV",CBS REALITY SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/8b41b1839e119a7444538210580a33cc
+#EXTINF:0 channelID="x-ID.49" tvg-chno="1049" tvg-name="CHALLENGE SD UK" tvg-id="1049" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Challenge16.png/revision/latest/scale-to-width-down/250?cb=20160623121640" group-title="ALLTV",CHALLENGE SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/650b01b80eafd461110917f913eab9c7
+#EXTINF:0 channelID="x-ID.50" tvg-chno="1050" tvg-name="CHANNEL 4 FHD UK" tvg-id="1050" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Channel_4_2015.svg/revision/latest/scale-to-width-down/128?cb=20181107235925" group-title="ALLTV",CHANNEL 4 FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/de9ff9466e3c6c46238a65015911d9eb
+#EXTINF:0 channelID="x-ID.51" tvg-chno="1051" tvg-name="MORE4 FHD UK" tvg-id="1051" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/More4_2018.svg/revision/latest/scale-to-width-down/200?cb=20180927102632" group-title="ALLTV",MORE4 FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0e184715ee8d953f5497fe3c306bea6f
+#EXTINF:0 channelID="x-ID.52" tvg-chno="1052" tvg-name="4 SEVEN FHD UK" tvg-id="1052" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/4Seven_2018.svg/revision/latest/scale-to-width-down/150?cb=20180927102458" group-title="ALLTV",4 SEVEN FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2839e420004bf074d690ad3cf6d3bc29
+#EXTINF:0 channelID="x-ID.53" tvg-chno="1053" tvg-name="CHANNEL 5 FHD UK" tvg-id="1053" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9d/Channel_5_2016.svg/revision/latest/scale-to-width-down/130?cb=20160211232158" group-title="ALLTV",CHANNEL 5 FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/83c9d7ab596a79a1da74d826628e7e29
+#EXTINF:0 channelID="x-ID.54" tvg-chno="1054" tvg-name="CHCH" tvg-id="1054" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/CHCH_logo_2010.svg/revision/latest/scale-to-width-down/200?cb=20140728023518" group-title="ALLTV",CHCH
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/20fcf2f2b12c8bb13950fe716ba383d3
+#EXTINF:0 channelID="x-ID.55" tvg-chno="1055" tvg-name="Clubland" tvg-id="1055" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/41/Clubland_TV_%28inverted_colours%29.png/revision/latest?cb=20200814160209" group-title="ALLTV",Clubland
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/9dc92241d0cf1e791d45fec6ea6e49fd
+#EXTINF:0 channelID="x-ID.56" tvg-chno="1056" tvg-name="CMT" tvg-id="1056" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/02/CMT_logo.svg/revision/latest/scale-to-width-down/250?cb=20151127152654" group-title="ALLTV",CMT
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/780f7e1d877dfb3ec822d7f9778094d4
+#EXTINF:0 channelID="x-ID.57" tvg-chno="1057" tvg-name="CMT CANADA" tvg-id="1057" tvg-logo="http://192.168.178.20:34400/images/c73146a517a52715c13f59b6e54a449f.png" group-title="ALLTV",CMT CANADA
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5330ed1d0efce31b57a953e5e543a1f1
+#EXTINF:0 channelID="x-ID.58" tvg-chno="1058" tvg-name="CNBC" tvg-id="1058" tvg-logo="http://192.168.178.20:34400/images/7cfd045a416babd64d5ff39761eee2dd.png" group-title="ALLTV",CNBC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/151b650e44ce20e43bc803a9666f6849
+#EXTINF:0 channelID="x-ID.59" tvg-chno="1059" tvg-name="CNN" tvg-id="1059" tvg-logo="http://192.168.178.20:34400/images/74d7dbc2f8ef5e46057ee081169763c7.png" group-title="ALLTV",CNN
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/bc5b58a8be37210148e54e4a4b99f68a
+#EXTINF:0 channelID="x-ID.60" tvg-chno="1060" tvg-name="COMEDY CENTRAL" tvg-id="1060" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Comedy_Central_2018_%28Stacked%29.svg/revision/latest/scale-to-width-down/113?cb=20191213112009" group-title="ALLTV",COMEDY CENTRAL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/52c9ee7352c2402c758f5402a90f190a
+#EXTINF:0 channelID="x-ID.61" tvg-chno="1061" tvg-name="COMEDY CENTRAL (WEST)" tvg-id="1061" tvg-logo="http://192.168.178.20:34400/images/3e3b34e7355de045f127fb408512cfb1.png" group-title="ALLTV",COMEDY CENTRAL (WEST)
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/fefbfef092ad9a18ddf0bcec1444920e
+#EXTINF:0 channelID="x-ID.62" tvg-chno="1062" tvg-name="COMEDY CENTRAL FHD UK" tvg-id="1062" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Comedy_Central_2018_%28Stacked_II%29.svg/revision/latest/scale-to-width-down/163?cb=20191213112017" group-title="ALLTV",COMEDY CENTRAL FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/3ad1b62fb8d82332a5f2e675fc8d6aa7
+#EXTINF:0 channelID="x-ID.63" tvg-chno="1063" tvg-name="COMEDY XTRA SD UK" tvg-id="1063" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c6/Comedy_Central_Extra_2018_%28Stacked%29.svg/revision/latest/scale-to-width-down/150?cb=20191223064644" group-title="ALLTV",COMEDY XTRA SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f0ca808ae076fc29c5ca8591cce8d350
+#EXTINF:0 channelID="x-ID.64" tvg-chno="1064" tvg-name="COMET" tvg-id="1064" tvg-logo="http://192.168.178.20:34400/images/4a6906ac924d95086905f98676b61029.png" group-title="ALLTV",COMET
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/cfbb1a07366c05d088fc1c14cbec8cc7
+#EXTINF:0 channelID="x-ID.65" tvg-chno="1065" tvg-name="COOKING CHANNEL" tvg-id="1065" tvg-logo="http://192.168.178.20:34400/images/f79525f54a8436791b90d9814bf2ab3b.png" group-title="ALLTV",COOKING CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b291362c79616731965d4cfaa616c9bf
+#EXTINF:0 channelID="x-ID.69" tvg-chno="1069" tvg-name="CTV" tvg-id="1069" tvg-logo="http://192.168.178.20:34400/images/241d2c24ce3c5f8ca39ace4df3700542.png" group-title="ALLTV",CTV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/aae7f8e31ddee6faa1dd3ca1b68ab31d
+#EXTINF:0 channelID="x-ID.70" tvg-chno="1070" tvg-name="CTV 2" tvg-id="1070" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/CTV_2_2018.svg/revision/latest/scale-to-width-down/250?cb=20180927105257" group-title="ALLTV",CTV 2
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/3e9a9990e807acce1d1d811fd5b5176e
+#EXTINF:0 channelID="x-ID.71" tvg-chno="1071" tvg-name="CTV COMEDY" tvg-id="1071" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/CTV_Comedy_Channel_2019.svg/revision/latest/scale-to-width-down/230?cb=20190912200854" group-title="ALLTV",CTV COMEDY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0cceb8d3b4d619273c4f06107f0008d4
+#EXTINF:0 channelID="x-ID.72" tvg-chno="1072" tvg-name="CW" tvg-id="1072" tvg-logo="http://192.168.178.20:34400/images/d583255f802203927d649dccbc47177a.png" group-title="ALLTV",CW
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/9c32d14d88e21d22ebbb63ad2324bc2d
+#EXTINF:0 channelID="x-ID.73" tvg-chno="1073" tvg-name="Dave FHD UK" tvg-id="1073" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/Dave_logo_%28circle%29.svg/revision/latest/scale-to-width-down/100?cb=20120209234339" group-title="ALLTV",Dave FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/68e4a9492a28925a29e9b8ceadcd7326
+#EXTINF:0 channelID="x-ID.74" tvg-chno="1074" tvg-name="DAVE JA VU SD UK" tvg-id="1074" tvg-logo="http://192.168.178.20:34400/images/cf30f30b5cced027537c33a7fc46ad70.png" group-title="ALLTV",DAVE JA VU SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b9f0aea668889bb005ae8fc8d5add77a
+#EXTINF:0 channelID="x-ID.75" tvg-chno="1075" tvg-name="DESTINATION AMERICA" tvg-id="1075" tvg-logo="http://192.168.178.20:34400/images/36a50572e8c4c822f52e2c7f7c19bfca.png" group-title="ALLTV",DESTINATION AMERICA
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/56d760dfa19c24d14a259f7381f0dab7
+#EXTINF:0 channelID="x-ID.76" tvg-chno="1076" tvg-name="DMAX SD UK" tvg-id="1076" tvg-logo="http://192.168.178.20:34400/images/79a02a4c26ed5c6b9b3170b7e8c92937.png" group-title="ALLTV",DMAX SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2878b5f1f037e2f886719de79525b4ae
+#EXTINF:0 channelID="x-ID.77" tvg-chno="1077" tvg-name="DISCOVERY CHANNEL" tvg-id="1077" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/DSC_DGlobe_2016_Reverse.svg/revision/latest/scale-to-width-down/200?cb=20170504003819" group-title="ALLTV",DISCOVERY CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/ec33807bc2b39f839f3b3d94f31f2bcd
+#EXTINF:0 channelID="x-ID.78" tvg-chno="1078" tvg-name="DISCOVERY CHANNEL" tvg-id="1078" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430" group-title="ALLTV",DISCOVERY CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/ec33807bc2b39f839f3b3d94f31f2bcd
+#EXTINF:0 channelID="x-ID.79" tvg-chno="1079" tvg-name="DISCOVERY CHANNEL HD UK" tvg-id="1079" tvg-logo="http://192.168.178.20:34400/images/534aff80eff82600a11ed27f9f3a4340.png" group-title="ALLTV",DISCOVERY CHANNEL HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b61df10c891be13bfe51351a554b9a69
+#EXTINF:0 channelID="x-ID.80" tvg-chno="1080" tvg-name="DISCOVERY FAMILY" tvg-id="1080" tvg-logo="http://192.168.178.20:34400/images/04edc72639339b5281fb520d5efcfc65.png" group-title="ALLTV",DISCOVERY FAMILY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e54c815e629907ef54fe5fe2c4f2f524
+#EXTINF:0 channelID="x-ID.81" tvg-chno="1081" tvg-name="DISCOVERY HISTORY SD UK" tvg-id="1081" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Discovery-history-2010-logo.png/revision/latest/scale-to-width-down/270?cb=20180719041840" group-title="ALLTV",DISCOVERY HISTORY SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/1a20424a4cf98c9ba987e51bf076916d
+#EXTINF:0 channelID="x-ID.82" tvg-chno="1082" tvg-name="DISCOVERY LIFE" tvg-id="1082" tvg-logo="http://192.168.178.20:34400/images/ccca51d2a3cca7a1b67c25c055c08987.png" group-title="ALLTV",DISCOVERY LIFE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/cea3663c9791b648c9c3d0eecd75daa0
+#EXTINF:0 channelID="x-ID.83" tvg-chno="1083" tvg-name="DISCOVERY SCIENCE" tvg-id="1083" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Discovery_Science_2017.svg/revision/latest/scale-to-width-down/220?cb=20191226125532" group-title="ALLTV",DISCOVERY SCIENCE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b924352a5abf408bf1484db056a4f04b
+#EXTINF:0 channelID="x-ID.84" tvg-chno="1084" tvg-name="DISCOVERY SCIENCE" tvg-id="1084" tvg-logo="http://192.168.178.20:34400/images/53efc2d379dc9aa19dd458cbf8e17efb.png" group-title="ALLTV",DISCOVERY SCIENCE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b924352a5abf408bf1484db056a4f04b
+#EXTINF:0 channelID="x-ID.85" tvg-chno="1085" tvg-name="DISCOVERY SHED SD UK" tvg-id="1085" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Discovery_Shed_logo_distressed_silver.png/revision/latest/scale-to-width-down/200?cb=20100413144844" group-title="ALLTV",DISCOVERY SHED SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d2dc86bbf772a6ec2fa4e4ae9a23bf5c
+#EXTINF:0 channelID="x-ID.86" tvg-chno="1086" tvg-name="DISCOVERY VELOCITY" tvg-id="1086" tvg-logo="http://192.168.178.20:34400/images/db24b7a300e4f02aaefd09b05d957e33.png" group-title="ALLTV",DISCOVERY VELOCITY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/3b31b8894d4b8778054f49227bc78019
+#EXTINF:0 channelID="x-ID.87" tvg-chno="1087" tvg-name="DISCOVERY TURBO UK" tvg-id="1087" tvg-logo="https://skynz.akamaized.net/documents/24003/50987/MK_DiscoveryTurbo_LogoInvert_250x180.png/8452b9c3-c7a9-4eac-9a75-b00640de0526" group-title="ALLTV",DISCOVERY TURBO UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/27b8a70155cb578de5a839856ab71fc5
+#EXTINF:0 channelID="x-ID.88" tvg-chno="1088" tvg-name="CRIME & INVESTIGATION HD" tvg-id="1088" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/37/C%26I_logo.svg/revision/latest/scale-to-width-down/200?cb=20190613183256" group-title="ALLTV",CRIME & INVESTIGATION HD
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/960d653fa568d79529754ff3897901d9
+#EXTINF:0 channelID="x-ID.89" tvg-chno="1089" tvg-name="CRIME + INVESTIGATION" tvg-id="1089" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/C%26I_2019.svg/revision/latest/scale-to-width-down/200?cb=20190613183158" group-title="ALLTV",CRIME + INVESTIGATION
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/84f9b2201bf810e9147f2dbaa27bf3df
+#EXTINF:0 channelID="x-ID.90" tvg-chno="1090" tvg-name="CRIME AND INVESTIGATION" tvg-id="1090" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/Crime_Investigation_HD.png/revision/latest/scale-to-width-down/185?cb=20200608122932" group-title="ALLTV",CRIME AND INVESTIGATION
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e76c11ed3a8c1cd081bffda4a330c841
+#EXTINF:0 channelID="x-ID.91" tvg-chno="1091" tvg-name="INVESTIGATION DISCOVERY" tvg-id="1091" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5a/Investigation_Discovery_HD.png/revision/latest?cb=20151128232026" group-title="ALLTV",INVESTIGATION DISCOVERY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/4835dc6362a42f7699abe186921e169c
+#EXTINF:0 channelID="x-ID.92" tvg-chno="1092" tvg-name="INVESTIGATION DISCOVERY" tvg-id="1092" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Investigation_Discovery_2010.png/revision/latest/scale-to-width-down/200?cb=20171211080015" group-title="ALLTV",INVESTIGATION DISCOVERY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/4835dc6362a42f7699abe186921e169c
+#EXTINF:0 channelID="x-ID.93" tvg-chno="1093" tvg-name="INVESTIGATION DISCOVERY SD UK" tvg-id="1093" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Investigation_Discovery.png/revision/latest/scale-to-width-down/200?cb=20171215183552" group-title="ALLTV",INVESTIGATION DISCOVERY SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/ab04a6a3886b5fbd77db7929e4135827
+#EXTINF:0 channelID="x-ID.94" tvg-chno="1094" tvg-name="DISNEY CHANNEL" tvg-id="1094" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/Disney_channel_2019.svg/revision/latest/scale-to-width-down/250?cb=20200320115508" group-title="ALLTV",DISNEY CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/47f9a31451f43651150ad30868a10e1e
+#EXTINF:0 channelID="x-ID.95" tvg-chno="1095" tvg-name="DISNEY CHANNEL" tvg-id="1095" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6e/Disney_Channel_2017.svg/revision/latest/scale-to-width-down/250?cb=20180412093654" group-title="ALLTV",DISNEY CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/553f558a12523d7fa55935f45c1fac28
+#EXTINF:0 channelID="x-ID.96" tvg-chno="1096" tvg-name="DISNEY JNR" tvg-id="1096" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/Disney_Junior.svg/revision/latest/scale-to-width-down/250?cb=20170831161603" group-title="ALLTV",DISNEY JNR
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/54fdf99a59f8e406fd774de0d483cd5b
+#EXTINF:0 channelID="x-ID.97" tvg-chno="1097" tvg-name="DISNEY JUNIOR" tvg-id="1097" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/19/Disney_Junior_%28Print%29.svg/revision/latest/scale-to-width-down/185?cb=20191021035402" group-title="ALLTV",DISNEY JUNIOR
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5f45ca1761c77e0ef679435c7f6a7e9a
+#EXTINF:0 channelID="x-ID.98" tvg-chno="1098" tvg-name="DISNEY JUNIOR UK" tvg-id="1098" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bb/Disney_Junior.svg/revision/latest/scale-to-width-down/250?cb=20170831161603" group-title="ALLTV",DISNEY JUNIOR UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/3225baef4fa1176a640f2640b3fe1a49
+#EXTINF:0 channelID="x-ID.99" tvg-chno="1099" tvg-name="DISNEY XD" tvg-id="1099" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest/scale-to-width-down/200?cb=20180903211953" group-title="ALLTV",DISNEY XD
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e9e95ae1da25d1ad548a3c16b71807a0
+#EXTINF:0 channelID="x-ID.100" tvg-chno="1100" tvg-name="DISNEY XD" tvg-id="1100" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest/scale-to-width-down/250?cb=20171202144958" group-title="ALLTV",DISNEY XD
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/645d508a4262b55add6e000bc46b35ee
+#EXTINF:0 channelID="x-ID.101" tvg-chno="1101" tvg-name="DISNEY XD UK" tvg-id="1101" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest/scale-to-width-down/200?cb=20180903211953" group-title="ALLTV",DISNEY XD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5a070a4d361edd1efe194af01f6880cd
+#EXTINF:0 channelID="x-ID.102" tvg-chno="1102" tvg-name="DIY NETWORK" tvg-id="1102" tvg-logo="http://192.168.178.20:34400/images/20cd5b4e15661c987ad738f0d8f20dce.png" group-title="ALLTV",DIY NETWORK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/94c7c1bbb31e6ee637d5b2347b590381
+#EXTINF:0 channelID="x-ID.103" tvg-chno="1103" tvg-name="DO IT YOURSELF (DIY)" tvg-id="1103" tvg-logo="http://192.168.178.20:34400/images/20cd5b4e15661c987ad738f0d8f20dce.png" group-title="ALLTV",DO IT YOURSELF (DIY)
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/c113b277497f8a6d4538e3466bd3b6f0
+#EXTINF:0 channelID="x-ID.104" tvg-chno="1104" tvg-name="DOCUMENTARY" tvg-id="1104" tvg-logo="http://192.168.178.20:34400/images/2ec5f04ffd999c8386222e1b3d72ad12.png" group-title="ALLTV",DOCUMENTARY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d7896b0d39c45fe9cfdee230fff6d9f6
+#EXTINF:0 channelID="x-ID.105" tvg-chno="1105" tvg-name="DRAMA SD UK" tvg-id="1105" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/94/2000px-Drama_Circle_Logo_%282013%29_svg.png/revision/latest/scale-to-width-down/185?cb=20140323212832" group-title="ALLTV",DRAMA SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/192222af52e6518eacb3b8c45a979bbe
+#EXTINF:0 channelID="x-ID.106" tvg-chno="1106" tvg-name="DTOUR" tvg-id="1106" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/DTour.svg/revision/latest/scale-to-width-down/300?cb=20160628203018" group-title="ALLTV",DTOUR
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/54f729387c69eb0a735ddf272d9d4781
+#EXTINF:0 channelID="x-ID.107" tvg-chno="1107" tvg-name="E! ENTERTAINMENT" tvg-id="1107" tvg-logo="http://192.168.178.20:34400/images/76cc54e80484a39010de54e40b433b03.png" group-title="ALLTV",E! ENTERTAINMENT
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e4b89e95ed2c7773a65aed1627404156
+#EXTINF:0 channelID="x-ID.108" tvg-chno="1108" tvg-name="E! ENTERTAINMENT FHD UK" tvg-id="1108" tvg-logo="http://192.168.178.20:34400/images/76cc54e80484a39010de54e40b433b03.png" group-title="ALLTV",E! ENTERTAINMENT FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/52d8dc8cae1cbc7c3c6734b7fc7a79f4
+#EXTINF:0 channelID="x-ID.109" tvg-chno="1109" tvg-name="E! ENTERTAINMENT TELEVISION" tvg-id="1109" tvg-logo="http://192.168.178.20:34400/images/76cc54e80484a39010de54e40b433b03.png" group-title="ALLTV",E! ENTERTAINMENT TELEVISION
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/af6f30380a23b5ce19afd07638277cb6
+#EXTINF:0 channelID="x-ID.110" tvg-chno="1110" tvg-name="E4 FHD UK" tvg-id="1110" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c6/E4_2018.svg/revision/latest/scale-to-width-down/150?cb=20180927102528" group-title="ALLTV",E4 FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e24777d63b1ca5f86e1a248756a7ec6c
+#EXTINF:0 channelID="x-ID.111" tvg-chno="1111" tvg-name="EDEN HD UK" tvg-id="1111" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c5/Eden_circle_logo_2009.png/revision/latest?cb=20120506211705" group-title="ALLTV",EDEN HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/1b13e3a833c1d0f39a819d2987aed1ba
+#EXTINF:0 channelID="x-ID.112" tvg-chno="1112" tvg-name="EL REY NETWORK" tvg-id="1112" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/58/El_Rey_Network.svg/revision/latest/scale-to-width-down/250?cb=20161003203159" group-title="ALLTV",EL REY NETWORK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f65d0f6b0828ca9d85335789632ad0b9
+#EXTINF:0 channelID="x-ID.113" tvg-chno="1113" tvg-name="FAMILY" tvg-id="1113" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2e/Family_logo_blacktext_2.png/revision/latest?cb=20171211030636" group-title="ALLTV",FAMILY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5b4f189db9880325a353a041325236dc
+#EXTINF:0 channelID="x-ID.114" tvg-chno="1114" tvg-name="FIGHT NETWORK" tvg-id="1114" tvg-logo="http://192.168.178.20:34400/images/5e12a1216f85e32a7ccd2c98d14db027.png" group-title="ALLTV",FIGHT NETWORK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/48512a8ce9cbba8c96839c537e4c0536
+#EXTINF:0 channelID="x-ID.115" tvg-chno="1115" tvg-name="FOOD NETWORK" tvg-id="1115" tvg-logo="http://192.168.178.20:34400/images/075c7781d2266529f7578770c5f96823.png" group-title="ALLTV",FOOD NETWORK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e47e51eb0395f7de6b0523cf4a9cb703
+#EXTINF:0 channelID="x-ID.116" tvg-chno="1116" tvg-name="FOOD NETWORK" tvg-id="1116" tvg-logo="http://192.168.178.20:34400/images/075c7781d2266529f7578770c5f96823.png" group-title="ALLTV",FOOD NETWORK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/081a823500f7ba092922bca682a3f169
+#EXTINF:0 channelID="x-ID.117" tvg-chno="1117" tvg-name="FOOD NETWORK HD UK" tvg-id="1117" tvg-logo="http://192.168.178.20:34400/images/075c7781d2266529f7578770c5f96823.png" group-title="ALLTV",FOOD NETWORK HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0c4f8d3a47439f8434fee211d463c47b
+#EXTINF:0 channelID="x-ID.118" tvg-chno="1118" tvg-name="FORCES TV SD UK" tvg-id="1118" tvg-logo="http://192.168.178.20:34400/images/b1f71cfa8afdad3b113dd52ada7663c7.png" group-title="ALLTV",FORCES TV SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/88c591ad4d0b6fe86f5823422e1c828d
+#EXTINF:0 channelID="x-ID.119" tvg-chno="1119" tvg-name="FOX FHD UK" tvg-id="1119" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/FoxBCLogo2019.svg/revision/latest/scale-to-width-down/200?cb=20191121082502" group-title="ALLTV",FOX FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d2a8b62d00f4f542f2b69d723e36c4b0
+#EXTINF:0 channelID="x-ID.120" tvg-chno="1120" tvg-name="FOX NEWS" tvg-id="1120" tvg-logo="http://192.168.178.20:34400/images/6839bae2089c1997fccfec5b090877ae.png" group-title="ALLTV",FOX NEWS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/c95601062ef54661d0fc6e5c30b4a666
+#EXTINF:0 channelID="x-ID.121" tvg-chno="1121" tvg-name="FREE SPEECH TV" tvg-id="1121" tvg-logo="http://192.168.178.20:34400/images/59260cf4fcca3625ed4c769a302b8521.png" group-title="ALLTV",FREE SPEECH TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/69fb39e3310839ba1bf422ec1ac75a20
+#EXTINF:0 channelID="x-ID.122" tvg-chno="1122" tvg-name="FUSE" tvg-id="1122" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b1/Fuse_Orange_logo.png/revision/latest/scale-to-width-down/185?cb=20151002233652" group-title="ALLTV",FUSE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/58eaa554c16e826f5840326b0b7f4775
+#EXTINF:0 channelID="x-ID.123" tvg-chno="1123" tvg-name="FX" tvg-id="1123" tvg-logo="http://192.168.178.20:34400/images/62d6db4705dbc517ea3cc001996089d8.png" group-title="ALLTV",FX
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b05d80f4531d9b9e3092ad08ba78089d
+#EXTINF:0 channelID="x-ID.124" tvg-chno="1124" tvg-name="FXX" tvg-id="1124" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/30/FXX.svg/revision/latest/scale-to-width-down/200?cb=20200720113828" group-title="ALLTV",FXX
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f2f1ab133d534138fac15db318099e29
+#EXTINF:0 channelID="x-ID.125" tvg-chno="1125" tvg-name="FYI" tvg-id="1125" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/FYI.svg/revision/latest/scale-to-width-down/185?cb=20140710000601" group-title="ALLTV",FYI
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/a6ba03549828a4a8a6e937f8683ffa6f
+#EXTINF:0 channelID="x-ID.126" tvg-chno="1126" tvg-name="FYI" tvg-id="1126" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/FYI%2C_logo.svg/revision/latest/scale-to-width-down/200?cb=20180402213328" group-title="ALLTV",FYI
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/92c384e2f47e3299110f0320d616e323
+#EXTINF:0 channelID="x-ID.127" tvg-chno="1127" tvg-name="GAME SHOW NETWORK (GSN)" tvg-id="1127" tvg-logo="http://192.168.178.20:34400/images/e52c7b7d60861f3d711d4b6092d84f74.png" group-title="ALLTV",GAME SHOW NETWORK (GSN)
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f9701c800220dd86cb38ae7b1076a4bd
+#EXTINF:0 channelID="x-ID.128" tvg-chno="1128" tvg-name="GOLD FHD UK" tvg-id="1128" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c8/Gold_2014.svg/revision/latest/scale-to-width-down/250?cb=20190220190354" group-title="ALLTV",GOLD FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b2972ecd1527327f3cf8a96bcc21cb8e
+#EXTINF:0 channelID="x-ID.129" tvg-chno="1129" tvg-name="GREAT AMERICAN COUNTRY" tvg-id="1129" tvg-logo="http://192.168.178.20:34400/images/c1652aa4d44bb0ebfde8ad335dfcc3b6.png" group-title="ALLTV",GREAT AMERICAN COUNTRY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b4a78c18c0fe87992ceedb54b05e4558
+#EXTINF:0 channelID="x-ID.130" tvg-chno="1130" tvg-name="GRIT" tvg-id="1130" tvg-logo="http://192.168.178.20:34400/images/9c5c3d6e9f01fc5d0f7b554ab804fc47.png" group-title="ALLTV",GRIT
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/550dd28663b68f14149ded02ab05fa33
+#EXTINF:0 channelID="x-ID.131" tvg-chno="1131" tvg-name="H2" tvg-id="1131" tvg-logo="http://192.168.178.20:34400/images/f02562edf7962865b1e30176af8d0936.png" group-title="ALLTV",H2
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f6eb9f9c4fe1ff92dacd5847cfdf474b
+#EXTINF:0 channelID="x-ID.132" tvg-chno="1132" tvg-name="HBO 1" tvg-id="1132" tvg-logo="http://192.168.178.20:34400/images/10f26c48d6287def0a0b30e8bd42ebb4.png" group-title="ALLTV",HBO 1
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/1606b187fe7c06ca88fe6b91a6777ae6
+#EXTINF:0 channelID="x-ID.133" tvg-chno="1133" tvg-name="HBO 2" tvg-id="1133" tvg-logo="http://192.168.178.20:34400/images/2eb234da94801b38473ff13f293e4f12.png" group-title="ALLTV",HBO 2
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/804613dcaacc8cc79945f6a01cbeeb6d
+#EXTINF:0 channelID="x-ID.134" tvg-chno="1134" tvg-name="HEROS & ICONS" tvg-id="1134" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Heroes_%26_Icons.svg/revision/latest/scale-to-width-down/340?cb=20181202160344" group-title="ALLTV",HEROS & ICONS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/31945d8eced60c547a0f3995285b56c5
+#EXTINF:0 channelID="x-ID.135" tvg-chno="1135" tvg-name="HGTV" tvg-id="1135" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/250?cb=20160923010948" group-title="ALLTV",HGTV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/a64f10fa8e28001635e7c6e02c23602d
+#EXTINF:0 channelID="x-ID.136" tvg-chno="1136" tvg-name="HGTV" tvg-id="1136" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest/scale-to-width-down/250?cb=20160923010948" group-title="ALLTV",HGTV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/a64f10fa8e28001635e7c6e02c23602d
+#EXTINF:0 channelID="x-ID.137" tvg-chno="1137" tvg-name="HISTORY 2 HD UK" tvg-id="1137" tvg-logo="http://192.168.178.20:34400/images/ac3e21dc190c396c7f6b68b9171fad9f.png" group-title="ALLTV",HISTORY 2 HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f41245f5aadc88d83eec15ffc37276ca
+#EXTINF:0 channelID="x-ID.138" tvg-chno="1138" tvg-name="HISTORY CHANNEL" tvg-id="1138" tvg-logo="http://192.168.178.20:34400/images/fe96de69e9602bab978692aa28859065.png" group-title="ALLTV",HISTORY CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/58ddd78a82160bb8ec31a50ffd9423a1
+#EXTINF:0 channelID="x-ID.139" tvg-chno="1139" tvg-name="HISTORY CHANNEL" tvg-id="1139" tvg-logo="http://192.168.178.20:34400/images/fe96de69e9602bab978692aa28859065.png" group-title="ALLTV",HISTORY CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/58ddd78a82160bb8ec31a50ffd9423a1
+#EXTINF:0 channelID="x-ID.140" tvg-chno="1140" tvg-name="HLN" tvg-id="1140" tvg-logo="http://192.168.178.20:34400/images/a649ffb54d875102560a1524cd0dea7c.png" group-title="ALLTV",HLN
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/854949ca90cc4df91bddcdc036370f28
+#EXTINF:0 channelID="x-ID.141" tvg-chno="1141" tvg-name="HOLLYWIRE" tvg-id="1141" tvg-logo="http://192.168.178.20:34400/images/2f2a87f7434a9f2c18ad88179f881e88.jpg" group-title="ALLTV",HOLLYWIRE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/1964c8224641341b9df49ba2a2876226
+#EXTINF:0 channelID="x-ID.142" tvg-chno="1142" tvg-name="HOME & HEALTH UK" tvg-id="1142" tvg-logo="http://192.168.178.20:34400/images/b65ef15b735614343392d95d4cbd2700.jpg" group-title="ALLTV",HOME & HEALTH UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/388fd66f38bc840cf96a8f77d803c7ab
+#EXTINF:0 channelID="x-ID.143" tvg-chno="1143" tvg-name="HOME SD UK" tvg-id="1143" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/Home_red.svg/revision/latest/scale-to-width-down/170?cb=20140117194403" group-title="ALLTV",HOME SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/940c84870101083eb9a1bb5f6775c8b9
+#EXTINF:0 channelID="x-ID.144" tvg-chno="1144" tvg-name="HSN 2" tvg-id="1144" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/16/Hsn2.jpg/revision/latest/scale-to-width-down/250?cb=20140319104458" group-title="ALLTV",HSN 2
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6960c30ba8b981ca67cef8da04629991
+#EXTINF:0 channelID="x-ID.145" tvg-chno="1145" tvg-name="INSP" tvg-id="1145" tvg-logo="http://192.168.178.20:34400/images/137cd17443bb392df8e9cbf734e02a22.png" group-title="ALLTV",INSP
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/29aeced6da7917e78a5e867132a857ba
+#EXTINF:0 channelID="x-ID.146" tvg-chno="1146" tvg-name="ION TV" tvg-id="1146" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a4/IONTelevision2016.svg/revision/latest/scale-to-width-down/200?cb=20180310173128" group-title="ALLTV",ION TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/8d672c022abaffc78432c4d52b0bb0f8
+#EXTINF:0 channelID="x-ID.147" tvg-chno="1147" tvg-name="ITV 1 FHD UK" tvg-id="1147" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/ITV_%282013%29.svg/revision/latest/scale-to-width-down/250?cb=20200812093847" group-title="ALLTV",ITV 1 FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/c5602aedc79ec2ee22e82d20c8f4ecd1
+#EXTINF:0 channelID="x-ID.148" tvg-chno="1148" tvg-name="ITV 2 FHD UK" tvg-id="1148" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/ITV2_logo_2015.svg/revision/latest/scale-to-width-down/250?cb=20150812190405" group-title="ALLTV",ITV 2 FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/205a3d8bd34d393cc769c84462cb7e21
+#EXTINF:0 channelID="x-ID.149" tvg-chno="1149" tvg-name="ITV 3 FHD UK" tvg-id="1149" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/ITV3_logo_2013.svg/revision/latest/scale-to-width-down/300?cb=20130113225717" group-title="ALLTV",ITV 3 FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/10a0134df6edbb9cfa001e54ebb6edfb
+#EXTINF:0 channelID="x-ID.150" tvg-chno="1150" tvg-name="ITV 4 HD UK" tvg-id="1150" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/ITV4_logo_2013.svg/revision/latest/scale-to-width-down/300?cb=20130113225727" group-title="ALLTV",ITV 4 HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/48cbae56fceeeda00c605289cfb8ffed
+#EXTINF:0 channelID="x-ID.151" tvg-chno="1151" tvg-name="ITVBE FHD UK" tvg-id="1151" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4f/ITVBe_logo_2014-.svg/revision/latest/scale-to-width-down/250?cb=20161018194139" group-title="ALLTV",ITVBE FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0fbf0d69ee8e2d8763c8efda95883d0e
+#EXTINF:0 channelID="x-ID.152" tvg-chno="1152" tvg-name="KERRANG! SD UK" tvg-id="1152" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/Kerrang_2017.png/revision/latest/scale-to-width-down/250?cb=20170823184745" group-title="ALLTV",KERRANG! SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2f7c38e48147fa57cbd44ee8f385051b
+#EXTINF:0 channelID="x-ID.153" tvg-chno="1153" tvg-name="KISS UK" tvg-id="1153" tvg-logo="http://192.168.178.20:34400/images/502ec0092b5dce894a59705a1ed21df2.jpg" group-title="ALLTV",KISS UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/43fff552f4ff0dfdd2c003449431d892
+#EXTINF:0 channelID="x-ID.154" tvg-chno="1154" tvg-name="KNOWLEDGE NETWORK" tvg-id="1154" tvg-logo="http://192.168.178.20:34400/images/bf27e5586eafd1be7ba0067d86d3fb12.png" group-title="ALLTV",KNOWLEDGE NETWORK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e02097782a396fa7970d7b349fc431de
+#EXTINF:0 channelID="x-ID.155" tvg-chno="1155" tvg-name="LAFF" tvg-id="1155" tvg-logo="http://192.168.178.20:34400/images/f717e886e7bc31860c9cfb6a9152a418.png" group-title="ALLTV",LAFF
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0e43fad60ea8cc5325465ddf8c9c046f
+#EXTINF:0 channelID="x-ID.156" tvg-chno="1156" tvg-name="LIFETIME" tvg-id="1156" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Lifetime_2017.svg/revision/latest/scale-to-width-down/200?cb=20170718213910" group-title="ALLTV",LIFETIME
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0cda5a5017534907115c43129d7e357e
+#EXTINF:0 channelID="x-ID.157" tvg-chno="1157" tvg-name="LIFETIME FHD UK" tvg-id="1157" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Lifetime_2017.svg/revision/latest/scale-to-width-down/200?cb=20170718213910" group-title="ALLTV",LIFETIME FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2f90e9c12fc31e40e41495e1857e4618
+#EXTINF:0 channelID="x-ID.158" tvg-chno="1158" tvg-name="LOGO TV" tvg-id="1158" tvg-logo="http://192.168.178.20:34400/images/965e6ca43ddd80a2deeb70d9b440de6a.png" group-title="ALLTV",LOGO TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5ca3c39a5a1ae2962674ea2b57e4bc4d
+#EXTINF:0 channelID="x-ID.159" tvg-chno="1159" tvg-name="LONE STAR CLASSICS" tvg-id="1159" tvg-logo="http://192.168.178.20:34400/images/2c5a37acca6d048491ad168c3c56c2b2.png" group-title="ALLTV",LONE STAR CLASSICS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e29def0945570cf555a0632cb0a632d2
+#EXTINF:0 channelID="x-ID.160" tvg-chno="1160" tvg-name="LOVE NATURE FHD UK" tvg-id="1160" tvg-logo="http://192.168.178.20:34400/images/ea38d9b9bf319d4555fb11bc27215b19.png" group-title="ALLTV",LOVE NATURE FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0703f7989d58e4c79a4ee001c92f44f0
+#EXTINF:0 channelID="x-ID.161" tvg-chno="1161" tvg-name="MAGIC SD UK" tvg-id="1161" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/af/Magic.svg/revision/latest/scale-to-width-down/250?cb=20151202171913" group-title="ALLTV",MAGIC SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/3eae8dca621456e7745c01c727379e5f
+#EXTINF:0 channelID="x-ID.162" tvg-chno="1162" tvg-name="ME TV" tvg-id="1162" tvg-logo="http://192.168.178.20:34400/images/64c3ece2cb7984ca0d3c82418142d361.jpg" group-title="ALLTV",ME TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/df4748c9205787c47a9c33a5161c3a34
+#EXTINF:0 channelID="x-ID.163" tvg-chno="1163" tvg-name="MOTOR TREND" tvg-id="1163" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/MT_logo.jpg/revision/latest/scale-to-width-down/185?cb=20181124064257" group-title="ALLTV",MOTOR TREND
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d075f5eca1aebdaba3332b29bff37c9a
+#EXTINF:0 channelID="x-ID.164" tvg-chno="1164" tvg-name="MOVIETIME" tvg-id="1164" tvg-logo="http://192.168.178.20:34400/images/46419f3248f2955c714e4a742f914b24.png" group-title="ALLTV",MOVIETIME
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d19453d52d8158d31d05f3ff233d0825
+#EXTINF:0 channelID="x-ID.165" tvg-chno="1165" tvg-name="MSNBC" tvg-id="1165" tvg-logo="http://192.168.178.20:34400/images/79f4f492cf154efa5c4d4756e010d1f3.png" group-title="ALLTV",MSNBC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/31152f3fb93608b1192250b352f98e32
+#EXTINF:0 channelID="x-ID.166" tvg-chno="1166" tvg-name="MTV" tvg-id="1166" tvg-logo="http://192.168.178.20:34400/images/76677e4a5212dcea68d3f23994d127b7.png" group-title="ALLTV",MTV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/53b1d091326db3e2ab0389c8e0fb2193
+#EXTINF:0 channelID="x-ID.167" tvg-chno="1167" tvg-name="MTV 2" tvg-id="1167" tvg-logo="http://192.168.178.20:34400/images/1be2323ba0a3269c2a76152a0fe7ba6e.png" group-title="ALLTV",MTV 2
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/865bc458990f258e620636409ed1c34c
+#EXTINF:0 channelID="x-ID.168" tvg-chno="1168" tvg-name="MTV 2" tvg-id="1168" tvg-logo="http://192.168.178.20:34400/images/1be2323ba0a3269c2a76152a0fe7ba6e.png" group-title="ALLTV",MTV 2
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e1f5ac88e9bf04f7ae46a5e2d86a7154
+#EXTINF:0 channelID="x-ID.169" tvg-chno="1169" tvg-name="MTV BASE" tvg-id="1169" tvg-logo="http://192.168.178.20:34400/images/49e8a2b23d20746eba5846dd758ad836.jpg" group-title="ALLTV",MTV BASE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/3ae183fa2783663c9ab53d8fcbec69d0
+#EXTINF:0 channelID="x-ID.170" tvg-chno="1170" tvg-name="MTV CLASSIC" tvg-id="1170" tvg-logo="http://192.168.178.20:34400/images/7bfeaa04e0de3cf345240ade13a9561a.png" group-title="ALLTV",MTV CLASSIC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2f85a4bf9f6c947413f76631655ce20f
+#EXTINF:0 channelID="x-ID.171" tvg-chno="1171" tvg-name="MTV CLASSIC SD UK" tvg-id="1171" tvg-logo="http://192.168.178.20:34400/images/7bfeaa04e0de3cf345240ade13a9561a.png" group-title="ALLTV",MTV CLASSIC SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b95f84219f6c5896d22c860bcf2843fa
+#EXTINF:0 channelID="x-ID.172" tvg-chno="1172" tvg-name="MTV LIVE" tvg-id="1172" tvg-logo="http://192.168.178.20:34400/images/776d48a093ad71413630e35f284d9e34.png" group-title="ALLTV",MTV LIVE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/12deb776725d7fdff3118ef0b8d3dbba
+#EXTINF:0 channelID="x-ID.173" tvg-chno="1173" tvg-name="MTV MUSIC" tvg-id="1173" tvg-logo="http://192.168.178.20:34400/images/a8a02d447a221c21034e2c3a64e647a1.jpg" group-title="ALLTV",MTV MUSIC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/db470656031301295201dedd95f0f07d
+#EXTINF:0 channelID="x-ID.174" tvg-chno="1174" tvg-name="MTV U" tvg-id="1174" tvg-logo="https://www.bing.com/th?id=OIP.7V61rNkX_bV44JsOoI4JigAAAA&pid=Api&rs=1" group-title="ALLTV",MTV U
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/61348a0a3bdc1af1f654e5838af21424
+#EXTINF:0 channelID="x-ID.175" tvg-chno="1175" tvg-name="MUCH MUSIC" tvg-id="1175" tvg-logo="http://192.168.178.20:34400/images/cabb442cc58a32e49de62a40e10587f5.png" group-title="ALLTV",MUCH MUSIC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/481060e1326f27a776946ec17274fea7
+#EXTINF:0 channelID="x-ID.176" tvg-chno="1176" tvg-name="NASA TV" tvg-id="1176" tvg-logo="http://192.168.178.20:34400/images/3607b5ba8417690c40dca831841f6dce.png" group-title="ALLTV",NASA TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/1eff9ba6b413a1e8d38e3b6ccf90477e
+#EXTINF:0 channelID="x-ID.177" tvg-chno="1177" tvg-name="NAT GEO MUNDO" tvg-id="1177" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Nat_Geo_Mundo.svg/revision/latest/scale-to-width-down/300?cb=20140626190709" group-title="ALLTV",NAT GEO MUNDO
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f3d34517053cc00962c859e6cbd55b06
+#EXTINF:0 channelID="x-ID.178" tvg-chno="1178" tvg-name="NAT GEO WILD" tvg-id="1178" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/250?cb=20170426190523" group-title="ALLTV",NAT GEO WILD
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/db71c9a86240736a8e2540c305512620
+#EXTINF:0 channelID="x-ID.179" tvg-chno="1179" tvg-name="NAT GEO WILD" tvg-id="1179" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/250?cb=20170426190523" group-title="ALLTV",NAT GEO WILD
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d0be0641e581780937d9c47d8e8d47ef
+#EXTINF:0 channelID="x-ID.180" tvg-chno="1180" tvg-name="NAT GEO WILD HD UK" tvg-id="1180" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a6/Nat_Geo_Wild.svg/revision/latest/scale-to-width-down/250?cb=20170426190523" group-title="ALLTV",NAT GEO WILD HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/ab8ec3c67b071029b524220c94a161ea
+#EXTINF:0 channelID="x-ID.181" tvg-chno="1181" tvg-name="NATIONAL GEOGRAPHIC" tvg-id="1181" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/250?cb=20170701154034" group-title="ALLTV",NATIONAL GEOGRAPHIC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/149a693a779077709995e9361bd85395
+#EXTINF:0 channelID="x-ID.182" tvg-chno="1182" tvg-name="NATIONAL GEOGRAPHIC" tvg-id="1182" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/250?cb=20170701154034" group-title="ALLTV",NATIONAL GEOGRAPHIC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6e9eba212ca233efc18389a04c6c7303
+#EXTINF:0 channelID="x-ID.183" tvg-chno="1183" tvg-name="NATIONAL GEOGRAPHIC HD UK" tvg-id="1183" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/250?cb=20170701154034" group-title="ALLTV",NATIONAL GEOGRAPHIC HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/9f3a5d4286c19b872a9839e03ad6cda6
+#EXTINF:0 channelID="x-ID.184" tvg-chno="1184" tvg-name="NATURE VISION" tvg-id="1184" tvg-logo="http://192.168.178.20:34400/images/5d4ec794c4a9f9061dce4ee2da301898.png" group-title="ALLTV",NATURE VISION
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/240265f9908255a9a6f2572076ae6b48
+#EXTINF:0 channelID="x-ID.185" tvg-chno="1185" tvg-name="NBA TV" tvg-id="1185" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1a/NBA_TV_2017.svg/revision/latest/scale-to-width-down/200?cb=20171022122312" group-title="ALLTV",NBA TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0d49f7f7c0b99efb4ed167094a67662d
+#EXTINF:0 channelID="x-ID.186" tvg-chno="1186" tvg-name="TEEN NICK" tvg-id="1186" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/TeenNick.svg/revision/latest/scale-to-width-down/250?cb=20190930203826" group-title="ALLTV",TEEN NICK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/cffc8c2a20a3e7fcc01acf7fd25d904b
+#EXTINF:0 channelID="x-ID.187" tvg-chno="1187" tvg-name="NICK JR TOO UK" tvg-id="1187" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/89/Nick_Jr_Too.svg/revision/latest/scale-to-width-down/300?cb=20141117170759" group-title="ALLTV",NICK JR TOO UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0bf8d241cdef5f917af84abb2a48027a
+#EXTINF:0 channelID="x-ID.188" tvg-chno="1188" tvg-name="NICK JUNIOR" tvg-id="1188" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/300?cb=20200621143500" group-title="ALLTV",NICK JUNIOR
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/07157b1317c0b611da56dafbb9ed341f
+#EXTINF:0 channelID="x-ID.189" tvg-chno="1189" tvg-name="NICK JUNIOR UK" tvg-id="1189" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest/scale-to-width-down/300?cb=20200621143500" group-title="ALLTV",NICK JUNIOR UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/eb10b5884b5e98bc91253019d06dcf26
+#EXTINF:0 channelID="x-ID.190" tvg-chno="1190" tvg-name="NICK MUSIC" tvg-id="1190" tvg-logo="http://192.168.178.20:34400/images/35ad3393d35c689207b810e08ad534d2.png" group-title="ALLTV",NICK MUSIC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d5e485767497025b33b21d606ace3b94
+#EXTINF:0 channelID="x-ID.191" tvg-chno="1191" tvg-name="NICK TOONS UK" tvg-id="1191" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4e/Nicktoons_%28Blue%29.svg/revision/latest/scale-to-width-down/300?cb=20190930203840" group-title="ALLTV",NICK TOONS UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/821ad353779e6d79e0feea52dd66fc5f
+#EXTINF:0 channelID="x-ID.192" tvg-chno="1192" tvg-name="NICK HD UK" tvg-id="1192" tvg-logo="http://192.168.178.20:34400/images/840500eb44e354e64cb898a4d581a2ec.png" group-title="ALLTV",NICK HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6b23dcc1c4b39cb7892aca20d57fc145
+#EXTINF:0 channelID="x-ID.193" tvg-chno="1193" tvg-name="NICKELODEON" tvg-id="1193" tvg-logo="http://192.168.178.20:34400/images/e6608a68924b910bd4e4960cf5690051.png" group-title="ALLTV",NICKELODEON
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/7e7428098bff9490a6ebb3b6bc1f0633
+#EXTINF:0 channelID="x-ID.194" tvg-chno="1194" tvg-name="NICKELODEON" tvg-id="1194" tvg-logo="http://192.168.178.20:34400/images/e6608a68924b910bd4e4960cf5690051.png" group-title="ALLTV",NICKELODEON
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6531d9dcb8debdb50b0b7f21d3d3d098
+#EXTINF:0 channelID="x-ID.195" tvg-chno="1195" tvg-name="NICKTOONS" tvg-id="1195" tvg-logo="http://192.168.178.20:34400/images/0a5ef66ada23bfb4c1514ef6cb9ccd7a.png" group-title="ALLTV",NICKTOONS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/7f23438468cd2374b4e9c342a944df58
+#EXTINF:0 channelID="x-ID.196" tvg-chno="1196" tvg-name="NOW 70's" tvg-id="1196" tvg-logo="http://192.168.178.20:34400/images/c844e83d8c166cb3f190efc510d72879.png" group-title="ALLTV",NOW 70's
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/9b76dc08beb4a22b4d468729deb22a28
+#EXTINF:0 channelID="x-ID.197" tvg-chno="1197" tvg-name="NOW 80'S" tvg-id="1197" tvg-logo="http://192.168.178.20:34400/images/a6e9a515a307cccca4a0e72f5aec5765.png" group-title="ALLTV",NOW 80'S
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/8c4a323de95fc7cfab834b4ce0b47d81
+#EXTINF:0 channelID="x-ID.198" tvg-chno="1198" tvg-name="NOW 90'S" tvg-id="1198" tvg-logo="http://192.168.178.20:34400/images/820a0d1d8e73ee3b004f2c8d4e61a6c2.png" group-title="ALLTV",NOW 90'S
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/daf4e7e8a9c642e88e60a5d77e519a21
+#EXTINF:0 channelID="x-ID.199" tvg-chno="1199" tvg-name="OPRAH WINFREY NETWORK (OWN)" tvg-id="1199" tvg-logo="http://192.168.178.20:34400/images/755e1f27f56de034098f6abb07e9c8e1.png" group-title="ALLTV",OPRAH WINFREY NETWORK (OWN)
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/875f98f8573a3fccbd1fdf665d32b805
+#EXTINF:0 channelID="x-ID.200" tvg-chno="1200" tvg-name="OUTDOOR CHANNEL" tvg-id="1200" tvg-logo="http://192.168.178.20:34400/images/ce80348021d549b2a0576c665bccd475.png" group-title="ALLTV",OUTDOOR CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/86a579bf26f5ec5999465ab861af572f
+#EXTINF:0 channelID="x-ID.201" tvg-chno="1201" tvg-name="OUTSIDE TV" tvg-id="1201" tvg-logo="http://192.168.178.20:34400/images/945fb99893495edf9c0990c8066cd5cf.jpg" group-title="ALLTV",OUTSIDE TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6ceed95d3c90c5a632c50b5c1a22ce6b
+#EXTINF:0 channelID="x-ID.202" tvg-chno="1202" tvg-name="OVATION" tvg-id="1202" tvg-logo="http://192.168.178.20:34400/images/63622cb36baa9bf3681890618c4b4211.jpg" group-title="ALLTV",OVATION
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/dd0563d3ba3f6cdb8f690449cc54bced
+#EXTINF:0 channelID="x-ID.203" tvg-chno="1203" tvg-name="OWN" tvg-id="1203" tvg-logo="http://192.168.178.20:34400/images/b09819fe6c0bb5418bc08a368dfaa143.png" group-title="ALLTV",OWN
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/adea9cb9e8abc8a28c94a8b72e4dd3bb
+#EXTINF:0 channelID="x-ID.204" tvg-chno="1204" tvg-name="OXYGEN" tvg-id="1204" tvg-logo="http://192.168.178.20:34400/images/bbd9b779ee87f48c9a7f65d487cf16a3.png" group-title="ALLTV",OXYGEN
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0647b39010f47b21a872ecc063ca71a8
+#EXTINF:0 channelID="x-ID.205" tvg-chno="1205" tvg-name="OXYGEN (WEST)" tvg-id="1205" tvg-logo="http://mlsh1.com:2086/images/78732718493f54a2ac7c1e7b9d0fc571.png" group-title="ALLTV",OXYGEN (WEST)
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b6fcdcfe9946fc3a6a43c2372fb9d6aa
+#EXTINF:0 channelID="x-ID.206" tvg-chno="1206" tvg-name="PARAMOUNT TV" tvg-id="1206" tvg-logo="http://192.168.178.20:34400/images/24e414d3a7760a455201ecd7a283fa3a.png" group-title="ALLTV",PARAMOUNT TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/ef59bce2ffcd627b152bddde0e8c3b51
+#EXTINF:0 channelID="x-ID.207" tvg-chno="1207" tvg-name="PBS" tvg-id="1207" tvg-logo="http://192.168.178.20:34400/images/7814c58bc0a366dc53331a7d311e32a8.jpg" group-title="ALLTV",PBS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/fd670280c93d6ce1c1a474259a29aa0e
+#EXTINF:0 channelID="x-ID.208" tvg-chno="1208" tvg-name="PBS AMERICA SD UK" tvg-id="1208" tvg-logo="http://192.168.178.20:34400/images/cf050c0c523b30e4f9745b9ae932155b.png" group-title="ALLTV",PBS AMERICA SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/ca3e2fd18e85a202af9df167a1e8a7f3
+#EXTINF:0 channelID="x-ID.209" tvg-chno="1209" tvg-name="PEACH TREE TV" tvg-id="1209" tvg-logo="http://192.168.178.20:34400/images/b5cac15c905ca1fd8ccc7012c36caa29.png" group-title="ALLTV",PEACH TREE TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0278925e497eb9169b7e6a50081b67fc
+#EXTINF:0 channelID="x-ID.210" tvg-chno="1210" tvg-name="PICK SD UK" tvg-id="1210" tvg-logo="http://192.168.178.20:34400/images/1b74a4c6e353da4fce1dcc51f0c6bf8f.png" group-title="ALLTV",PICK SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d1a293b320017e7ff0aef80d0e67a5f4
+#EXTINF:0 channelID="x-ID.211" tvg-chno="1211" tvg-name="POP MAX SD" tvg-id="1211" tvg-logo="http://192.168.178.20:34400/images/abcde00cf9bea24c913fe1112b05d3e5.png" group-title="ALLTV",POP MAX SD
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/04d85dc46b0e32746cb21880335ea99a
+#EXTINF:0 channelID="x-ID.212" tvg-chno="1212" tvg-name="POP SD UK" tvg-id="1212" tvg-logo="http://192.168.178.20:34400/images/5db90e128b7295868d5575647f4311bb.png" group-title="ALLTV",POP SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2061d5afe4a2238ccc8eeb1b96dfde48
+#EXTINF:0 channelID="x-ID.213" tvg-chno="1213" tvg-name="POP TV" tvg-id="1213" tvg-logo="http://192.168.178.20:34400/images/70d72d7ea48c150afd8cb66576f6078e.png" group-title="ALLTV",POP TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/1ea77d74b4f14094bd01a31ffa5adc8a
+#EXTINF:0 channelID="x-ID.214" tvg-chno="1214" tvg-name="QUEST FHD UK" tvg-id="1214" tvg-logo="http://192.168.178.20:34400/images/f1bb10ce3f5bc2c83475a5e3fccc0325.png" group-title="ALLTV",QUEST FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0e502d78b1c3de105ffc7d5bad33eaf0
+#EXTINF:0 channelID="x-ID.215" tvg-chno="1215" tvg-name="QUEST RED SD UK" tvg-id="1215" tvg-logo="http://192.168.178.20:34400/images/86e2bbad8fdc4d1dc0c01410e659b7b3.png" group-title="ALLTV",QUEST RED SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/c8900eff7d26e4c67d8b1f101afbea0e
+#EXTINF:0 channelID="x-ID.216" tvg-chno="1216" tvg-name="QVC" tvg-id="1216" tvg-logo="http://192.168.178.20:34400/images/e2fb0ea6e062ddf17fea6b592ee99c5b.png" group-title="ALLTV",QVC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e392e98f5b30717dbf4ca40610561409
+#EXTINF:0 channelID="x-ID.217" tvg-chno="1217" tvg-name="QVC 2" tvg-id="1217" tvg-logo="http://192.168.178.20:34400/images/0eb51f20054ad84721a85cece3be14dc.png" group-title="ALLTV",QVC 2
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/abad4581ae8f6d91298e50d608452e49
+#EXTINF:0 channelID="x-ID.218" tvg-chno="1218" tvg-name="REALLY SD UK" tvg-id="1218" tvg-logo="http://192.168.178.20:34400/images/64dfc90933eec421d564d2dcf1fc41d5.jpg" group-title="ALLTV",REALLY SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d3b6ae9a02cc48294e51cf34b1020171
+#EXTINF:0 channelID="x-ID.219" tvg-chno="1219" tvg-name="REELZ" tvg-id="1219" tvg-logo="http://192.168.178.20:34400/images/f46bad7989d5bc685a70738719efddf3.png" group-title="ALLTV",REELZ
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/82a60f8d8eecc38397fbd9e27dad2b5f
+#EXTINF:0 channelID="x-ID.220" tvg-chno="1220" tvg-name="REVOLT" tvg-id="1220" tvg-logo="http://192.168.178.20:34400/images/9897ae04116c7bdcfd9ce8ed91b4663b.png" group-title="ALLTV",REVOLT
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5d5a4b41bd2bf82a510c9a2ac3e5b6cb
+#EXTINF:0 channelID="x-ID.221" tvg-chno="1221" tvg-name="S4C FHD UK" tvg-id="1221" tvg-logo="http://192.168.178.20:34400/images/08c0fb8bf36cbe1ac86dcece07619d35.png" group-title="ALLTV",S4C FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/c6e1aeb660292cfd03e64b66b56310d5
+#EXTINF:0 channelID="x-ID.222" tvg-chno="1222" tvg-name="SHOUT! FACTORY" tvg-id="1222" tvg-logo="https://upload.zype.com/53c0457a69702d4d66040000/zobject_image/54c923da69702d070c177700/1422468057/original.png?1422468057" group-title="ALLTV",SHOUT! FACTORY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/eda58a4fa9114375352de0b17d690afd
+#EXTINF:0 channelID="x-ID.223" tvg-chno="1223" tvg-name="SHOWCASE" tvg-id="1223" tvg-logo="http://192.168.178.20:34400/images/0c6b9028674876d1d552ddf83be3772e.png" group-title="ALLTV",SHOWCASE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/62a95e3bad883f350bd9dc2d273023ac
+#EXTINF:0 channelID="x-ID.224" tvg-chno="1224" tvg-name="SILVER SCREEN CLASSICS" tvg-id="1224" tvg-logo="http://192.168.178.20:34400/images/bb1b6738076e47469460ef80aa98cf50.png" group-title="ALLTV",SILVER SCREEN CLASSICS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/924992bf44e6a94a372d9a5796f360f6
+#EXTINF:0 channelID="x-ID.225" tvg-chno="1225" tvg-name="SKY ARTS HD UK" tvg-id="1225" tvg-logo="http://192.168.178.20:34400/images/9c6f55aea8139cdc1057bf87f6e5ad24.png" group-title="ALLTV",SKY ARTS HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6850444ae7c52761a6e4128602436905
+#EXTINF:0 channelID="x-ID.226" tvg-chno="1226" tvg-name="SKY ATLANTIC FHD UK" tvg-id="1226" tvg-logo="http://192.168.178.20:34400/images/b231c262af81e578c7f1ccbcbc235b27.png" group-title="ALLTV",SKY ATLANTIC FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/a3eac398fcf89bd60da8dc9f227c9cdc
+#EXTINF:0 channelID="x-ID.227" tvg-chno="1227" tvg-name="SKY COMEDY FHD UK" tvg-id="1227" tvg-logo="http://192.168.178.20:34400/images/5942a3a625c73c91d0346c348b8024bb.png" group-title="ALLTV",SKY COMEDY FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e254177ebf0677f6cc02be1609f25ed0
+#EXTINF:0 channelID="x-ID.228" tvg-chno="1228" tvg-name="SKY CRIME FHD UK" tvg-id="1228" tvg-logo="http://192.168.178.20:34400/images/4cfbdfb119a9fdcbffe32d6163fcddfa.jpg" group-title="ALLTV",SKY CRIME FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/301ae86203af9ed4b414740a94a9c090
+#EXTINF:0 channelID="x-ID.229" tvg-chno="1229" tvg-name="SKY DOCUMENTARIES FHD" tvg-id="1229" tvg-logo="http://192.168.178.20:34400/images/60f9c1a64850457999042f79d68f27e1.png" group-title="ALLTV",SKY DOCUMENTARIES FHD
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/cb12680996a004ed8d2f29dfe12e9467
+#EXTINF:0 channelID="x-ID.230" tvg-chno="1230" tvg-name="SKY HISTORY HD UK" tvg-id="1230" tvg-logo="http://192.168.178.20:34400/images/e7c3d089d92edbf39bb9fe19b604e0b2.jpg" group-title="ALLTV",SKY HISTORY HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/7ede628948c55883fbc2b1a830246f09
+#EXTINF:0 channelID="x-ID.231" tvg-chno="1231" tvg-name="SKY NATURE FHD UK" tvg-id="1231" tvg-logo="http://192.168.178.20:34400/images/1bc9077bc9439d7c1ba7cce745b51d80.png" group-title="ALLTV",SKY NATURE FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/92a2f2fec028599a876589369a55c1d6
+#EXTINF:0 channelID="x-ID.232" tvg-chno="1232" tvg-name="SKY NEWS" tvg-id="1232" tvg-logo="http://192.168.178.20:34400/images/69509e5dbeb33b85795024b7b9106092.png" group-title="ALLTV",SKY NEWS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/fdcadb879fbab94067940fd75563486b
+#EXTINF:0 channelID="x-ID.233" tvg-chno="1233" tvg-name="SKY ONE FHD UK" tvg-id="1233" tvg-logo="http://192.168.178.20:34400/images/d77e2dddfad4cd41edd618d072a8e268.png" group-title="ALLTV",SKY ONE FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/82f41c21c0d93568e4618da544451fa7
+#EXTINF:0 channelID="x-ID.234" tvg-chno="1234" tvg-name="SKY TWO SD UK" tvg-id="1234" tvg-logo="http://192.168.178.20:34400/images/e3ddacb2e93db3d16e915754eae75a09.png" group-title="ALLTV",SKY TWO SD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/4c3b125efa46f3a4413facb9be856591
+#EXTINF:0 channelID="x-ID.235" tvg-chno="1235" tvg-name="SKY WITNESS HD UK" tvg-id="1235" tvg-logo="http://192.168.178.20:34400/images/ea30709e41f2ff13afc90adaa50edb87.png" group-title="ALLTV",SKY WITNESS HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/45853efe7d379069957f1f9154b0e191
+#EXTINF:0 channelID="x-ID.236" tvg-chno="1236" tvg-name="SMITHSONIAN CHANNEL (WEST)" tvg-id="1236" tvg-logo="http://mlsh1.com:2086/images/1157fbf8f7b05f6d19e0459c1d140cf7.png" group-title="ALLTV",SMITHSONIAN CHANNEL (WEST)
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/fc1386668e67ce8a336677ad784a5b30
+#EXTINF:0 channelID="x-ID.237" tvg-chno="1237" tvg-name="SO YUMMY!" tvg-id="1237" tvg-logo="http://192.168.178.20:34400/images/4e69e81a14662f7b91422b3c4e39a73a.jpg" group-title="ALLTV",SO YUMMY!
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/cf58b8ce4b14757892a926256c621152
+#EXTINF:0 channelID="x-ID.238" tvg-chno="1238" tvg-name="SPACE" tvg-id="1238" tvg-logo="http://192.168.178.20:34400/images/876387c70c63ff18f5d267c965ba685f.png" group-title="ALLTV",SPACE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/784521c5578fca0031a4c40a7ade4611
+#EXTINF:0 channelID="x-ID.239" tvg-chno="1239" tvg-name="SPIKE" tvg-id="1239" tvg-logo="http://192.168.178.20:34400/images/3124cdd8783c703eb0e7ea951d1a45f0.jpg" group-title="ALLTV",SPIKE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/25e949fe1196db174fd7072465ed4a50
+#EXTINF:0 channelID="x-ID.240" tvg-chno="1240" tvg-name="START TV" tvg-id="1240" tvg-logo="http://192.168.178.20:34400/images/014af7ca911287dcebe68b9d2fedf5f8.png" group-title="ALLTV",START TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/93b62fdc9fa946a8b357716c673243ae
+#EXTINF:0 channelID="x-ID.241" tvg-chno="1241" tvg-name="STV FHD UK" tvg-id="1241" tvg-logo="http://192.168.178.20:34400/images/85ee15d15110c12cfa8f0b1ea06cc549.png" group-title="ALLTV",STV FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f99e67ec9768e6829351b9da351b9d69
+#EXTINF:0 channelID="x-ID.242" tvg-chno="1242" tvg-name="SUNDANCE" tvg-id="1242" tvg-logo="http://192.168.178.20:34400/images/b0d5636cee5e41e62947e3968061203f.png" group-title="ALLTV",SUNDANCE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/541d5576e4970d33295c8884bc91b65b
+#EXTINF:0 channelID="x-ID.243" tvg-chno="1243" tvg-name="SUPER CHANNEL FUSE" tvg-id="1243" tvg-logo="http://192.168.178.20:34400/images/38a4b31d042fd8ffa8d491df0f9ad299.png" group-title="ALLTV",SUPER CHANNEL FUSE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/85aa2abe45e2fac88cb69bfedf78b458
+#EXTINF:0 channelID="x-ID.244" tvg-chno="1244" tvg-name="SUPER CHANNEL GINX" tvg-id="1244" tvg-logo="http://192.168.178.20:34400/images/a3ec53d35f7b5f030246a2dbb561062b.png" group-title="ALLTV",SUPER CHANNEL GINX
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b5fb8e47586cf34a385a54f10639200b
+#EXTINF:0 channelID="x-ID.245" tvg-chno="1245" tvg-name="SUPER CHANNEL HEART & HOME" tvg-id="1245" tvg-logo="http://192.168.178.20:34400/images/74abcb6d45860254c229aeab25f82c55.png" group-title="ALLTV",SUPER CHANNEL HEART & HOME
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/caf9f521dab8958c78ddde4d4d45e107
+#EXTINF:0 channelID="x-ID.246" tvg-chno="1246" tvg-name="SUPER CHANNEL VAULT" tvg-id="1246" tvg-logo="http://192.168.178.20:34400/images/13d16582a558403291006e508a7577a1.png" group-title="ALLTV",SUPER CHANNEL VAULT
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/a14463a243b716305cabb3718141697d
+#EXTINF:0 channelID="x-ID.247" tvg-chno="1247" tvg-name="SYFY" tvg-id="1247" tvg-logo="http://192.168.178.20:34400/images/e66cdfd5b80dd828b28c60bb2fbfae31.png" group-title="ALLTV",SYFY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/cf1208a442a5dc6968551448ed2aac14
+#EXTINF:0 channelID="x-ID.248" tvg-chno="1248" tvg-name="SYFY (WEST)" tvg-id="1248" tvg-logo="http://mlsh1.com:2086/images/356aa30e4f8e78962d0fcaf4f58d9a86.png" group-title="ALLTV",SYFY (WEST)
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/ec73f17e794496178c6d78480de46b6f
+#EXTINF:0 channelID="x-ID.249" tvg-chno="1249" tvg-name="SYFY FHD UK" tvg-id="1249" tvg-logo="http://192.168.178.20:34400/images/6bc2d4a1fcfd7b16d4aec20ccd742b54.png" group-title="ALLTV",SYFY FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b9f8146e2c08fd5dcbead87817f0be48
+#EXTINF:0 channelID="x-ID.250" tvg-chno="1250" tvg-name="TELETOON" tvg-id="1250" tvg-logo="http://192.168.178.20:34400/images/f4f8c15f0ce91de7686258ae67e660d5.PNG" group-title="ALLTV",TELETOON
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/be1fd9604b1b8fdac07f7988ed00ad48
+#EXTINF:0 channelID="x-ID.251" tvg-chno="1251" tvg-name="TFO" tvg-id="1251" tvg-logo="http://192.168.178.20:34400/images/2f3fc8556d2c1f154a5626c8ca169eff.png" group-title="ALLTV",TFO
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6afe19673c13cb55995d33b20ab59151
+#EXTINF:0 channelID="x-ID.252" tvg-chno="1252" tvg-name="THE BLAZE" tvg-id="1252" tvg-logo="http://192.168.178.20:34400/images/6a2c2a53413bd1c8ed892f64c8b93e06.jpg" group-title="ALLTV",THE BLAZE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b809cbd5ffe32a59260e2a946daa9943
+#EXTINF:0 channelID="x-ID.253" tvg-chno="1253" tvg-name="THE BOX UK" tvg-id="1253" tvg-logo="http://192.168.178.20:34400/images/d08acde9dafa3449e470fc0b68263abb.jpg" group-title="ALLTV",THE BOX UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/85101eb96dc99ff9d8a8dc0ceb2d56b0
+#EXTINF:0 channelID="x-ID.254" tvg-chno="1254" tvg-name="TINY POP UK" tvg-id="1254" tvg-logo="https://i1.wp.com/teentweentoddler.com/wp-content/uploads/2015/09/miffy-1.png?resize=900%2C521" group-title="ALLTV",TINY POP UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0a602b1a03aeb1bfbccd6b4c95f0e380
+#EXTINF:0 channelID="x-ID.255" tvg-chno="1255" tvg-name="TLC" tvg-id="1255" tvg-logo="http://192.168.178.20:34400/images/3e5183c28be591b7a5be1e0732a4dd67.png" group-title="ALLTV",TLC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6909de779fbf7ab9183cd27c527bf36f
+#EXTINF:0 channelID="x-ID.256" tvg-chno="1256" tvg-name="TLC FHD UK" tvg-id="1256" tvg-logo="http://192.168.178.20:34400/images/1f87e44f2fb939e47d351b06962e0769.png" group-title="ALLTV",TLC FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2c0ef630850b7ac7692dc7d5953743a2
+#EXTINF:0 channelID="x-ID.257" tvg-chno="1257" tvg-name="TNT EAST" tvg-id="1257" tvg-logo="http://192.168.178.20:34400/images/9a848c8ab240988de553d10b69893edd.png" group-title="ALLTV",TNT EAST
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f97e779f81e39520681b9eaf3fe4f8f0
+#EXTINF:0 channelID="x-ID.258" tvg-chno="1258" tvg-name="TRAVEL CHANNEL" tvg-id="1258" tvg-logo="http://192.168.178.20:34400/images/b04621c1963b18f385c59785189cb2df.png" group-title="ALLTV",TRAVEL CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/eef376561289955bf61b5bdede746b51
+#EXTINF:0 channelID="x-ID.259" tvg-chno="1259" tvg-name="TRU TV" tvg-id="1259" tvg-logo="http://192.168.178.20:34400/images/81574d6fead68e0322ce6b9f7e49c04a.png" group-title="ALLTV",TRU TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/85399f1e47f48a71b68ecfe5d0cbd2af
+#EXTINF:0 channelID="x-ID.260" tvg-chno="1260" tvg-name="TV LAND" tvg-id="1260" tvg-logo="http://192.168.178.20:34400/images/2a17071eec5eb3e6ef5ff85d717cc010.png" group-title="ALLTV",TV LAND
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/c86425af007fbd59200365d3362cf443
+#EXTINF:0 channelID="x-ID.261" tvg-chno="1261" tvg-name="TV ONE" tvg-id="1261" tvg-logo="http://192.168.178.20:34400/images/e3eddb1f1e9001ca400a836ece8c5d28.jpg" group-title="ALLTV",TV ONE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f9dc76c4541a9b2d854f2daff8a6d9b4
+#EXTINF:0 channelID="x-ID.262" tvg-chno="1262" tvg-name="UNIS TV" tvg-id="1262" tvg-logo="http://192.168.178.20:34400/images/91383e23fca103fb86cfe27318861f49.png" group-title="ALLTV",UNIS TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/727e8875f05faa005966df1fcdfb48aa
+#EXTINF:0 channelID="x-ID.263" tvg-chno="1263" tvg-name="UNIVERSAL KIDS" tvg-id="1263" tvg-logo="http://192.168.178.20:34400/images/3025ccadfc6409de451a08657202265e.png" group-title="ALLTV",UNIVERSAL KIDS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/db7da78ab03c566ec689ae76535eb447
+#EXTINF:0 channelID="x-ID.264" tvg-chno="1264" tvg-name="USA NETWORK" tvg-id="1264" tvg-logo="http://192.168.178.20:34400/images/454491c00958ca0fe6c3ab5050112691.png" group-title="ALLTV",USA NETWORK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/a7dbeaacca89095403ed48370c8eb4bf
+#EXTINF:0 channelID="x-ID.265" tvg-chno="1265" tvg-name="USA NETWORK (WEST)" tvg-id="1265" tvg-logo="http://192.168.178.20:34400/images/454491c00958ca0fe6c3ab5050112691.png" group-title="ALLTV",USA NETWORK (WEST)
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/cc7dd6d8866d5e4b4dd628c10326f44e
+#EXTINF:0 channelID="x-ID.266" tvg-chno="1266" tvg-name="UTV FHD UK" tvg-id="1266" tvg-logo="http://192.168.178.20:34400/images/98bedbfc2ae16f3d387395dfe29a3c35.png" group-title="ALLTV",UTV FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b3aace7375778f5d5439cbec27ce1b43
+#EXTINF:0 channelID="x-ID.267" tvg-chno="1267" tvg-name="VH 1" tvg-id="1267" tvg-logo="http://192.168.178.20:34400/images/879f62eb84363bf0c63b3276234ff4ef.png" group-title="ALLTV",VH 1
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b8bbd8b9c2ca058414b87ee0744b3c25
+#EXTINF:0 channelID="x-ID.268" tvg-chno="1268" tvg-name="VH1 (WEST)" tvg-id="1268" tvg-logo="http://mlsh1.com:2086/images/6a9d8d5c78a0a5e228a4a4a38a7a9d7b.png" group-title="ALLTV",VH1 (WEST)
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/a7346b36afe15320f1ea1e82ee5699fe
+#EXTINF:0 channelID="x-ID.269" tvg-chno="1269" tvg-name="VICELAND" tvg-id="1269" tvg-logo="http://192.168.178.20:34400/images/b2f7bedeeffdc9cb2556bc4a1a0e6b05.png" group-title="ALLTV",VICELAND
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/93699f416e11ac828fbb99a6c873131d
+#EXTINF:0 channelID="x-ID.270" tvg-chno="1270" tvg-name="W FHD UK" tvg-id="1270" tvg-logo="http://192.168.178.20:34400/images/493fa8c958e3fd8b460b5f9ef39d3f26.png" group-title="ALLTV",W FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/31039cbb0774a7bf098eb4fdf5f21405
+#EXTINF:0 channelID="x-ID.271" tvg-chno="1271" tvg-name="W NETWORK" tvg-id="1271" tvg-logo="http://192.168.178.20:34400/images/f54b513b7fde0560bbe508f469ddb9a3.png" group-title="ALLTV",W NETWORK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/177f3f16af6afba8cb5b0939219ec7a1
+#EXTINF:0 channelID="x-ID.272" tvg-chno="1272" tvg-name="WE TV" tvg-id="1272" tvg-logo="http://192.168.178.20:34400/images/8aee3fe2e814ae43bf8cba98b1553c3c.png" group-title="ALLTV",WE TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/1fcf4b346e4a7535eb01f332c5274f05
+#EXTINF:0 channelID="x-ID.273" tvg-chno="1273" tvg-name="WE TV +" tvg-id="1273" tvg-logo="http://192.168.178.20:34400/images/829b9cf1908c3240e2eab3706b0f0cab.png" group-title="ALLTV",WE TV +
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/53d9acd34fafdee348871b31324bbd0f
+#EXTINF:0 channelID="x-ID.274" tvg-chno="1274" tvg-name="WSBK" tvg-id="1274" tvg-logo="http://192.168.178.20:34400/images/9ea3882d9dec82915a2296924763aba0.jpg" group-title="ALLTV",WSBK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/a4a3d33ef91fe9f6ffd2df21438e6047
+#EXTINF:0 channelID="x-ID.275" tvg-chno="1275" tvg-name="YES TV" tvg-id="1275" tvg-logo="http://192.168.178.20:34400/images/957b4e623497f3cfc69741d31cce6dcc.png" group-title="ALLTV",YES TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/06ab22053a730195961b4be0707e1f0d
+#EXTINF:0 channelID="x-ID.276" tvg-chno="1276" tvg-name="YESTERDAY" tvg-id="1276" tvg-logo="http://192.168.178.20:34400/images/ff01f10f98ef8c59ee8e2759f93c9340.png" group-title="ALLTV",YESTERDAY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/abb4f2f6c7b593dfc78ee433900cf5de
+#EXTINF:0 channelID="x-ID.277" tvg-chno="1277" tvg-name="AMC +" tvg-id="1277" tvg-logo="http://192.168.178.20:34400/images/39efcc8c6836d247dedf101017f4b909.png" group-title="MOVIES",AMC +
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/1454f27b8f0d3a8514ca6b2648e99563
+#EXTINF:0 channelID="x-ID.278" tvg-chno="1278" tvg-name="CINE SONY" tvg-id="1278" tvg-logo="http://192.168.178.20:34400/images/c0ac34a019120cc054b80bbac81cdc05.png" group-title="MOVIES",CINE SONY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2a190f317c735a76b729e8d87472ba6d
+#EXTINF:0 channelID="x-ID.279" tvg-chno="1279" tvg-name="CINEMAX" tvg-id="1279" tvg-logo="http://192.168.178.20:34400/images/88afb9e9687ff48da8dbc1c9bce8fb96.png" group-title="MOVIES",CINEMAX
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/61bf4e39a5d0c0d430f3dbcfceb9b856
+#EXTINF:0 channelID="x-ID.280" tvg-chno="1280" tvg-name="CINEMAX 5 STARMAX" tvg-id="1280" tvg-logo="http://192.168.178.20:34400/images/d7998a254c6edce667f4964d2def1152.png" group-title="MOVIES",CINEMAX 5 STARMAX
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/958f6b57f998e7e19d97a5cd236ef01c
+#EXTINF:0 channelID="x-ID.281" tvg-chno="1281" tvg-name="CINEMAX MOREMAX" tvg-id="1281" tvg-logo="http://192.168.178.20:34400/images/6edba9e71e8b7df27495866002e52e01.png" group-title="MOVIES",CINEMAX MOREMAX
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/841406e3f227c7713a2d9dd2e5487991
+#EXTINF:0 channelID="x-ID.282" tvg-chno="1282" tvg-name="CINEMAX THRILLERMAX" tvg-id="1282" tvg-logo="http://192.168.178.20:34400/images/2f145d12c70f6687d41600879ced1166.png" group-title="MOVIES",CINEMAX THRILLERMAX
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/e05181d67f6aac945d489c296122aa6b
+#EXTINF:0 channelID="x-ID.283" tvg-chno="1283" tvg-name="CINEMAX WEST" tvg-id="1283" tvg-logo="http://192.168.178.20:34400/images/88afb9e9687ff48da8dbc1c9bce8fb96.png" group-title="MOVIES",CINEMAX WEST
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/deaa07405354bc3c42eede368860a511
+#EXTINF:0 channelID="x-ID.284" tvg-chno="1284" tvg-name="COZI TV" tvg-id="1284" tvg-logo="http://192.168.178.20:34400/images/38322f4ae08a29ff979bd23c412a7671.png" group-title="MOVIES",COZI TV
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/fa63bd458d21237ca572c58488824caa
+#EXTINF:0 channelID="x-ID.285" tvg-chno="1285" tvg-name="EPIX" tvg-id="1285" tvg-logo="http://192.168.178.20:34400/images/4f37d356707cf33e040021a841c91979.jpg" group-title="MOVIES",EPIX
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/c96c41fb57c741a7b6e454b2917b6aa2
+#EXTINF:0 channelID="x-ID.286" tvg-chno="1286" tvg-name="EPIX 2" tvg-id="1286" tvg-logo="http://192.168.178.20:34400/images/b21250b65bb1650b1eeb1eda09faab6a.png" group-title="MOVIES",EPIX 2
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/9f8d9e3df27d1083b9896d1ade952f97
+#EXTINF:0 channelID="x-ID.287" tvg-chno="1287" tvg-name="EPIX DRIVE IN" tvg-id="1287" tvg-logo="http://192.168.178.20:34400/images/593d274d9661cbcd5e71aaafe2486ccb.png" group-title="MOVIES",EPIX DRIVE IN
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6e3ae6d8cacb3b5c1285e587b1b35b3f
+#EXTINF:0 channelID="x-ID.288" tvg-chno="1288" tvg-name="FILM 4 HD UK" tvg-id="1288" tvg-logo="http://192.168.178.20:34400/images/78085f9c09b7d854741b0f4b73277f19.png" group-title="MOVIES",FILM 4 HD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/47af4ddc751e21213e21dd3bc838195d
+#EXTINF:0 channelID="x-ID.289" tvg-chno="1289" tvg-name="HALLMARK CHANNEL" tvg-id="1289" tvg-logo="http://192.168.178.20:34400/images/b4daf48ca1999e12045cfcae3a0f6dfc.png" group-title="MOVIES",HALLMARK CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/959b178c4d326d5edef4c81c4fb8093a
+#EXTINF:0 channelID="x-ID.290" tvg-chno="1290" tvg-name="HALLMARK DRAMA" tvg-id="1290" tvg-logo="http://192.168.178.20:34400/images/11a3706112b04e975ec76faa61a4a4fa.png" group-title="MOVIES",HALLMARK DRAMA
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5765d5be9f736c617da4b52da6d6f45c
+#EXTINF:0 channelID="x-ID.291" tvg-chno="1291" tvg-name="HALLMARK MOVIES & MYSTERIES" tvg-id="1291" tvg-logo="http://192.168.178.20:34400/images/e11d35231c4aff116966418dc63f5c7a.png" group-title="MOVIES",HALLMARK MOVIES & MYSTERIES
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2c407183bf432f9cacb8346a9973b156
+#EXTINF:0 channelID="x-ID.292" tvg-chno="1292" tvg-name="HBO 2" tvg-id="1292" tvg-logo="http://192.168.178.20:34400/images/1def398a9a43f4699b9833d3ed3a66cc.png" group-title="MOVIES",HBO 2
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/58e26f3a819630770e64eca0cf4b1ae8
+#EXTINF:0 channelID="x-ID.293" tvg-chno="1293" tvg-name="HBO COMEDY" tvg-id="1293" tvg-logo="http://192.168.178.20:34400/images/2823512b10d897be30a86efa06dfde38.png" group-title="MOVIES",HBO COMEDY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b50b259831ab8171d463298be927b3fe
+#EXTINF:0 channelID="x-ID.294" tvg-chno="1294" tvg-name="HBO FAMILY EAST" tvg-id="1294" tvg-logo="http://192.168.178.20:34400/images/2a5e84e7af542d088c02c6fcf7b2ea80.png" group-title="MOVIES",HBO FAMILY EAST
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5bb2091ef1147b395b9e473f31e29c51
+#EXTINF:0 channelID="x-ID.295" tvg-chno="1295" tvg-name="HBO WEST" tvg-id="1295" tvg-logo="http://192.168.178.20:34400/images/577cac03bc006b9018c726c09a4f4d54.png" group-title="MOVIES",HBO WEST
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/325c55fe3015b5f4f7d427d6f1d5b611
+#EXTINF:0 channelID="x-ID.296" tvg-chno="1296" tvg-name="HBO ZONE" tvg-id="1296" tvg-logo="http://192.168.178.20:34400/images/8901aec944e1ade6f14d074af96b302c.png" group-title="MOVIES",HBO ZONE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/85e07dbc53c43084f098a0733be689b9
+#EXTINF:0 channelID="x-ID.297" tvg-chno="1297" tvg-name="HDNET MOVIES" tvg-id="1297" tvg-logo="http://192.168.178.20:34400/images/3cf8b49bc97587904f54cbc03b470527.png" group-title="MOVIES",HDNET MOVIES
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/20a356b940ff39770b53eac48ec4aa69
+#EXTINF:0 channelID="x-ID.298" tvg-chno="1298" tvg-name="HORROR CHANNEL" tvg-id="1298" tvg-logo="http://192.168.178.20:34400/images/ddaacd039ea58ac87b8757117e97f21c.png" group-title="MOVIES",HORROR CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5143732fd2133ac1bc9fa625c295f0f7
+#EXTINF:0 channelID="x-ID.299" tvg-chno="1299" tvg-name="MOVIE PLEX" tvg-id="1299" tvg-logo="http://192.168.178.20:34400/images/44e51192c8d9bda40106b718084b310e.png" group-title="MOVIES",MOVIE PLEX
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/8eda2fea8d747cc7a142db0336f4e050
+#EXTINF:0 channelID="x-ID.300" tvg-chno="1300" tvg-name="RUSH BY AMC" tvg-id="1300" tvg-logo="http://192.168.178.20:34400/images/0316066ca1582c485502e6372d7445c0.png" group-title="MOVIES",RUSH BY AMC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/600026b8e51297540d7fbafeb21160ac
+#EXTINF:0 channelID="x-ID.301" tvg-chno="1301" tvg-name="SHO x BET" tvg-id="1301" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/ShoBET_2020.svg/revision/latest/scale-to-width-down/340?cb=20200719182354" group-title="MOVIES",SHO x BET
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/15d6d21ed17dd42f2939b10fc00a685f
+#EXTINF:0 channelID="x-ID.302" tvg-chno="1302" tvg-name="SHOWTIME" tvg-id="1302" tvg-logo="http://192.168.178.20:34400/images/1cd504c9124e6c1f3987aab4750f43ad.png" group-title="MOVIES",SHOWTIME
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f6f4cb229f8ea8ce99b5fa7808901830
+#EXTINF:0 channelID="x-ID.303" tvg-chno="1303" tvg-name="SHOWTIME 2" tvg-id="1303" tvg-logo="http://192.168.178.20:34400/images/a3de2f7c363afedf0eec21240b3269d9.png" group-title="MOVIES",SHOWTIME 2
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/5417277a27a0ca4a6e6319fed1f36ee7
+#EXTINF:0 channelID="x-ID.304" tvg-chno="1304" tvg-name="SHOWTIME BEYOND" tvg-id="1304" tvg-logo="http://192.168.178.20:34400/images/ab4b737a7a7764ee6ab24556cf7b3dd8.png" group-title="MOVIES",SHOWTIME BEYOND
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/843022b8907afa7fb3736e375650ab3b
+#EXTINF:0 channelID="x-ID.305" tvg-chno="1305" tvg-name="SHOWTIME EXTREME" tvg-id="1305" tvg-logo="http://192.168.178.20:34400/images/62cf72d6a30aafc73b3b9d69b93308b1.png" group-title="MOVIES",SHOWTIME EXTREME
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2aef02601ed5acc78770048f16d25604
+#EXTINF:0 channelID="x-ID.306" tvg-chno="1306" tvg-name="SHOWTIME FAMILY ZONE" tvg-id="1306" tvg-logo="http://192.168.178.20:34400/images/ef4d7d1119efbb5f9d0ee8588a1a0cd4.png" group-title="MOVIES",SHOWTIME FAMILY ZONE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/01d5c78dcee9c8838e6f009a47484f8b
+#EXTINF:0 channelID="x-ID.307" tvg-chno="1307" tvg-name="SHOWTIME SHOWCASE" tvg-id="1307" tvg-logo="http://192.168.178.20:34400/images/ea018fa0cb1f7b8af3d857765faf10c1.png" group-title="MOVIES",SHOWTIME SHOWCASE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/ba00d8f56309d030c6ecd5c0e53b3839
+#EXTINF:0 channelID="x-ID.308" tvg-chno="1308" tvg-name="SHOWTIME WOMEN" tvg-id="1308" tvg-logo="http://192.168.178.20:34400/images/8b853b492f518a012d6dce9c2a8849fd.png" group-title="MOVIES",SHOWTIME WOMEN
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/0cf5f4e6e7eb7fbdba3a95e141c88065
+#EXTINF:0 channelID="x-ID.309" tvg-chno="1309" tvg-name="SKY CINEMA ANIMATION FHD UK" tvg-id="1309" tvg-logo="http://192.168.178.20:34400/images/7f19103050bf74349428002c5a45e6c4.png" group-title="MOVIES",SKY CINEMA ANIMATION FHD UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/485e317573a941db75ff64820bd32438
+#EXTINF:0 channelID="x-ID.310" tvg-chno="1310" tvg-name="SKY CINEMA COMEDY" tvg-id="1310" tvg-logo="http://192.168.178.20:34400/images/42f8373c297ef3af4565e66a22a8c39f.png" group-title="MOVIES",SKY CINEMA COMEDY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d13ba707fde22880daebf891bae1cdbf
+#EXTINF:0 channelID="x-ID.311" tvg-chno="1311" tvg-name="SKY CINEMA DISNEY" tvg-id="1311" tvg-logo="http://192.168.178.20:34400/images/3d4b6093662d191273e75d8f143f68e3.png" group-title="MOVIES",SKY CINEMA DISNEY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/fa2032d6f5ffaeb4d2d54c1511c59e27
+#EXTINF:0 channelID="x-ID.312" tvg-chno="1312" tvg-name="SKY CINEMA DRAMA" tvg-id="1312" tvg-logo="http://192.168.178.20:34400/images/e6fad4c7c241d08c0504f24e288780b6.png" group-title="MOVIES",SKY CINEMA DRAMA
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/72fc3dcb922f1a3c87cc5253e7185b79
+#EXTINF:0 channelID="x-ID.313" tvg-chno="1313" tvg-name="SKY CINEMA FAMILY" tvg-id="1313" tvg-logo="http://192.168.178.20:34400/images/c73f23876d9abd2c631aecd1116f59a2.png" group-title="MOVIES",SKY CINEMA FAMILY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b599be2682ff32bb9c027dfb5bebb8ba
+#EXTINF:0 channelID="x-ID.314" tvg-chno="1314" tvg-name="SKY CINEMA GREATS" tvg-id="1314" tvg-logo="http://192.168.178.20:34400/images/8ac9fc4b3c4f236d1b9d6845a9d79d6f.png" group-title="MOVIES",SKY CINEMA GREATS
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/cf5ae6bae8aa0390537431b3fbb7bc6a
+#EXTINF:0 channelID="x-ID.315" tvg-chno="1315" tvg-name="SKY CINEMA HITS UK" tvg-id="1315" tvg-logo="http://192.168.178.20:34400/images/cf738083a8f3c91d5f81f9165b43c62d.png" group-title="MOVIES",SKY CINEMA HITS UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/139a80c033c133f968ab3a4288883d1f
+#EXTINF:0 channelID="x-ID.316" tvg-chno="1316" tvg-name="SHOWTIME NEXT" tvg-id="1316" tvg-logo="http://192.168.178.20:34400/images/af7bf876d6313ce1458fb3f2c227b3e5.png" group-title="MOVIES",SHOWTIME NEXT
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/8eaadcb5429b4b50871b6d4024d840d0
+#EXTINF:0 channelID="x-ID.317" tvg-chno="1317" tvg-name="SKY CINEMA PREMIERE" tvg-id="1317" tvg-logo="http://192.168.178.20:34400/images/9231962132908d2a39f500ea24e171a6.png" group-title="MOVIES",SKY CINEMA PREMIERE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/6bebbad6e0f9a750d3921c209fcbef41
+#EXTINF:0 channelID="x-ID.318" tvg-chno="1318" tvg-name="SKY CINEMA SCI-FI UK" tvg-id="1318" tvg-logo="http://192.168.178.20:34400/images/a637f4d23bffa1a06bec7553d9be7090.png" group-title="MOVIES",SKY CINEMA SCI-FI UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/df1c5d7fd29e59d20647f018a391e9e5
+#EXTINF:0 channelID="x-ID.319" tvg-chno="1319" tvg-name="SONY ACTION MOVIES" tvg-id="1319" tvg-logo="http://192.168.178.20:34400/images/96d4ae67eaa1b53b538b7c327a468673.png" group-title="MOVIES",SONY ACTION MOVIES
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/cc9338db2f454c262098c6e82c7b06ee
+#EXTINF:0 channelID="x-ID.320" tvg-chno="1320" tvg-name="SONY MOVIE CHANNEL" tvg-id="1320" tvg-logo="http://192.168.178.20:34400/images/46fb2878826f0ea66e1989a4bb3619f5.png" group-title="MOVIES",SONY MOVIE CHANNEL
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b218b85ce4f1b2b050e4ed3091fd099c
+#EXTINF:0 channelID="x-ID.321" tvg-chno="1321" tvg-name="SONY MOVIES" tvg-id="1321" tvg-logo="http://192.168.178.20:34400/images/d915814b44698c53f309f2d2a2cc2b6c.png" group-title="MOVIES",SONY MOVIES
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/d23bd627192088ef88737b3769a88d43
+#EXTINF:0 channelID="x-ID.322" tvg-chno="1322" tvg-name="STARZ" tvg-id="1322" tvg-logo="http://192.168.178.20:34400/images/e51edff6797829804208949c200fb0c6.png" group-title="MOVIES",STARZ
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/3a2e89d10242ebab04c7177cd26f851e
+#EXTINF:0 channelID="x-ID.323" tvg-chno="1323" tvg-name="STARZ  ENCORE BLACK" tvg-id="1323" tvg-logo="http://192.168.178.20:34400/images/202a91b38e76205f67f021ddada9de48.png" group-title="MOVIES",STARZ  ENCORE BLACK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/9518cc00b557696f6f2f89695f05ba0f
+#EXTINF:0 channelID="x-ID.324" tvg-chno="1324" tvg-name="STARZ CINEMA" tvg-id="1324" tvg-logo="http://192.168.178.20:34400/images/92f95b1cef36d30f19eb33b133efd396.png" group-title="MOVIES",STARZ CINEMA
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/91565f67cde6573b283de417f63316b6
+#EXTINF:0 channelID="x-ID.325" tvg-chno="1325" tvg-name="STARZ COMEDY" tvg-id="1325" tvg-logo="http://192.168.178.20:34400/images/4f8ea332f5676d5e6775398afccf4d60.png" group-title="MOVIES",STARZ COMEDY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/f71bf30e498d706237436995f17dcca3
+#EXTINF:0 channelID="x-ID.326" tvg-chno="1326" tvg-name="STARZ EAST" tvg-id="1326" tvg-logo="http://192.168.178.20:34400/images/e51edff6797829804208949c200fb0c6.png" group-title="MOVIES",STARZ EAST
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/b6d2e79460bc03996805b08530cc9bde
+#EXTINF:0 channelID="x-ID.327" tvg-chno="1327" tvg-name="STARZ EDGE" tvg-id="1327" tvg-logo="http://192.168.178.20:34400/images/089de1ea42b6f38bb3e804f88534c0ee.png" group-title="MOVIES",STARZ EDGE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/7207e38b3c405f7e6e48561381bc8e57
+#EXTINF:0 channelID="x-ID.328" tvg-chno="1328" tvg-name="STARZ ENCORE" tvg-id="1328" tvg-logo="http://192.168.178.20:34400/images/80d9aa2087e67fe95792eb17c4ea7d7b.png" group-title="MOVIES",STARZ ENCORE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2f08e6216177e0549b8597602c3302ad
+#EXTINF:0 channelID="x-ID.329" tvg-chno="1329" tvg-name="STARZ ENCORE ACTION" tvg-id="1329" tvg-logo="http://icons.00100.co/icon/us/StarzEncoreAction.us.png" group-title="MOVIES",STARZ ENCORE ACTION
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/76df92339bfdc3efbb195aa42a36e761
+#EXTINF:0 channelID="x-ID.330" tvg-chno="1330" tvg-name="STARZ ENCORE CLASSIC" tvg-id="1330" tvg-logo="http://192.168.178.20:34400/images/507fbf1d089d56149668800af1a04da7.png" group-title="MOVIES",STARZ ENCORE CLASSIC
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/dfcd1f13afac16f91627d71415830507
+#EXTINF:0 channelID="x-ID.331" tvg-chno="1331" tvg-name="STARZ ENCORE FAMILY" tvg-id="1331" tvg-logo="http://192.168.178.20:34400/images/6503ee19398f7bed11dea5ca9008e5bd.png" group-title="MOVIES",STARZ ENCORE FAMILY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/381f2f4acc43adfc3660c2ef895aa5ec
+#EXTINF:0 channelID="x-ID.332" tvg-chno="1332" tvg-name="STARZ ENCORE SUSPENSE" tvg-id="1332" tvg-logo="http://192.168.178.20:34400/images/c4797addc650130d56012a8550ffde85.png" group-title="MOVIES",STARZ ENCORE SUSPENSE
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/3c97693f0ea479232a1691df1a1cf106
+#EXTINF:0 channelID="x-ID.333" tvg-chno="1333" tvg-name="STARZ IN BLACK" tvg-id="1333" tvg-logo="http://192.168.178.20:34400/images/853840097844fd1f60cf94154685dd50.png" group-title="MOVIES",STARZ IN BLACK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/3f9eacb78aa7f30c1059296f23f5823f
+#EXTINF:0 channelID="x-ID.334" tvg-chno="1334" tvg-name="STARZ KIDS & FAMILY" tvg-id="1334" tvg-logo="http://192.168.178.20:34400/images/a52e61a4a10b0bc21e5492c2c95c60c0.png" group-title="MOVIES",STARZ KIDS & FAMILY
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/a02822a2fd81792f8553cc8ae3d25f58
+#EXTINF:0 channelID="x-ID.335" tvg-chno="1335" tvg-name="STARZ WEST" tvg-id="1335" tvg-logo="http://192.168.178.20:34400/images/e51edff6797829804208949c200fb0c6.png" group-title="MOVIES",STARZ WEST
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/fd02a14589c0b0713b4149659485a4ee
+#EXTINF:0 channelID="x-ID.336" tvg-chno="1336" tvg-name="TALKING PICTURES UK" tvg-id="1336" tvg-logo="http://192.168.178.20:34400/images/f79c8e8201bf8d0cc112c2e9a639f445.png" group-title="MOVIES",TALKING PICTURES UK
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/2307e631d293e378eec73d8f5a7edf78
+#EXTINF:0 channelID="x-ID.337" tvg-chno="1337" tvg-name="TCM" tvg-id="1337" tvg-logo="http://192.168.178.20:34400/images/73e776f744cb7382d54a0697c8c8051d.png" group-title="MOVIES",TCM
+#EXTSIZE: Big
+http://192.168.178.20:34400/stream/dc69804b0756374533d6f42f92f5452c
