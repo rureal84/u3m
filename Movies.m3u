@@ -1,0 +1,123 @@
+﻿#EXTM3U url-tvg="http://192.168.178.20:34400/xmltv/xteve.xml" x-tvg-url="http://192.168.178.20:34400/xmltv/xteve.xml"
+#EXTINF:0 group-title="MOVIES" tvg-id="1277" tvg-name="AMC +" tvg-logo="http://192.168.178.20:34400/images/39efcc8c6836d247dedf101017f4b909.png" ,AMC +
+http://192.168.178.20:34400/stream/1454f27b8f0d3a8514ca6b2648e99563
+#EXTINF:0 group-title="MOVIES" tvg-id="1278" tvg-name="CINE SONY" tvg-logo="http://192.168.178.20:34400/images/c0ac34a019120cc054b80bbac81cdc05.png" ,CINE SONY
+http://192.168.178.20:34400/stream/2a190f317c735a76b729e8d87472ba6d
+#EXTINF:0 group-title="MOVIES" tvg-id="1279" tvg-name="CINEMAX" tvg-logo="http://192.168.178.20:34400/images/88afb9e9687ff48da8dbc1c9bce8fb96.png" ,CINEMAX
+http://192.168.178.20:34400/stream/61bf4e39a5d0c0d430f3dbcfceb9b856
+#EXTINF:0 group-title="MOVIES" tvg-id="1280" tvg-name="CINEMAX 5 STARMAX" tvg-logo="http://192.168.178.20:34400/images/d7998a254c6edce667f4964d2def1152.png" ,CINEMAX 5 STARMAX
+http://192.168.178.20:34400/stream/958f6b57f998e7e19d97a5cd236ef01c
+#EXTINF:0 group-title="MOVIES" tvg-id="1281" tvg-name="CINEMAX MOREMAX" tvg-logo="http://192.168.178.20:34400/images/6edba9e71e8b7df27495866002e52e01.png" ,CINEMAX MOREMAX
+http://192.168.178.20:34400/stream/841406e3f227c7713a2d9dd2e5487991
+#EXTINF:0 group-title="MOVIES" tvg-id="1282" tvg-name="CINEMAX THRILLERMAX" tvg-logo="http://192.168.178.20:34400/images/2f145d12c70f6687d41600879ced1166.png" ,CINEMAX THRILLERMAX
+http://192.168.178.20:34400/stream/e05181d67f6aac945d489c296122aa6b
+#EXTINF:0 group-title="MOVIES" tvg-id="1283" tvg-name="CINEMAX WEST" tvg-logo="http://192.168.178.20:34400/images/88afb9e9687ff48da8dbc1c9bce8fb96.png" ,CINEMAX WEST
+http://192.168.178.20:34400/stream/deaa07405354bc3c42eede368860a511
+#EXTINF:0 group-title="MOVIES" tvg-id="1284" tvg-name="COZI TV" tvg-logo="http://192.168.178.20:34400/images/38322f4ae08a29ff979bd23c412a7671.png" ,COZI TV
+http://192.168.178.20:34400/stream/fa63bd458d21237ca572c58488824caa
+#EXTINF:0 group-title="MOVIES" tvg-id="1285" tvg-name="EPIX" tvg-logo="http://192.168.178.20:34400/images/4f37d356707cf33e040021a841c91979.jpg" ,EPIX
+http://192.168.178.20:34400/stream/c96c41fb57c741a7b6e454b2917b6aa2
+#EXTINF:0 group-title="MOVIES" tvg-id="1286" tvg-name="EPIX 2" tvg-logo="http://192.168.178.20:34400/images/b21250b65bb1650b1eeb1eda09faab6a.png" ,EPIX 2
+http://192.168.178.20:34400/stream/9f8d9e3df27d1083b9896d1ade952f97
+#EXTINF:0 group-title="MOVIES" tvg-id="1287" tvg-name="EPIX DRIVE IN" tvg-logo="http://192.168.178.20:34400/images/593d274d9661cbcd5e71aaafe2486ccb.png" ,EPIX DRIVE IN
+http://192.168.178.20:34400/stream/6e3ae6d8cacb3b5c1285e587b1b35b3f
+#EXTINF:0 group-title="MOVIES" tvg-id="1288" tvg-name="FILM 4 HD UK" tvg-logo="http://192.168.178.20:34400/images/78085f9c09b7d854741b0f4b73277f19.png" ,FILM 4 HD UK
+http://192.168.178.20:34400/stream/47af4ddc751e21213e21dd3bc838195d
+#EXTINF:0 group-title="MOVIES" tvg-id="1289" tvg-name="HALLMARK CHANNEL" tvg-logo="http://192.168.178.20:34400/images/b4daf48ca1999e12045cfcae3a0f6dfc.png" ,HALLMARK CHANNEL
+http://192.168.178.20:34400/stream/959b178c4d326d5edef4c81c4fb8093a
+#EXTINF:0 group-title="MOVIES" tvg-id="1290" tvg-name="HALLMARK DRAMA" tvg-logo="http://192.168.178.20:34400/images/11a3706112b04e975ec76faa61a4a4fa.png" ,HALLMARK DRAMA
+http://192.168.178.20:34400/stream/5765d5be9f736c617da4b52da6d6f45c
+#EXTINF:0 group-title="MOVIES" tvg-id="1291" tvg-name="HALLMARK MOVIES & MYSTERIES" tvg-logo="http://192.168.178.20:34400/images/e11d35231c4aff116966418dc63f5c7a.png" ,HALLMARK MOVIES & MYSTERIES
+http://192.168.178.20:34400/stream/2c407183bf432f9cacb8346a9973b156
+#EXTINF:0 group-title="MOVIES" tvg-id="1292" tvg-name="HBO 2" tvg-logo="http://192.168.178.20:34400/images/1def398a9a43f4699b9833d3ed3a66cc.png" ,HBO 2
+http://192.168.178.20:34400/stream/58e26f3a819630770e64eca0cf4b1ae8
+#EXTINF:0 group-title="MOVIES" tvg-id="1293" tvg-name="HBO COMEDY" tvg-logo="http://192.168.178.20:34400/images/2823512b10d897be30a86efa06dfde38.png" ,HBO COMEDY
+http://192.168.178.20:34400/stream/b50b259831ab8171d463298be927b3fe
+#EXTINF:0 group-title="MOVIES" tvg-id="1294" tvg-name="HBO FAMILY EAST" tvg-logo="http://192.168.178.20:34400/images/2a5e84e7af542d088c02c6fcf7b2ea80.png" ,HBO FAMILY EAST
+http://192.168.178.20:34400/stream/5bb2091ef1147b395b9e473f31e29c51
+#EXTINF:0 group-title="MOVIES" tvg-id="1295" tvg-name="HBO WEST" tvg-logo="http://192.168.178.20:34400/images/577cac03bc006b9018c726c09a4f4d54.png" ,HBO WEST
+http://192.168.178.20:34400/stream/325c55fe3015b5f4f7d427d6f1d5b611
+#EXTINF:0 group-title="MOVIES" tvg-id="1296" tvg-name="HBO ZONE" tvg-logo="http://192.168.178.20:34400/images/8901aec944e1ade6f14d074af96b302c.png" ,HBO ZONE
+http://192.168.178.20:34400/stream/85e07dbc53c43084f098a0733be689b9
+#EXTINF:0 group-title="MOVIES" tvg-id="1297" tvg-name="HDNET MOVIES" tvg-logo="http://192.168.178.20:34400/images/3cf8b49bc97587904f54cbc03b470527.png" ,HDNET MOVIES
+http://192.168.178.20:34400/stream/20a356b940ff39770b53eac48ec4aa69
+#EXTINF:0 group-title="MOVIES" tvg-id="1298" tvg-name="HORROR CHANNEL" tvg-logo="http://192.168.178.20:34400/images/ddaacd039ea58ac87b8757117e97f21c.png" ,HORROR CHANNEL
+http://192.168.178.20:34400/stream/5143732fd2133ac1bc9fa625c295f0f7
+#EXTINF:0 group-title="MOVIES" tvg-id="1299" tvg-name="MOVIE PLEX" tvg-logo="http://192.168.178.20:34400/images/44e51192c8d9bda40106b718084b310e.png" ,MOVIE PLEX
+http://192.168.178.20:34400/stream/8eda2fea8d747cc7a142db0336f4e050
+#EXTINF:0 group-title="MOVIES" tvg-id="1300" tvg-name="RUSH BY AMC" tvg-logo="http://192.168.178.20:34400/images/0316066ca1582c485502e6372d7445c0.png" ,RUSH BY AMC
+http://192.168.178.20:34400/stream/600026b8e51297540d7fbafeb21160ac
+#EXTINF:0 group-title="MOVIES" tvg-id="1301" tvg-name="SHO x BET" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f5/ShoBET_2020.svg/revision/latest/scale-to-width-down/340?cb=20200719182354" ,SHO x BET
+http://192.168.178.20:34400/stream/15d6d21ed17dd42f2939b10fc00a685f
+#EXTINF:0 group-title="MOVIES" tvg-id="1302" tvg-name="SHOWTIME" tvg-logo="http://192.168.178.20:34400/images/1cd504c9124e6c1f3987aab4750f43ad.png" ,SHOWTIME
+http://192.168.178.20:34400/stream/f6f4cb229f8ea8ce99b5fa7808901830
+#EXTINF:0 group-title="MOVIES" tvg-id="1303" tvg-name="SHOWTIME 2" tvg-logo="http://192.168.178.20:34400/images/a3de2f7c363afedf0eec21240b3269d9.png" ,SHOWTIME 2
+http://192.168.178.20:34400/stream/5417277a27a0ca4a6e6319fed1f36ee7
+#EXTINF:0 group-title="MOVIES" tvg-id="1304" tvg-name="SHOWTIME BEYOND" tvg-logo="http://192.168.178.20:34400/images/ab4b737a7a7764ee6ab24556cf7b3dd8.png" ,SHOWTIME BEYOND
+http://192.168.178.20:34400/stream/843022b8907afa7fb3736e375650ab3b
+#EXTINF:0 group-title="MOVIES" tvg-id="1305" tvg-name="SHOWTIME EXTREME" tvg-logo="http://192.168.178.20:34400/images/62cf72d6a30aafc73b3b9d69b93308b1.png" ,SHOWTIME EXTREME
+http://192.168.178.20:34400/stream/2aef02601ed5acc78770048f16d25604
+#EXTINF:0 group-title="MOVIES" tvg-id="1306" tvg-name="SHOWTIME FAMILY ZONE" tvg-logo="http://192.168.178.20:34400/images/ef4d7d1119efbb5f9d0ee8588a1a0cd4.png" ,SHOWTIME FAMILY ZONE
+http://192.168.178.20:34400/stream/01d5c78dcee9c8838e6f009a47484f8b
+#EXTINF:0 group-title="MOVIES" tvg-id="1307" tvg-name="SHOWTIME SHOWCASE" tvg-logo="http://192.168.178.20:34400/images/ea018fa0cb1f7b8af3d857765faf10c1.png" ,SHOWTIME SHOWCASE
+http://192.168.178.20:34400/stream/ba00d8f56309d030c6ecd5c0e53b3839
+#EXTINF:0 group-title="MOVIES" tvg-id="1308" tvg-name="SHOWTIME WOMEN" tvg-logo="http://192.168.178.20:34400/images/8b853b492f518a012d6dce9c2a8849fd.png" ,SHOWTIME WOMEN
+http://192.168.178.20:34400/stream/0cf5f4e6e7eb7fbdba3a95e141c88065
+#EXTINF:0 group-title="MOVIES" tvg-id="1309" tvg-name="SKY CINEMA ANIMATION FHD UK" tvg-logo="http://192.168.178.20:34400/images/7f19103050bf74349428002c5a45e6c4.png" ,SKY CINEMA ANIMATION FHD UK
+http://192.168.178.20:34400/stream/485e317573a941db75ff64820bd32438
+#EXTINF:0 group-title="MOVIES" tvg-id="1310" tvg-name="SKY CINEMA COMEDY" tvg-logo="http://192.168.178.20:34400/images/42f8373c297ef3af4565e66a22a8c39f.png" ,SKY CINEMA COMEDY
+http://192.168.178.20:34400/stream/d13ba707fde22880daebf891bae1cdbf
+#EXTINF:0 group-title="MOVIES" tvg-id="1311" tvg-name="SKY CINEMA DISNEY" tvg-logo="http://192.168.178.20:34400/images/3d4b6093662d191273e75d8f143f68e3.png" ,SKY CINEMA DISNEY
+http://192.168.178.20:34400/stream/fa2032d6f5ffaeb4d2d54c1511c59e27
+#EXTINF:0 group-title="MOVIES" tvg-id="1312" tvg-name="SKY CINEMA DRAMA" tvg-logo="http://192.168.178.20:34400/images/e6fad4c7c241d08c0504f24e288780b6.png" ,SKY CINEMA DRAMA
+http://192.168.178.20:34400/stream/72fc3dcb922f1a3c87cc5253e7185b79
+#EXTINF:0 group-title="MOVIES" tvg-id="1313" tvg-name="SKY CINEMA FAMILY" tvg-logo="http://192.168.178.20:34400/images/c73f23876d9abd2c631aecd1116f59a2.png" ,SKY CINEMA FAMILY
+http://192.168.178.20:34400/stream/b599be2682ff32bb9c027dfb5bebb8ba
+#EXTINF:0 group-title="MOVIES" tvg-id="1314" tvg-name="SKY CINEMA GREATS" tvg-logo="http://192.168.178.20:34400/images/8ac9fc4b3c4f236d1b9d6845a9d79d6f.png" ,SKY CINEMA GREATS
+http://192.168.178.20:34400/stream/cf5ae6bae8aa0390537431b3fbb7bc6a
+#EXTINF:0 group-title="MOVIES" tvg-id="1315" tvg-name="SKY CINEMA HITS UK" tvg-logo="http://192.168.178.20:34400/images/cf738083a8f3c91d5f81f9165b43c62d.png" ,SKY CINEMA HITS UK
+http://192.168.178.20:34400/stream/139a80c033c133f968ab3a4288883d1f
+#EXTINF:0 group-title="MOVIES" tvg-id="1316" tvg-name="SHOWTIME NEXT" tvg-logo="http://192.168.178.20:34400/images/af7bf876d6313ce1458fb3f2c227b3e5.png" ,SHOWTIME NEXT
+http://192.168.178.20:34400/stream/8eaadcb5429b4b50871b6d4024d840d0
+#EXTINF:0 group-title="MOVIES" tvg-id="1317" tvg-name="SKY CINEMA PREMIERE" tvg-logo="http://192.168.178.20:34400/images/9231962132908d2a39f500ea24e171a6.png" ,SKY CINEMA PREMIERE
+http://192.168.178.20:34400/stream/6bebbad6e0f9a750d3921c209fcbef41
+#EXTINF:0 group-title="MOVIES" tvg-id="1318" tvg-name="SKY CINEMA SCI-FI UK" tvg-logo="http://192.168.178.20:34400/images/a637f4d23bffa1a06bec7553d9be7090.png" ,SKY CINEMA SCI-FI UK
+http://192.168.178.20:34400/stream/df1c5d7fd29e59d20647f018a391e9e5
+#EXTINF:0 group-title="MOVIES" tvg-id="1319" tvg-name="SONY ACTION MOVIES" tvg-logo="http://192.168.178.20:34400/images/96d4ae67eaa1b53b538b7c327a468673.png" ,SONY ACTION MOVIES
+http://192.168.178.20:34400/stream/cc9338db2f454c262098c6e82c7b06ee
+#EXTINF:0 group-title="MOVIES" tvg-id="1320" tvg-name="SONY MOVIE CHANNEL" tvg-logo="http://192.168.178.20:34400/images/46fb2878826f0ea66e1989a4bb3619f5.png" ,SONY MOVIE CHANNEL
+http://192.168.178.20:34400/stream/b218b85ce4f1b2b050e4ed3091fd099c
+#EXTINF:0 group-title="MOVIES" tvg-id="1321" tvg-name="SONY MOVIES" tvg-logo="http://192.168.178.20:34400/images/d915814b44698c53f309f2d2a2cc2b6c.png" ,SONY MOVIES
+http://192.168.178.20:34400/stream/d23bd627192088ef88737b3769a88d43
+#EXTINF:0 group-title="MOVIES" tvg-id="1322" tvg-name="STARZ" tvg-logo="http://192.168.178.20:34400/images/e51edff6797829804208949c200fb0c6.png" ,STARZ
+http://192.168.178.20:34400/stream/3a2e89d10242ebab04c7177cd26f851e
+#EXTINF:0 group-title="MOVIES" tvg-id="1323" tvg-name="STARZ  ENCORE BLACK" tvg-logo="http://192.168.178.20:34400/images/202a91b38e76205f67f021ddada9de48.png" ,STARZ  ENCORE BLACK
+http://192.168.178.20:34400/stream/9518cc00b557696f6f2f89695f05ba0f
+#EXTINF:0 group-title="MOVIES" tvg-id="1324" tvg-name="STARZ CINEMA" tvg-logo="http://192.168.178.20:34400/images/92f95b1cef36d30f19eb33b133efd396.png" ,STARZ CINEMA
+http://192.168.178.20:34400/stream/91565f67cde6573b283de417f63316b6
+#EXTINF:0 group-title="MOVIES" tvg-id="1325" tvg-name="STARZ COMEDY" tvg-logo="http://192.168.178.20:34400/images/4f8ea332f5676d5e6775398afccf4d60.png" ,STARZ COMEDY
+http://192.168.178.20:34400/stream/f71bf30e498d706237436995f17dcca3
+#EXTINF:0 group-title="MOVIES" tvg-id="1326" tvg-name="STARZ EAST" tvg-logo="http://192.168.178.20:34400/images/e51edff6797829804208949c200fb0c6.png" ,STARZ EAST
+http://192.168.178.20:34400/stream/b6d2e79460bc03996805b08530cc9bde
+#EXTINF:0 group-title="MOVIES" tvg-id="1327" tvg-name="STARZ EDGE" tvg-logo="http://192.168.178.20:34400/images/089de1ea42b6f38bb3e804f88534c0ee.png" ,STARZ EDGE
+http://192.168.178.20:34400/stream/7207e38b3c405f7e6e48561381bc8e57
+#EXTINF:0 group-title="MOVIES" tvg-id="1328" tvg-name="STARZ ENCORE" tvg-logo="http://192.168.178.20:34400/images/80d9aa2087e67fe95792eb17c4ea7d7b.png" ,STARZ ENCORE
+http://192.168.178.20:34400/stream/2f08e6216177e0549b8597602c3302ad
+#EXTINF:0 group-title="MOVIES" tvg-id="1329" tvg-name="STARZ ENCORE ACTION" tvg-logo="http://icons.00100.co/icon/us/StarzEncoreAction.us.png" ,STARZ ENCORE ACTION
+http://192.168.178.20:34400/stream/76df92339bfdc3efbb195aa42a36e761
+#EXTINF:0 group-title="MOVIES" tvg-id="1330" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="http://192.168.178.20:34400/images/507fbf1d089d56149668800af1a04da7.png" ,STARZ ENCORE CLASSIC
+http://192.168.178.20:34400/stream/dfcd1f13afac16f91627d71415830507
+#EXTINF:0 group-title="MOVIES" tvg-id="1331" tvg-name="STARZ ENCORE FAMILY" tvg-logo="http://192.168.178.20:34400/images/6503ee19398f7bed11dea5ca9008e5bd.png" ,STARZ ENCORE FAMILY
+http://192.168.178.20:34400/stream/381f2f4acc43adfc3660c2ef895aa5ec
+#EXTINF:0 group-title="MOVIES" tvg-id="1332" tvg-name="STARZ ENCORE SUSPENSE" tvg-logo="http://192.168.178.20:34400/images/c4797addc650130d56012a8550ffde85.png" ,STARZ ENCORE SUSPENSE
+http://192.168.178.20:34400/stream/3c97693f0ea479232a1691df1a1cf106
+#EXTINF:0 group-title="MOVIES" tvg-id="1333" tvg-name="STARZ IN BLACK" tvg-logo="http://192.168.178.20:34400/images/853840097844fd1f60cf94154685dd50.png" ,STARZ IN BLACK
+http://192.168.178.20:34400/stream/3f9eacb78aa7f30c1059296f23f5823f
+#EXTINF:0 group-title="MOVIES" tvg-id="1334" tvg-name="STARZ KIDS & FAMILY" tvg-logo="http://192.168.178.20:34400/images/a52e61a4a10b0bc21e5492c2c95c60c0.png" ,STARZ KIDS & FAMILY
+http://192.168.178.20:34400/stream/a02822a2fd81792f8553cc8ae3d25f58
+#EXTINF:0 group-title="MOVIES" tvg-id="1335" tvg-name="STARZ WEST" tvg-logo="http://192.168.178.20:34400/images/e51edff6797829804208949c200fb0c6.png" ,STARZ WEST
+http://192.168.178.20:34400/stream/fd02a14589c0b0713b4149659485a4ee
+#EXTINF:0 group-title="MOVIES" tvg-id="1336" tvg-name="TALKING PICTURES UK" tvg-logo="http://192.168.178.20:34400/images/f79c8e8201bf8d0cc112c2e9a639f445.png" ,TALKING PICTURES UK
+http://192.168.178.20:34400/stream/2307e631d293e378eec73d8f5a7edf78
+#EXTINF:0 group-title="MOVIES" tvg-id="1337" tvg-name="TCM" tvg-logo="http://192.168.178.20:34400/images/73e776f744cb7382d54a0697c8c8051d.png" ,TCM
+http://192.168.178.20:34400/stream/dc69804b0756374533d6f42f92f5452c
