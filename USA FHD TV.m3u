@@ -1,0 +1,394 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="aande.us" tvg-name="USA: A&E FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/a_e_c.png" ,A&E
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6706
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="amc.us" tvg-name="USA: AMC FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/amc_c.png" ,AMC
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6707
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="americanheroeschannel.us" tvg-name="USA: AMERICAN HEROES FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/american-heroes-channel_c.png" ,AMERICAN HEROES
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6708
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="animalplanet.us" tvg-name="USA: ANIMAL PLANET FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" ,ANIMAL PLANET
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6709
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="awe.us" tvg-name="USA: AWE FHD 1080" tvg-logo="http://epg.justco.cc/guide/logos/AWE.png" ,AWE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6710
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="AXS USA" tvg-name="USA: AXS TV FHD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/AXS_TV_Logo.png" ,AXS TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6711
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="babyfirsttv.us" tvg-name="USA: BABY TV FHD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" ,BABY TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6712
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="bbcamerica.us" tvg-name="USA: BBC AMERICA FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/bbc-america_c.png" ,BBC AMERICA
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6713
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="bet.us" tvg-name="USA: BET FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/bet_c.png" ,BET
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6714
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="bether.us" tvg-name="USA: BET HER FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/bet_her_c.png" ,BET HER
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6715
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="bloombergtv.us" tvg-name="USA: BLOOMBERG TV FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/bloomberg.png" ,BLOOMBERG TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6716
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="bravo.us" tvg-name="USA: BRAVO FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/bravo_c.png" ,BRAVO
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6717
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="cartoonnetwork.us" tvg-name="USA: CARTOON NETWORK FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/cartoon-network_c.png" ,CARTOON NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6718
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="360north.us" tvg-name="USA: CBS SPORTS NETWORK FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" ,CBS SPORTS NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6719
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="CHEDDAR" tvg-name="USA: CHEDDAR BUSINESS FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/Cheddar-Busness-News_c.png" ,CHEDDAR BUSINESS
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6720
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="CHEDDAR" tvg-name="USA: CHEDDAR NEWS FHD 1080" tvg-logo="https://mergerlinks-production.s3.eu-west-2.amazonaws.com/files/company/52825/logo/220px-Cheddar_logo.png" ,CHEDDAR NEWS
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6721
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="cinemax.us" tvg-name="USA: CINEMAX EAST FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_east.png" ,CINEMAX EAST
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6722
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="cmt.us" tvg-name="USA: CMT FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/cmt_c.png" ,CMT
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6723
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="cnbc.us" tvg-name="USA: CNBC FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/cnbc_c.png" ,CNBC
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6724
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="cnbcworld.us" tvg-name="USA: CNBC WORLD FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/cnbc_world_c.png" ,CNBC WORLD
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6725
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="cnn.us" tvg-name="USA: CNN FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/cnn_c.png" ,CNN
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6726
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="comedycentral.us" tvg-name="USA: COMEDY CENTRAL" tvg-logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" ,COMEDY CENTRAL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6727
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="comet.us" tvg-name="USA: COMET FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/comet_c.png" ,COMET
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6728
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="cookingchannel.us" tvg-name="USA: COOKING CHANNEL FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/cooking-channel_c.png" ,COOKING CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6729
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="destinationamerica.us" tvg-name="USA: DESTINATION AMERICA FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/destination-america_c.png" ,DESTINATION AMERICA
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6732
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="discoverychannel.us" tvg-name="USA: DISCOVERY CHANNEL FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/discovery_c.png" ,DISCOVERY CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6733
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="discoveryfamily.us" tvg-name="USA: DISCOVERY FAMILY FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/discovery-family-channel_c.png" ,DISCOVERY FAMILY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6734
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="discoveryscience.us" tvg-name="USA: DISCOVERY SCIENCE FHD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" ,DISCOVERY SCIENCE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6735
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="disneychannel.us" tvg-name="USA: DISNEY CHANNEL FHD 1080" tvg-logo="https://tse4.mm.bing.net/th?id=OIP.GC1mOld4DM940tvCHI8QbwHaHa&pid=Api&P=0&w=300&h=300" ,DISNEY CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6736
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="disneyjunior.us" tvg-name="USA: DISNEY JUNIOR FHD 1080" tvg-logo="https://i.imgur.com/60NoFv6.gif" ,DISNEY JUNIOR
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6737
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="disneyxd.us" tvg-name="USA: DISNEY XD FHD 1080" tvg-logo="https://yt3.ggpht.com/a/AGF-l7-5KqEhVTI8F7QjPgdY9nuVsd74k7kpLOkxug=s900-c-k-c0xffffffff-no-rj-mo" ,DISNEY XD
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6738
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="doityourselfnetwork.us" tvg-name="USA: DIY NETWORK FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/diy_c.png" ,DIY NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6739
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="eentertainment.us" tvg-name="USA: E FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/e_c.png" ,E
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6740
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="elrey.us" tvg-name="USA: EL REY FHD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/El_Rey_Network.jpeg/220px-El_Rey_Network.jpeg" ,EL REY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6741
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="epix2.us" tvg-name="USA: EPIX 2 FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/epix2019_2.png" ,EPIX 2
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6742
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="epixdrivein.us" tvg-name="USA: EPIX DRIVE IN FHD 1080" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/epix2019_drive.png" ,EPIX DRIVE IN
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6743
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="epix.us" tvg-name="USA: EPIX FHD 1080" tvg-logo="https://yt3.ggpht.com/-wsQnz4CLzOs/AAAAAAAAAAI/AAAAAAAAAAA/QmNS_jiU08o/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,EPIX
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6744
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="epixhits.us" tvg-name="USA: EPIX HITS FHD 1080" tvg-logo="https://hd-report.com/wp-content/uploads/2015/09/epix-hits-logo.jpg" ,EPIX HITS
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6745
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="espn2.us" tvg-name="USA: ESPN 2 FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_2.png" ,ESPN 2
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6746
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="espn.us" tvg-name="USA: ESPN FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_us.png" ,ESPN
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6747
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="espnnews.us" tvg-name="USA: ESPN NEWS FHD 1080" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTQS8gGGJ_2-sHdyT_Ump1aL-2J1Hbyn_kl19YFbaBsf0ewsgXo" ,ESPN NEWS
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6748
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="espnu.us" tvg-name="USA: ESPN U FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_u.png" ,ESPN U
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6749
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="foodnetwork.us" tvg-name="USA: FOOD NETWORK FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/food_network_c.png" ,FOOD NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6750
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="foxbusiness.us" tvg-name="USA: FOX BUSINESS NETWORK" tvg-logo="https://imgx.fubo.tv/station_logos/foxbusiness_c.png" ,FOX BUSINESS NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6752
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="foxnews.us" tvg-name="USA: FOX NEWS CHANNEL FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/fox_news_c.png" ,FOX NEWS CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6751
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="foxsports1.us" tvg-name="USA: FOX SPORTS 1 FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png" ,FOX SPORTS 1
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6753
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="foxsports2.us" tvg-name="USA: FOX SPORTS 2 FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_asia.png" ,FOX SPORTS 2
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6754
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="fusetv.us" tvg-name="USA: FUSE FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fuse_east.png" ,FUSE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6755
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="fusion.us" tvg-name="USA: FUSION FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fusion-us.png" ,FUSION
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6756
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="fxmoviechannel.us" tvg-name="USA: FX MOVIE CHANNEL FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fxm-us.png" ,FX MOVIE CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6757
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="fxx.us" tvg-name="USA: FXX FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fxx_ca.png" ,FXX
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6758
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="fyi.us" tvg-name="USA: FYI FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fyi_us.png" ,FYI
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6759
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="goltv.us" tvg-name="USA: GOL TV FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/goltv_english_c.png" ,GOL TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6760
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="golfchannel.us" tvg-name="USA: GOLF CHANNEL FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.png" ,GOLF CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6761
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="gameshownetwork.us" tvg-name="USA: GSN FHD 1080" tvg-logo="http://icons.00100.co/icon/us/GameShowNetwork.us.png" ,GSN
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6762
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="hallmark.us" tvg-name="USA: HALLMARK CHANNEL FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/hallmark_channel_c.png" ,HALLMARK CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6763
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="hallmarkdrama.us" tvg-name="USA: HALLMARK DRAMA FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/hallmark-drama_c.png" ,HALLMARK DRAMA
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6764
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="hallmarkmoviesmysteries.us" tvg-name="USA: HALLMARK MOVIES & MYSTERIES FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/hallmark_movies_c.png" ,HALLMARK MOVIES & MYSTERIES
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6765
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="hbo.us" tvg-name="USA: HBO EAST FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_adria.png" ,HBO EAST
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6766
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="hbofamily.us" tvg-name="USA: HBO FAMILY EAST FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_east.png" ,HBO FAMILY EAST
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6767
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="hbolatino.us" tvg-name="USA: HBO LATINO FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_latino_este.png" ,HBO LATINO
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6768
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="hgtv.us" tvg-name="USA: HGTV FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_c.png" ,HGTV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6769
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="historychannel.us" tvg-name="USA: HISTORY CHANNEL FHD 1080" tvg-logo="http://icons.00100.co/icon/us/HistoryChannel.us.png" ,HISTORY CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6770
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="hln.us" tvg-name="USA: HLN FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/hln_c.png" ,HLN
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6771
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="IFC" tvg-name="USA: IFC FHD 1080" tvg-logo="https://th.bing.com/th/id/OIP.N4PVI9JqK2Objl5NwKj39gHaCk?pid=Api&rs=1" ,IFC
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6772
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="investigationdiscovery.us" tvg-name="USA: INVESTIGATION DISCOVERY FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png" ,INVESTIGATION DISCOVERY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6773
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="lifetimenetwork.us" tvg-name="USA: LIFETIME FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" ,LIFETIME
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6774
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="lifetimemovies.us" tvg-name="USA: LIFETIME MOVIE NETWORK FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-movies-us.png" ,LIFETIME MOVIE NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6775
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="mlbnetwork.us" tvg-name="USA: MLB NETWORK FHD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6776
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="motortrend.us" tvg-name="USA: MOTOR TREND FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motor-trend-it.png" ,MOTOR TREND
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6777
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="msnbc.us" tvg-name="USA: MSNBC FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/msnbc_c.png" ,MSNBC
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6778
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="mtv2.us" tvg-name="USA: MTV 2 FHD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/1200px-MTV2_logo_2013.svg.png" ,MTV 2
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6779
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="mtv.us" tvg-name="USA: MTV FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/mtv_c.png" ,MTV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6780
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="natgeowild.us" tvg-name="USA: NATIONAL GEO WILD FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" ,NATIONAL GEO WILD
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6781
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="natgeo.us" tvg-name="USA: NATIONAL GEOGRAPHIC FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" ,NATIONAL GEOGRAPHIC
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6782
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="nbatv.us" tvg-name="USA: NBA TV FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/nba_tv_c.png" ,NBA TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6783
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="nbcsportsnetwork.us" tvg-name="USA: NBC SPORTS NETWORK FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc_us_central.png" ,NBC SPORTS NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6784
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="nflnetwork.us" tvg-name="USA: NFL NETWORK FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nfl_network_us.png" ,NFL NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6785
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="nhlnetwork.us" tvg-name="USA: NHL NETWORK FHD 1080" tvg-logo="http://icons.00100.co/icon/us/NHLNetwork.us.png" ,NHL NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6786
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="nickjr.us" tvg-name="USA: NICK JUNIOR FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_jr_us.png" ,NICK JUNIOR
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6787
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="nicktoons.us" tvg-name="USA: NICK TOONS FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nick_toons_us.png" ,NICK TOONS
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6788
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="ovation.us" tvg-name="USA: OVATION FHD 1080" tvg-logo="http://www.tubefilter.com/wp-content/uploads/2015/03/ovation-tv.jpg" ,OVATION
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6790
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="oprahwinfreynetwork.us" tvg-name="USA: OWN FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/oo/oprah-winfrey-network-us.png" ,OWN
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6791
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="oxygen.us" tvg-name="USA: OXYGEN FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/oxygen_c.png" ,OXYGEN
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6792
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="paramountnetwork.us" tvg-name="USA: PARAMOUNT NETWORK FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/paramount_network_canada_c.png" ,PARAMOUNT NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6793
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="poptv.us" tvg-name="USA: POP FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pop_si_tv.png" ,POP
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6794
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="pursuitchannel.us" tvg-name="USA: PURSUIT CHANNEL FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pursuit-channel-us.png" ,PURSUIT CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6796
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="reelzchannel.us" tvg-name="USA: REELZ FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/reelz_tv_us.png" ,REELZ
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6797
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="revolt.us" tvg-name="USA: REVOLT FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/revolt_tv_us.png" ,REVOLT
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6798
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="rfdtv.us" tvg-name="USA: RFD TV FHD 1080" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzOTI1NDk5MTQzMjUw/rfdtv-logoresizedjpg.jpg" ,RFD TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6799
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="secnetwork.us" tvg-name="USA: SEC NETWORK FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_sec_network_us.png" ,SEC NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6800
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="showtime2.us" tvg-name="USA: SHOWTIME 2 FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/showtime2_east.png" ,SHOWTIME 2
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6801
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="showtime.us" tvg-name="USA: SHOWTIME EAST FHD 1080" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/showtime-east.jpg" ,SHOWTIME EAST
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6802
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="showtime.us" tvg-name="USA: SHOWTIME FHD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png" ,SHOWTIME
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6803
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="showtimeshowcase.us" tvg-name="USA: SHOWTIME SHOWCASE FHD 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" ,SHOWTIME SHOWCASE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6804
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="showtime.us" tvg-name="USA: SHOWTIME WEST FHD 1080" tvg-logo="https://th.bing.com/th/id/OIP.07mrp4yyLnhXYp0SJBPWZQHaDt?pid=Api&rs=1" ,SHOWTIME WEST
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6805
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="sportsmanchannel.us" tvg-name="USA: SPORTSMAN CHANNEL FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sportsman-channel-us.png" ,SPORTSMAN CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6806
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzcinema.us" tvg-name="USA: STARZ CINEMA FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_cinema_east.png" ,STARZ CINEMA
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6807
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzcomedy.us" tvg-name="USA: STARZ COMEDY FHD 1080" tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_us_comedy_east.png" ,STARZ COMEDY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6808
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starz.us" tvg-name="USA: STARZ EAST FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_west.png" ,STARZ EAST
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6809
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzedge.us" tvg-name="USA: STARZ EDGE FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_edge_east.png" ,STARZ EDGE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6810
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzencoreaction.us" tvg-name="USA: STARZ ENCORE ACTION FHD 1080" tvg-logo="http://icons.00100.co/icon/us/StarzEncoreAction.us.png" ,STARZ ENCORE ACTION
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6811
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzencoreblack.us" tvg-name="USA: STARZ ENCORE BLACK FHD 1080" tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_black_east.png" ,STARZ ENCORE BLACK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6812
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzencoreclassics.us" tvg-name="USA: STARZ ENCORE CLASSIC FHD 1080" tvg-logo="https://www.lyngsat.com/logo/tv/ss/starz_encore_us_classic_east.png" ,STARZ ENCORE CLASSIC
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6813
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzencoreespanol.us" tvg-name="USA: STARZ ENCORE ESPANOL FHD 1080" tvg-logo="http://icons.00100.co/icon/us/StarzEncoreEspanol.us.png" ,STARZ ENCORE ESPANOL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6814
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzencorefamily.us" tvg-name="USA: STARZ ENCORE FAMILY FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_encore_us_family_east.png" ,STARZ ENCORE FAMILY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6815
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzencore.us" tvg-name="USA: STARZ ENCORE FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_encore_us_east.png" ,STARZ ENCORE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6816
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzencoresuspense.us" tvg-name="USA: STARZ ENCORE SUSPENSE FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_encore_us_suspense_east.png" ,STARZ ENCORE SUSPENSE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6817
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzencorewesterns.us" tvg-name="USA: STARZ ENCORE WESTERNS FHD 1080" tvg-logo="http://icons.00100.co/icon/us/StarzEncoreWesterns.us.png" ,STARZ ENCORE WESTERNS
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6818
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starz.us" tvg-name="USA: STARZ FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_east.png" ,STARZ
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6819
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzinblack.us" tvg-name="USA: STARZ IN BLACK FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_in_black_east.png" ,STARZ IN BLACK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6820
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzkidsfamily.us" tvg-name="USA: STARZ KIDS & FAMILY FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_kids_family_east.png" ,STARZ KIDS & FAMILY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6821
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="starzwest.us" tvg-name="USA: STARZ WEST FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_east.png" ,STARZ WEST
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6822
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="sundancetv.us" tvg-name="USA: SUNDANCE TV FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sundance_tv_us.png" ,SUNDANCE TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6823
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="syfy.us" tvg-name="USA: SYFY FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_east.png" ,SYFY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6824
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="tbs.us" tvg-name="USA: TBS FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/tbs_c.png" ,TBS
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6825
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="teennick.us" tvg-name="USA: TEEN NICK FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teen_nick_us.png" ,TEEN NICK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6826
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="tennischannel.us" tvg-name="USA: TENNIS CHANNEL FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/tennis-channel_c.png" ,TENNIS CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6827
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="weatherchannel.us" tvg-name="USA: THE WEATHER CHANNEL FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/the_weather_channel_c.png" ,THE WEATHER CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6828
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="tlc.us" tvg-name="USA: TLC FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/tlc_c.png" ,TLC
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6829
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="tnt.us" tvg-name="USA: TNT FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tnt_us.png" ,TNT
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6830
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="travel.us" tvg-name="USA: TRAVEL CHANNEL FHD 1080" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/travel_channel_us.png" ,TRAVEL CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6831
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="trutv.us" tvg-name="USA: TRU TV FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/tru_c.png" ,TRU TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6832
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="turnerclassicmovies.us" tvg-name="USA: TURNER CLASSIC MOVIES FHD 1080" tvg-logo="http://icons.00100.co/icon/us/TurnerClassicMovies.us.png" ,TURNER CLASSIC MOVIES
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6833
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="tvlandeast.us" tvg-name="USA: TV LAND FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/tv_land_c.png" ,TV LAND
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6834
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="tvone.us" tvg-name="USA: TV ONE FHD 1080" tvg-logo="http://legacy.shadowandact.com/wp-content/uploads/2016/11/TV_One_Logo_highres.jpg" ,TV ONE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6835
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="universalkids.us" tvg-name="USA: UNIVERSAL KIDS FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/universal_kids_c.png" ,UNIVERSAL KIDS
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6836
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="usanetwork.us" tvg-name="USA: USA NETWORK FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/usa_c.png" ,USA NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6837
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="vh1.us" tvg-name="USA: VH1 FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/vh1_c.png" ,VH1
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6838
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="viceland.us" tvg-name="USA: VICELAND FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/viceland_c.png" ,VICELAND
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6839
+#EXTINF:-1 group-title="USA | FHD TV" tvg-id="wetv.us" tvg-name="USA: WE TV FHD 1080" tvg-logo="https://imgx.fubo.tv/station_logos/we-tv_c.png" ,WE TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6840
