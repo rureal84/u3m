@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:0 type="playlist", 4K TV
+#EXTINF:0 tvg-logo="https://img.pngio.com/4k-logo-png-png-image-4k-png-300_200.png", 4K TV
 https://raw.githubusercontent.com/rureal84/u3m/master/TV4K.m3u
