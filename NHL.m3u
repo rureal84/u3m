@@ -1,0 +1,63 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: NHL NETWORK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nhl-network-us.png" ,NHL NETWORK
+http://mlsh1.com:2086/iptvreal/55225/4067
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: ANAHEIM DUCKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/72/Anaheim_Ducks.svg/1200px-Anaheim_Ducks.svg.png" ,ANAHEIM DUCKS
+http://mlsh1.com:2086/iptvreal/55225/102828
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: ARIZONA COYOTES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Arizona_Coyotes.svg/220px-Arizona_Coyotes.svg.png" ,ARIZONA COYOTES
+http://mlsh1.com:2086/iptvreal/55225/102858
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: BOSTON BRUINS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Boston_Bruins.svg/1200px-Boston_Bruins.svg.png" ,BOSTON BRUINS
+http://mlsh1.com:2086/iptvreal/55225/102829
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: BUFFALO SABRES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Buffalo_Sabres_Logo.svg/1200px-Buffalo_Sabres_Logo.svg.png" ,BUFFALO SABRES
+http://mlsh1.com:2086/iptvreal/55225/102830
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: CALGARY FLAMES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Calgary_Flames_Logo.svg/1200px-Calgary_Flames_Logo.svg.png" ,CALGARY FLAMES
+http://mlsh1.com:2086/iptvreal/55225/102831
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: CAROLINA HURRICANES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Carolina_Hurricanes.svg/1200px-Carolina_Hurricanes.svg.png" ,CAROLINA HURRICANES
+http://mlsh1.com:2086/iptvreal/55225/102832
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: CHICAGO BLACKHAWKS" tvg-logo="https://www.overtimeheroics.net/wp-content/uploads/2020/02/Chicago-Blackhawks-1941-55-Primary-Logo-480x480-1.png" ,CHICAGO BLACKHAWKS
+http://mlsh1.com:2086/iptvreal/55225/102833
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: COLORADO AVALANCHE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Colorado_Avalanche_logo.svg/1200px-Colorado_Avalanche_logo.svg.png" ,COLORADO AVALANCHE
+http://mlsh1.com:2086/iptvreal/55225/102834
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: COLUMBUS BLUE JACKETS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Columbus_Blue_Jackets_logo.svg/1200px-Columbus_Blue_Jackets_logo.svg.png" ,COLUMBUS BLUE JACKETS
+http://mlsh1.com:2086/iptvreal/55225/102835
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: DALLAS STARS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Dallas_Stars_logo_%282013%29.svg/1200px-Dallas_Stars_logo_%282013%29.svg.png" ,DALLAS STARS
+http://mlsh1.com:2086/iptvreal/55225/102836
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: DETROIT RED WINGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Detroit_Red_Wings_logo.svg/1200px-Detroit_Red_Wings_logo.svg.png" ,DETROIT RED WINGS
+http://mlsh1.com:2086/iptvreal/55225/102837
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: EDMONTON OILERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Logo_Edmonton_Oilers.svg/1200px-Logo_Edmonton_Oilers.svg.png" ,EDMONTON OILERS
+http://mlsh1.com:2086/iptvreal/55225/102838
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: FLORIDA PANTHERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Florida_Panthers_2016_logo.svg/1200px-Florida_Panthers_2016_logo.svg.png" ,FLORIDA PANTHERS
+http://mlsh1.com:2086/iptvreal/55225/102839
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: LOS ANGELES KINGS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Los_Angeles_Kings_logo.svg/1200px-Los_Angeles_Kings_logo.svg.png" ,LOS ANGELES KINGS
+http://mlsh1.com:2086/iptvreal/55225/102840
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: MINNESOTA WILD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Minnesota_Wild.svg/1200px-Minnesota_Wild.svg.png" ,MINNESOTA WILD
+http://mlsh1.com:2086/iptvreal/55225/102841
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: MONTREAL CANADIENS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Montreal_Canadiens.svg/1200px-Montreal_Canadiens.svg.png" ,MONTREAL CANADIENS
+http://mlsh1.com:2086/iptvreal/55225/102842
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: NASHVILLE PREDATORS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Nashville_Predators_Logo_%282011%29.svg/1200px-Nashville_Predators_Logo_%282011%29.svg.png" ,NASHVILLE PREDATORS
+http://mlsh1.com:2086/iptvreal/55225/102843
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: NEW JERSEY DEVILS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/New_Jersey_Devils_logo.svg/1200px-New_Jersey_Devils_logo.svg.png" ,NEW JERSEY DEVILS
+http://mlsh1.com:2086/iptvreal/55225/102844
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: NEW YORK ISLANDERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/42/Logo_New_York_Islanders.svg/1200px-Logo_New_York_Islanders.svg.png" ,NEW YORK ISLANDERS
+http://mlsh1.com:2086/iptvreal/55225/102845
+#EXTINF:-1 group-title="USA | NHL" tvg-id="abc10wplg.us" tvg-name="USA: NEW YORK RANGERS" tvg-logo="https://img.pngio.com/new-york-rangers-primary-logo-sports-logo-history-new-york-rangers-logo-png-250_250.png" ,NEW YORK RANGERS
+http://mlsh1.com:2086/iptvreal/55225/102846
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: OTTAWA SENATORS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Ottawa_Senators.svg/1200px-Ottawa_Senators.svg.png" ,OTTAWA SENATORS
+http://mlsh1.com:2086/iptvreal/55225/102847
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: PHILADELPHIA FLYERS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Philadelphia_Flyers.svg/1200px-Philadelphia_Flyers.svg.png" ,PHILADELPHIA FLYERS
+http://mlsh1.com:2086/iptvreal/55225/102848
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: PITTSBURGH PENGUINS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c0/Pittsburgh_Penguins_logo_%282016%29.svg/1200px-Pittsburgh_Penguins_logo_%282016%29.svg.png" ,PITTSBURGH PENGUINS
+http://mlsh1.com:2086/iptvreal/55225/102849
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: SAN JOSE SHARKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/37/SanJoseSharksLogo.svg/1200px-SanJoseSharksLogo.svg.png" ,SAN JOSE SHARKS
+http://mlsh1.com:2086/iptvreal/55225/102850
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: ST LOUIS BLUES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/St._Louis_Blues_logo.svg/1200px-St._Louis_Blues_logo.svg.png" ,ST LOUIS BLUES
+http://mlsh1.com:2086/iptvreal/55225/102851
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: TORONTO MAPLE LEAFS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Toronto_Maple_Leafs_2016_logo.svg/1200px-Toronto_Maple_Leafs_2016_logo.svg.png" ,TORONTO MAPLE LEAFS
+http://mlsh1.com:2086/iptvreal/55225/102853
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: VANCOUVER CANUCKS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Vancouver_Canucks_logo.svg/1200px-Vancouver_Canucks_logo.svg.png" ,VANCOUVER CANUCKS
+http://mlsh1.com:2086/iptvreal/55225/102854
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: VEGAS GOLDEN KNIGHTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Vegas_Golden_Knights_logo.svg/1200px-Vegas_Golden_Knights_logo.svg.png" ,VEGAS GOLDEN KNIGHTS
+http://mlsh1.com:2086/iptvreal/55225/102855
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: WASHINGTON CAPITALS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Washington_Capitals.svg/1200px-Washington_Capitals.svg.png" ,WASHINGTON CAPITALS
+http://mlsh1.com:2086/iptvreal/55225/102856
+#EXTINF:-1 group-title="USA | NHL" tvg-id="nhlnetwork.us" tvg-name="USA: WINNIPEG JETS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Winnipeg_Jets_Logo.svg/1200px-Winnipeg_Jets_Logo.svg.png" ,WINNIPEG JETS
+http://mlsh1.com:2086/iptvreal/55225/102857
