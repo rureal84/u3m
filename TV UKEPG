@@ -1,0 +1,331 @@
+﻿#EXTM3U x-tvg-url="http://topdog01.com:2086/xmltv.php?username=iptvreal&password=55225"
+#EXTINF:-1 group-title="UK | TV" tvg-id="5select.uk" tvg-name="5 SELECT SD UK" tvg-logo="https://media.info/i/lf/0/1554378465/6254.png" ,5 SELECT SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/721
+#EXTINF:-1 group-title="UK | TV" tvg-id="5spike.uk" tvg-name="5 SPIKE SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spike_tv_us.png" ,5 SPIKE SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/717
+#EXTINF:-1 group-title="UK | TV" tvg-id="5star.uk" tvg-name="5 STAR SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel5_star.jpg" ,5 STAR SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/700
+#EXTINF:-1 group-title="UK | TV" tvg-id="fiveusa.uk" tvg-name="5 USA SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel5_usa.jpg" ,5 USA SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/709
+#EXTINF:-1 group-title="UK | TV" tvg-id="fiveusa.uk" tvg-name="5 USA+1 SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel5_usa.jpg" ,5 USA+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/745
+#EXTINF:-1 group-title="UK | TV" tvg-id="alibi.uk" tvg-name="ALIBI FHD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alibi_uktv.jpg" ,ALIBI FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/764
+#EXTINF:-1 group-title="UK | TV" tvg-id="alibiplus1.uk" tvg-name="ALIBI+1 SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alibi_uktv_ie.jpg" ,ALIBI+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/741
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbcalba.uk" tvg-name="BBC BRIT" tvg-logo="https://i.dlpng.com/static/png/4035739-rpabout-logo-bbc-britpng-uganda-crazy-medias-brit-png-324_244_preview.webp" ,BBC BRIT
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/87202
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbcalba.uk" tvg-name="BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" ,BBC EARTH
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/87446
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbcalba.uk" tvg-name="BBC FIRST" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6942.1508048617.png" ,BBC FIRST
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/87201
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbcalba.uk" tvg-name="BBC LIFESTYLE UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg/800px-BBC_Lifestyle2.svg.png" ,BBC LIFESTYLE UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6681
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbcnews.uk" tvg-name="BBC NEWS UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" ,BBC NEWS UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/48
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbc1.uk" tvg-name="BBC ONE FHD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" ,BBC ONE FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/19
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbc1.uk" tvg-name="BBC ONE HD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" ,BBC ONE HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/635
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbc1.uk" tvg-name="BBC ONE SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" ,BBC ONE SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/634
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbcparliament.uk" tvg-name="BBC PARLIAMENT" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_parliament.jpg" ,BBC PARLIAMENT
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/928
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbcparliament.uk" tvg-name="BBC RED BUTTON UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/BBC_RB%2B_Primary_ONE_COLOUR2.svg/1280px-BBC_RB%2B_Primary_ONE_COLOUR2.svg.png" ,BBC RED BUTTON UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/58041
+#EXTINF:-1 group-title="UK | TV" tvg-id="bbc2.uk" tvg-name="BBC TWO FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-two-uk.png" ,BBC TWO FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/20
+#EXTINF:-1 group-title="UK | TV" tvg-id="blaze.uk" tvg-name="BLAZE HD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" ,BLAZE HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/49
+#EXTINF:-1 group-title="UK | TV" tvg-id="cbsdrama.uk" tvg-name="CBS DRAMA SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-drama-uk.png" ,CBS DRAMA SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/714
+#EXTINF:-1 group-title="UK | TV" tvg-id="92news.uk" tvg-name="CBS JUSTICE SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-justice-uk.png" ,CBS JUSTICE SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/715
+#EXTINF:-1 group-title="UK | TV" tvg-id="cbsreality.uk" tvg-name="CBS REALITY SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality_eu.jpg" ,CBS REALITY SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/713
+#EXTINF:-1 group-title="UK | TV" tvg-id="cbsrealityplus1.uk" tvg-name="CBS REALITY+1 SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/cbs_reality.jpg" ,CBS REALITY+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/748
+#EXTINF:-1 group-title="UK | TV" tvg-id="challenge.uk" tvg-name="CHALLENGE SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/challenge_tv_uk.png" ,CHALLENGE SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/712
+#EXTINF:-1 group-title="UK | TV" tvg-id="channel4plus1.uk" tvg-name="CHANNEL 4 +1 UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-4-plus-1-uk.png" ,CHANNEL 4 +1 UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/648
+#EXTINF:-1 group-title="UK | TV" tvg-id="channel4.uk" tvg-name="CHANNEL 4 FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" ,CHANNEL 4 FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/646
+#EXTINF:-1 group-title="UK | TV" tvg-id="4seven.uk" tvg-name="4 SEVEN FHD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel4_seven_uk.jpg" ,4 SEVEN FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/687
+#EXTINF:-1 group-title="UK | TV" tvg-id="channel5plus1.uk" tvg-name="CHANNEL 5 +1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-5-plus-1-uk.png" ,CHANNEL 5 +1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/651
+#EXTINF:-1 group-title="UK | TV" tvg-id="channel5.uk" tvg-name="CHANNEL 5 FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-5-uk.png" ,CHANNEL 5 FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/652
+#EXTINF:-1 group-title="UK | TV" tvg-id="comedycentral.uk" tvg-name="COMEDY CENTRAL FHD UK" tvg-logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" ,COMEDY CENTRAL FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/759
+#EXTINF:-1 group-title="UK | TV" tvg-id="comedycentralplus1.uk" tvg-name="COMEDY CENTRAL+1 SD UK" tvg-logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" ,COMEDY CENTRAL+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/732
+#EXTINF:-1 group-title="UK | TV" tvg-id="comedycentralextra.uk" tvg-name="COMEDY XTRA SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_extra_central_eu.jpg" ,COMEDY XTRA SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/699
+#EXTINF:-1 group-title="UK | TV" tvg-id="comedycentralextraplus1.uk" tvg-name="COMEDY XTRA+1 SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_extra_central_eu.jpg" ,COMEDY XTRA+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/739
+#EXTINF:-1 group-title="UK | TV" tvg-id="dave.uk" tvg-name="Dave FHD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dave_uktv.jpg" ,Dave FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/758
+#EXTINF:-1 group-title="UK | TV" tvg-id="davejavu.uk" tvg-name="DAVE JA VU SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/dave_ja_vu.png" ,DAVE JA VU SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/731
+#EXTINF:-1 group-title="UK | TV" tvg-id="discoverydmax.uk" tvg-name="DMAX SD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" ,DMAX SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/92
+#EXTINF:-1 group-title="UK | TV" tvg-id="discoverydmaxplus1.uk" tvg-name="DMAX+1 SD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Dmax.png" ,DMAX+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/752
+#EXTINF:-1 group-title="UK | TV" tvg-id="discoverydmaxplus1.uk" tvg-name="DRAMA +1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/drama_uktv.png" ,DRAMA +1
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/67608
+#EXTINF:-1 group-title="UK | TV" tvg-id="drama.uk" tvg-name="DRAMA SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/drama_uktv.png" ,DRAMA SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/93
+#EXTINF:-1 group-title="UK | TV" tvg-id="eentertainment.uk" tvg-name="E! ENTERTAINMENT FHD UK" tvg-logo="https://imgx.fubo.tv/station_logos/e_c.png" ,E! ENTERTAINMENT FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/770
+#EXTINF:-1 group-title="UK | TV" tvg-id="e4.uk" tvg-name="E4 FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e4-uk-uk.png" ,E4 FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/767
+#EXTINF:-1 group-title="UK | TV" tvg-id="e4plus1.uk" tvg-name="E4+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/e4-uk-plus-1-uk.png" ,E4+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/742
+#EXTINF:-1 group-title="UK | TV" tvg-id="edenplus1.uk" tvg-name="EDEN +1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eden-plus1-uk.png" ,EDEN +1
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/67609
+#EXTINF:-1 group-title="UK | TV" tvg-id="eden.uk" tvg-name="EDEN HD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eden-uk.png" ,EDEN HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/58
+#EXTINF:-1 group-title="UK | TV" tvg-id="foodnetworkplus1.uk" tvg-name="FOOD NETWORK +1 UK" tvg-logo="https://imgx.fubo.tv/station_logos/food_network_c.png" ,FOOD NETWORK +1 UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/67610
+#EXTINF:-1 group-title="UK | TV" tvg-id="foodnetwork.uk" tvg-name="FOOD NETWORK HD UK" tvg-logo="https://imgx.fubo.tv/station_logos/food_network_c.png" ,FOOD NETWORK HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/94
+#EXTINF:-1 group-title="UK | TV" tvg-id="forcestv.uk" tvg-name="FORCES TV SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/forces_tv_uk.png" ,FORCES TV SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/726
+#EXTINF:-1 group-title="UK | TV" tvg-id="foxplus1.uk" tvg-name="FOX +1 UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" ,FOX +1 UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/68516
+#EXTINF:-1 group-title="UK | TV" tvg-id="fox.uk" tvg-name="FOX FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" ,FOX FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/763
+#EXTINF:-1 group-title="UK | TV" tvg-id="FOX News" tvg-name="FOX NEWS UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" ,FOX NEWS UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/97
+#EXTINF:-1 group-title="UK | TV" tvg-id="gold.uk" tvg-name="GOLD FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gold_uktv.png" ,GOLD FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/757
+#EXTINF:-1 group-title="UK | TV" tvg-id="goldplus1.uk" tvg-name="GOLD+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gold-uk-plus1-uk.png" ,GOLD+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/730
+#EXTINF:-1 group-title="UK | TV" tvg-id="home.uk" tvg-name="HOME SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/home_uktv.jpg" ,HOME SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/720
+#EXTINF:-1 group-title="UK | TV" tvg-id="horseandcountry.uk" tvg-name="HORSE AND COUNTRY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/horse_country_tv_uk.png" ,HORSE AND COUNTRY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/1778
+#EXTINF:-1 group-title="UK | TV" tvg-id="itv1angliaplus1.uk" tvg-name="ITV 1 +1 SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/itv_uk_plus1.jpg" ,ITV 1 +1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/640
+#EXTINF:-1 group-title="UK | TV" tvg-id="itv1.uk" tvg-name="ITV 1 FHD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/itv_uk_hd.jpg" ,ITV 1 FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/642
+#EXTINF:-1 group-title="UK | TV" tvg-id="itv2.uk" tvg-name="ITV 2 FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2.png" ,ITV 2 FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/679
+#EXTINF:-1 group-title="UK | TV" tvg-id="itv2plus1.uk" tvg-name="ITV 2+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2_plus1.png" ,ITV 2+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/735
+#EXTINF:-1 group-title="UK | TV" tvg-id="itv3.uk" tvg-name="ITV 3 FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_3.png" ,ITV 3 FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/683
+#EXTINF:-1 group-title="UK | TV" tvg-id="itv3plus1.uk" tvg-name="ITV 3+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_3_plus1.png" ,ITV 3+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/736
+#EXTINF:-1 group-title="UK | TV" tvg-id="itv4.uk" tvg-name="ITV 4 HD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_4.png" ,ITV 4 HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/65
+#EXTINF:-1 group-title="UK | TV" tvg-id="itv4plus1.uk" tvg-name="ITV 4+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_4_plus1.png" ,ITV 4+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/737
+#EXTINF:-1 group-title="UK | TV" tvg-id="itvbe.uk" tvg-name="ITVBE FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_be.png" ,ITVBE FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/701
+#EXTINF:-1 group-title="UK | TV" tvg-id="itvbeplus1.uk" tvg-name="ITVBE+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_be_plus1.png" ,ITVBE+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/740
+#EXTINF:-1 group-title="UK | TV" tvg-id="lifetime.uk" tvg-name="LIFETIME FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" ,LIFETIME FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/722
+#EXTINF:-1 group-title="UK | TV" tvg-id="more4.uk" tvg-name="MORE4 FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/more-4-uk-uk.png" ,MORE4 FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/768
+#EXTINF:-1 group-title="UK | TV" tvg-id="more4.uk" tvg-name="MORE4 HD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/more-4-uk-uk.png" ,MORE4 HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/769
+#EXTINF:-1 group-title="UK | TV" tvg-id="more4plus1.uk" tvg-name="MORE4+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/more-4-uk-plus-1-uk.png" ,MORE4+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/743
+#EXTINF:-1 group-title="UK | TV" tvg-id="92news.uk" tvg-name="PARAMOUNT FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" ,PARAMOUNT FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/718
+#EXTINF:-1 group-title="UK | TV" tvg-id="pbsamerica.uk" tvg-name="PBS AMERICA SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pbs_america.png" ,PBS AMERICA SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/110
+#EXTINF:-1 group-title="UK | TV" tvg-id="picktv.uk" tvg-name="PICK SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pick-uk-uk.png" ,PICK SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/24
+#EXTINF:-1 group-title="UK | TV" tvg-id="picktvplus1.uk" tvg-name="PICK+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/pick-plus-1-uk.png" ,PICK+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/751
+#EXTINF:-1 group-title="UK | TV" tvg-id="quest.uk" tvg-name="QUEST FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/quest-uk.png" ,QUEST FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/772
+#EXTINF:-1 group-title="UK | TV" tvg-id="questred.uk" tvg-name="QUEST RED SD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Quest_Red.png" ,QUEST RED SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/716
+#EXTINF:-1 group-title="UK | TV" tvg-id="questred.uk" tvg-name="QUEST RED+1 SD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Quest_Red.png" ,QUEST RED+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/749
+#EXTINF:-1 group-title="UK | TV" tvg-id="questplus1.uk" tvg-name="QUEST+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/qq/quest-plus-1-uk.png" ,QUEST+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/746
+#EXTINF:-1 group-title="UK | TV" tvg-id="questplus1.uk" tvg-name="QVC +1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QVC_Plus_Logo.svg/1280px-QVC_Plus_Logo.svg.png" ,QVC +1
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/789
+#EXTINF:-1 group-title="UK | TV" tvg-id="really.uk" tvg-name="REALLY SD UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/really_uktv.jpg" ,REALLY SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/710
+#EXTINF:-1 group-title="UK | TV" tvg-id="historychannelplus1.uk" tvg-name="RTE 1 +1 UK" tvg-logo="http://shinawil.com/wp-content/uploads/2016/04/rte-one-logo-shinawil.png" ,RTE 1 +1 UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/67617
+#EXTINF:-1 group-title="UK | TV" tvg-id="92news.uk" tvg-name="RTE 2 +1 UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rte_2_ie.png" ,RTE 2 +1 UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/67618
+#EXTINF:-1 group-title="UK | TV" tvg-id="RTÉ News Now" tvg-name="RTE NEWS UK" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rte_news_now.jpg" ,RTE NEWS UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/282
+#EXTINF:-1 group-title="UK | TV" tvg-id="RTÉ One" tvg-name="RTE ONE" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/rte_one.jpg" ,RTE ONE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/280
+#EXTINF:-1 group-title="UK | TV" tvg-id="RTÉ Two" tvg-name="RTE TWO" tvg-logo="http://shinawil.com/wp-content/uploads/2016/04/rte2-logo-shinawil.png" ,RTE TWO
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/281
+#EXTINF:-1 group-title="UK | TV" tvg-id="s4c.uk" tvg-name="S4C FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s4c_uk.png" ,S4C FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/766
+#EXTINF:-1 group-title="UK | TV" tvg-id="s4c.uk" tvg-name="S4C SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/s4c_uk.png" ,S4C SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/704
+#EXTINF:-1 group-title="UK | TV" tvg-id="skyarts.uk" tvg-name="SKY ARTS HD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-arts-uk.png" ,SKY ARTS HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/70
+#EXTINF:-1 group-title="UK | TV" tvg-id="skyatlantic.uk" tvg-name="SKY ATLANTIC FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-atlantic-it.png" ,SKY ATLANTIC FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/26
+#EXTINF:-1 group-title="UK | TV" tvg-id="skycomedy.uk" tvg-name="SKY COMEDY FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-comedy-uk.png" ,SKY COMEDY FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/760
+#EXTINF:-1 group-title="UK | TV" tvg-id="skycrime.uk" tvg-name="SKY CRIME FHD UK" tvg-logo="https://pbs.twimg.com/profile_images/1164070320082509829/d1nrZwwl_400x400.jpg" ,SKY CRIME FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/931
+#EXTINF:-1 group-title="UK | TV" tvg-id="skynews.uk" tvg-name="SKY NEWS" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" ,SKY NEWS
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/7
+#EXTINF:-1 group-title="UK | TV" tvg-id="sky1.uk" tvg-name="SKY ONE FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-one-uk.png" ,SKY ONE FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/654
+#EXTINF:-1 group-title="UK | TV" tvg-id="sky2.uk" tvg-name="SKY TWO SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-two-uk.png" ,SKY TWO SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/112
+#EXTINF:-1 group-title="UK | TV" tvg-id="skywitnessplus1.uk" tvg-name="SKY WITNESS HD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-witness-uk.png" ,SKY WITNESS HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/76
+#EXTINF:-1 group-title="UK | TV" tvg-id="skywitness.uk" tvg-name="SKY WITNESS+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-witness-uk-plus1-uk.png" ,SKY WITNESS+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/728
+#EXTINF:-1 group-title="UK | TV" tvg-id="92news.uk" tvg-name="SPIKE SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/spike_tv_us.png" ,SPIKE SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/113
+#EXTINF:-1 group-title="UK | TV" tvg-id="stv.uk" tvg-name="STV FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/stv_uk.png" ,STV FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/753
+#EXTINF:-1 group-title="UK | TV" tvg-id="syfy.uk" tvg-name="SYFY FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png" ,SYFY FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/761
+#EXTINF:-1 group-title="UK | TV" tvg-id="tcm.uk" tvg-name="TCM HD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tcm_global.png" ,TCM HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/78
+#EXTINF:-1 group-title="UK | TV" tvg-id="TG4" tvg-name="TG4 HD UK" tvg-logo="https://av3.ie/wp-content/uploads/2017/03/tg4.png" ,TG4 HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/81
+#EXTINF:-1 group-title="UK | TV" tvg-id="tlc.uk" tvg-name="TLC FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_ie.png" ,TLC FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/765
+#EXTINF:-1 group-title="UK | TV" tvg-id="tlcplus1.uk" tvg-name="TLC+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_ie.png" ,TLC+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/744
+#EXTINF:-1 group-title="UK | TV" tvg-id="travelchannel.uk" tvg-name="TRAVEL CHANNEL UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/travel_channel_us.png" ,TRAVEL CHANNEL UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/115
+#EXTINF:-1 group-title="UK | TV" tvg-id="UTV" tvg-name="UTV FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/u_tv_ro.png" ,UTV FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/754
+#EXTINF:-1 group-title="UK | TV" tvg-id="UTV HD" tvg-name="UTV+1 UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/u_tv_ro.png" ,UTV+1 UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/56104
+#EXTINF:-1 group-title="UK | TV" tvg-id="VIRGIN ONE" tvg-name="VIRGIN ONE HD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" ,VIRGIN ONE HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/1974
+#EXTINF:-1 group-title="UK | TV" tvg-id="VIRGIN THREE" tvg-name="VIRGIN THREE HD UK" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/179.1536429861.png" ,VIRGIN THREE HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/1976
+#EXTINF:-1 group-title="UK | TV" tvg-id="VIRGIN TWO" tvg-name="VIRGIN TWO HD UK" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/116.1536429801.png" ,VIRGIN TWO HD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/1975
+#EXTINF:-1 group-title="UK | TV" tvg-id="w.uk" tvg-name="W FHD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/w_uktv_uk.png" ,W FHD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/755
+#EXTINF:-1 group-title="UK | TV" tvg-id="wplus1.uk" tvg-name="W+1 SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/w-uk-plus1-uk.png" ,W+1 SD UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/729
+#EXTINF:-1 group-title="UK | TV" tvg-id="wplus1.uk" tvg-name="YANGA! UK" tvg-logo="https://www.shadesofbeautylive.com/wp-content/uploads/2018/07/Yanga_logo-1-300x271@2x.png" ,YANGA! UK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6406
