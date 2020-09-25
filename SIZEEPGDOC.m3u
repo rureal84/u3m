@@ -1,0 +1,103 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="animalplanet.uk" tvg-name="ANIMAL PLANET HD UK" tvg-logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" ,ANIMAL PLANET
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/46
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="animalplanet.us" tvg-name="USA: ANIMAL PLANET" tvg-logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" ,ANIMAL PLANET
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2283
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="crimeandinvestigationnetwork.uk" tvg-name="CRIME & INVESTIGATION HD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" ,CRIME & INVESTIGATION
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/645
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="crimeandinvestigationnetwork.uk" tvg-name="CRIME AND INVESTIGATION UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" ,CRIME AND INVESTIGATION
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/51
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="crimeinvestigation.us" tvg-name="USA: CRIME AND INVESTIGATION" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" ,CRIME AND INVESTIGATION
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2285
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="destinationamerica.us" tvg-name="USA: DESTINATION AMERICA" tvg-logo="https://imgx.fubo.tv/station_logos/destination-america_c.png" ,DESTINATION AMERICA
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2286
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="discoverychannel.uk" tvg-name="DISCOVERY CHANNEL HD UK" tvg-logo="https://imgx.fubo.tv/station_logos/discovery_c.png" ,DISCOVERY CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/22
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="discoverychannel.us" tvg-name="USA: DISCOVERY CHANNEL" tvg-logo="https://imgx.fubo.tv/station_logos/discovery_c.png" ,DISCOVERY CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2287
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="discoveryfamilia.us" tvg-name="USA: DISCOVERY FAMILY" tvg-logo="https://imgx.fubo.tv/station_logos/discovery-family-channel_c.png" ,DISCOVERY FAMILY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2290
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="discoveryhistory.uk" tvg-name="DISCOVERY HISTORY SD UK" tvg-logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg" ,DISCOVERY HISTORY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/86
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="discoverylife.us" tvg-name="USA: DISCOVERY LIFE" tvg-logo="https://imgx.fubo.tv/station_logos/discovery-life_c.png" ,DISCOVERY LIFE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2291
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="discoveryscience.uk" tvg-name="DISCOVERY SCIENCE SD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" ,DISCOVERY SCIENCE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/88
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="discoveryscience.us" tvg-name="USA: DISCOVERY SCIENCE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" ,DISCOVERY SCIENCE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2293
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="discoveryshed.uk" tvg-name="DISCOVERY SHED SD UK" tvg-logo="https://ewsat.com/img/DISCOVERY_SHED.png" ,DISCOVERY SHED
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/89
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="discoveryturbo.uk" tvg-name="DISCOVERY TURBO" tvg-logo="https://skynz.akamaized.net/documents/24003/50987/MK_DiscoveryTurbo_LogoInvert_250x180.png/8452b9c3-c7a9-4eac-9a75-b00640de0526" ,DISCOVERY TURBO
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/615
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="discoveryvelocity.us" tvg-name="USA: DISCOVERY VELOCITY" tvg-logo="http://1.bp.blogspot.com/-4fNOZlvPkkA/ThKLxX--_6I/AAAAAAAABtc/7ZK84Oo7Mdg/s500/Velocity+logo+2011.png" ,DISCOVERY VELOCITY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2295
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="foodnetwork.us" tvg-name="USA: FOOD NETWORK" tvg-logo="https://imgx.fubo.tv/station_logos/food_network_c.png" ,FOOD NETWORK
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2297
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="historychannel2.us" tvg-name="USA: H2" tvg-logo="http://sappi.panaceiafilmes.com/2/wp-content/uploads/2017/06/H2-logo.png" ,H2
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/5230
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="history2.uk" tvg-name="HISTORY 2 HD UK" tvg-logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s320/History+2+logo+2011.png" ,HISTORY 2
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/61
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="historychannel.us" tvg-name="USA: HISTORY CHANNEL" tvg-logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" ,HISTORY CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2299
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="homeandhealth.uk" tvg-name="HOME & HEALTH UK" tvg-logo="https://pbs.twimg.com/profile_images/1032703404328538112/6rYEqx6g_400x400.jpg" ,HOME & HEALTH
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/87
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="investigationdiscovery.uk" tvg-name="INVESTIGATION DISCOVERY SD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png" ,INVESTIGATION DISCOVERY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/100
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="investigationdiscovery.us" tvg-name="USA: INVESTIGATION DISCOVERY" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png" ,INVESTIGATION DISCOVERY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2300
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="lovenature.uk" tvg-name="LOVE NATURE FHD UK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" ,LOVE NATURE
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/98277
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="motortrend.us" tvg-name="USA: MOTOR TREND" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/motor-trend-it.png" ,MOTOR TREND
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6103
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="nasachannel.us" tvg-name="USA: NASA TV" tvg-logo="https://i.imgur.com/VX4uHSO.png" ,NASA TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/6346
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="natgeo.uk" tvg-name="NAT GEO HD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" ,NAT GEO
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/23
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="natgeomundo.us" tvg-name="USA: NAT GEO MUNDO" tvg-logo="data:image/jpeg;base64tvg-country=" ,NAT GEO MUNDO
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2303
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="natgeowild.uk" tvg-name="NAT GEO WILD HD UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" ,NAT GEO WILD
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/37
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="natgeowild.us" tvg-name="USA: NAT GEO WILD" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" ,NAT GEO WILD
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2304
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="natgeo.us" tvg-name="USA: NATIONAL GEOGRAPHIC" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" ,NATIONAL GEOGRAPHIC
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2305
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="skynature.uk" tvg-name="TOGETHER TV UK" tvg-logo="https://www.togethertv.com/sites/togethertv.com/files/together-tv-logo.png" ,TOGETHER TV
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/827
+#EXTINF:-1 group-title="USA | DOCUMENTARY" tvg-id="travel.us" tvg-name="USA: TRAVEL CHANNEL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/travel_channel_us.png" ,TRAVEL CHANNEL
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/2307
+#EXTINF:-1 group-title="UK | DOCUMENTARY" tvg-id="yesterday.uk" tvg-name="YESTERDAY" tvg-logo="https://static.filmon.com/assets/channels/1039/big_logo.png" ,YESTERDAY
+#EXTSIZE: Medium
+http://mlsh1.com:2086/iptvreal/55225/612
