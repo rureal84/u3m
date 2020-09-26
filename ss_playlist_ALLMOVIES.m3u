@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1221" name="FILM 4 HD UK" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ff/film-4-uk-uk.png" tvg-country="GB" size="Medium", FILM 4
+http://mlsh1.com:2086/iptvreal/55225/59
+#EXTINF:0 type="stream" channelId="2729" name="SKY CINEMA ACTION" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/sky_de_cinema_action.png" tvg-country="GB" size="Medium", SKY CINEMA ACTION
+http://mlsh1.com:2086/iptvreal/55225/32
+#EXTINF:0 type="stream" channelId="2768" name="SKY CINEMA COMEDY" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-comedy-uk.png" tvg-country="GB" size="Medium", SKY CINEMA COMEDY
+http://mlsh1.com:2086/iptvreal/55225/29
+#EXTINF:0 type="stream" channelId="3530" name="SKY CINEMA DISNEY" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-disney-uk.png" tvg-country="GB" size="Medium", SKY CINEMA DISNEY
+http://mlsh1.com:2086/iptvreal/55225/31
+#EXTINF:0 type="stream" channelId="3532" name="SKY CINEMA DRAMA" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-drama-it.png" tvg-country="GB" size="Medium", SKY CINEMA DRAMA
+http://mlsh1.com:2086/iptvreal/55225/33
+#EXTINF:0 type="stream" channelId="1897" name="SKY CINEMA GREATS" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-greats-uk.png" tvg-country="GB" size="Medium", SKY CINEMA GREATS
+http://mlsh1.com:2086/iptvreal/55225/71
+#EXTINF:0 type="stream" channelId="2769" name="SKY CINEMA HITS UK" group="MOVIES" logo="https://www.skymedia.co.uk/wp-content/uploads/2017/11/Sky-Cinema-Hits.png" tvg-country="GB" size="Medium", SKY CINEMA HITS
+http://mlsh1.com:2086/iptvreal/55225/72
+#EXTINF:0 type="stream" channelId="1174" name="SKY CINEMA PREMIERE" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-premiere-uk.png" tvg-country="GB" size="Medium", SKY CINEMA PREMIERE
+http://mlsh1.com:2086/iptvreal/55225/34
+#EXTINF:0 type="stream" channelId="3535" name="SKY CINEMA SCI-FI UK" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-sci-fi-and-horror-uk.png" tvg-country="GB" size="Medium", SKY CINEMA SCI-FI
+http://mlsh1.com:2086/iptvreal/55225/73
+#EXTINF:0 type="stream" channelId="3528" name="SKY CINEMA THRILLER UK" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-crime-and-thriller-uk.png" tvg-country="GB" size="Medium", SKY CINEMA THRILLER
+http://mlsh1.com:2086/iptvreal/55225/75
+#EXTINF:0 type="stream" channelId="4459" name="SONY ACTION MOVIES" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-movies-action-plus1-us-uk.png" tvg-country="GB" size="Medium", SONY ACTION MOVIES
+http://mlsh1.com:2086/iptvreal/55225/622
+#EXTINF:0 type="stream" channelId="1214" name="SONY MOVIES" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/sony-movies-us-uk.png" tvg-country="GB" size="Medium", SONY MOVIES
+http://mlsh1.com:2086/iptvreal/55225/621
+#EXTINF:0 type="stream" channelId="3463" name="TALKING PICTURES UK" group="MOVIES" logo="https://d24j9r7lck9cin.cloudfront.net/l/f/5/5838.1440175939.png" tvg-country="GB" size="Medium", TALKING PICTURES
+http://mlsh1.com:2086/iptvreal/55225/6924
+#EXTINF:0 type="stream" channelId="895" name="TCM" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/tt/tcm_global.png" tvg-country="GB" size="Medium", TCM
+http://mlsh1.com:2086/iptvreal/55225/618
+#EXTINF:0 type="stream" channelId="1326" name="USA: CINEMAX EAST" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_east.png" tvg-country="US" size="Medium", CINEMAX
+http://mlsh1.com:2086/iptvreal/55225/5036
+#EXTINF:0 type="stream" channelId="3216" name="USA: CINEMAX MOREMAX" group="MOVIES" logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/2400x2400_1578/Source/20940/moremaxhd_2400_color_dark_light.png" tvg-country="US" size="Medium", CINEMAX MOREMAX
+http://mlsh1.com:2086/iptvreal/55225/5037
+#EXTINF:0 type="stream" channelId="4557" name="USA: CINEMAX THRILLERMAX" group="MOVIES" logo="https://cdn.tvpassport.com/image/station/240x135/thrillermax.png" tvg-country="US" size="Medium", CINEMAX THRILLERMAX
+http://mlsh1.com:2086/iptvreal/55225/5071
+#EXTINF:0 type="stream" channelId="4584" name="USA: HALLMARK MOVIES & MYSTERIES" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/hh/hallmark_movies_mysteries_east.png" tvg-country="US" size="Medium", HALLMARK MOVIES & MYSTERIES
+http://mlsh1.com:2086/iptvreal/55225/5041
+#EXTINF:0 type="stream" channelId="1330" name="USA: HBO WEST" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_west.png" tvg-country="US" size="Medium", HBO
+http://mlsh1.com:2086/iptvreal/55225/5048
+#EXTINF:0 type="stream" channelId="935" name="USA: HBO 2" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo2_west.png" tvg-country="US" size="Medium", HBO 2
+http://mlsh1.com:2086/iptvreal/55225/5076
+#EXTINF:0 type="stream" channelId="1551" name="USA: HBO COMEDY" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_comedy_east.png" tvg-country="US" size="Medium", HBO COMEDY
+http://mlsh1.com:2086/iptvreal/55225/5075
+#EXTINF:0 type="stream" channelId="2584" name="USA: HBO FAMILY EAST" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_east.png" tvg-country="US" size="Medium", HBO FAMILY EAST
+http://mlsh1.com:2086/iptvreal/55225/5045
+#EXTINF:0 type="stream" channelId="3769" name="USA: HBO LATINO" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_latino_este.png" tvg-country="US" size="Medium", HBO LATINO
+http://mlsh1.com:2086/iptvreal/55225/5046
+#EXTINF:0 type="stream" channelId="2583" name="USA: HBO SIGNATURE" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature_east.png" tvg-country="US" size="Medium", HBO SIGNATURE
+http://mlsh1.com:2086/iptvreal/55225/5047
+#EXTINF:0 type="stream" channelId="4592" name="USA: HBO ZONE" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo-zone-us.png" tvg-country="US" size="Medium", HBO ZONE
+http://mlsh1.com:2086/iptvreal/55225/5077
+#EXTINF:0 type="stream" channelId="1200" name="USA: LIFETIME NETWORK" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" tvg-country="US" size="Medium", LIFETIME NETWORK
+http://mlsh1.com:2086/iptvreal/55225/4274
+#EXTINF:0 type="stream" channelId="2327" name="USA: SHOWTIME" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/showtime_east.png" tvg-country="US" size="Medium", SHOWTIME
+http://mlsh1.com:2086/iptvreal/55225/5383
+#EXTINF:0 type="stream" channelId="2327" name="USA: SHOWTIME WEST" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/showtime_east.png" shift="-3" tvg-country="US" size="Medium", SHOWTIME WEST
+http://mlsh1.com:2086/iptvreal/55225/5382
+#EXTINF:0 type="stream" channelId="3220" name="USA: SHOWTIME 2" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/showtime2_east.png" tvg-country="US" size="Medium", SHOWTIME 2
+http://mlsh1.com:2086/iptvreal/55225/5436
+#EXTINF:0 type="stream" channelId="3221" name="USA: SHOWTIME BEYOND" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/showtime_beyond_west.png" tvg-country="US" size="Medium", SHOWTIME BEYOND
+http://mlsh1.com:2086/iptvreal/55225/55030
+#EXTINF:0 type="stream" channelId="3222" name="USA: SHOWTIME EXTREME" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/showtime_extreme_east.png" tvg-country="US" size="Medium", SHOWTIME EXTREME
+http://mlsh1.com:2086/iptvreal/55225/7408
+#EXTINF:0 type="stream" channelId="3224" name="USA:SHOWTIME NEXT" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/showtime_next_west.png" tvg-country="US" size="Medium", SHOWTIME NEXT
+http://mlsh1.com:2086/iptvreal/55225/5438
+#EXTINF:0 type="stream" channelId="3225" name="USA: SHOWTIME WOMEN" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/showtime_women_east.png" tvg-country="US" size="Medium", SHOWTIME WOMEN
+http://mlsh1.com:2086/iptvreal/55225/5437
+#EXTINF:0 type="stream" channelId="2007" name="USA: SONY MOVIE CHANNEL" group="MOVIES" logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/12/Sony_Movie_Channel_logo.png" tvg-country="US" size="Medium", SONY MOVIE CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/5073
+#EXTINF:0 type="stream" channelId="3226" name="USA: STARZ" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_east.png" tvg-country="US" size="Medium", STARZ
+http://mlsh1.com:2086/iptvreal/55225/5067
+#EXTINF:0 type="stream" channelId="4550" name="USA: STARZ CINEMA" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_cinema_east.png" tvg-country="US" size="Medium", STARZ CINEMA
+http://mlsh1.com:2086/iptvreal/55225/5051
+#EXTINF:0 type="stream" channelId="4551" name="USA: STARZ COMEDY" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_comedy_east.png" tvg-country="US" size="Medium", STARZ COMEDY
+http://mlsh1.com:2086/iptvreal/55225/5052
+#EXTINF:0 type="stream" channelId="4549" name="USA: STARZ EDGE" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_edge_east.png" tvg-country="US" size="Medium", STARZ EDGE
+http://mlsh1.com:2086/iptvreal/55225/5056
+#EXTINF:0 type="stream" channelId="3227" name="USA: STARZ ENCORE" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_encore_us_east.png" tvg-country="US" size="Medium", STARZ ENCORE
+http://mlsh1.com:2086/iptvreal/55225/5057
+#EXTINF:0 type="stream" channelId="4548" name="USA: STARZ IN BLACK" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_in_black_west.png" tvg-country="US" size="Medium", STARZ IN BLACK
+http://mlsh1.com:2086/iptvreal/55225/5068
+#EXTINF:0 type="stream" channelId="4547" name="USA: STARZ KIDS & FAMILY" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_kids_family_east.png" tvg-country="US" size="Medium", STARZ KIDS & FAMILY
+http://mlsh1.com:2086/iptvreal/55225/5069
+#EXTINF:0 type="stream" channelId="3226" name="USA: STARZ WEST" group="MOVIES" logo="https://www.lyngsat-logo.com/logo/tv/ss/starz_us_east.png" shift="-3" tvg-country="US" size="Medium", STARZ WEST
+http://mlsh1.com:2086/iptvreal/55225/5070
