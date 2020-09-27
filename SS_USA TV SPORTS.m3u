@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="4617" name="USA: ACC NETWORK" group="USA TV SPORTS" logo="https://athlonsports.com/sites/athlonsports.com/files/acc_0.png" tvg-country="US" size="Medium", ACC NETWORK
+http://mlsh1.com:2086/iptvreal/55225/5187
+#EXTINF:0 type="stream" channelId="1591" name="USA: BEIN SPORTS" group="USA TV SPORTS" logo="https://seeklogo.com/images/B/bein-sport-logo-DDEBCC17B3-seeklogo.com.png" tvg-country="US" size="Medium", BEIN SPORTS
+http://mlsh1.com:2086/iptvreal/55225/99015
+#EXTINF:0 type="stream" channelId="460" name="USA: BIG TEN NETWORK" group="USA TV SPORTS" logo="https://imgx.fubo.tv/station_logos/big_ten_c.png" tvg-country="US" size="Medium", BIG TEN NETWORK
+http://mlsh1.com:2086/iptvreal/55225/5190
+#EXTINF:0 type="stream" channelId="4567" name="USA: CBS SPORTS HQ" group="USA TV SPORTS" logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" tvg-country="US" size="Medium", CBS SPORTS HQ
+http://mlsh1.com:2086/iptvreal/55225/5185
+#EXTINF:0 type="stream" channelId="4567" name="USA: CBS SPORTS NETWORK" group="USA TV SPORTS" logo="https://imgx.fubo.tv/station_logos/cbs_sn_c.png" tvg-country="US" size="Medium", CBS SPORTS NETWORK
+http://mlsh1.com:2086/iptvreal/55225/5186
+#EXTINF:0 type="stream" channelId="4620" name="USA: ELEVEN SPORTS NETWORK" group="USA TV SPORTS" logo="https://imgx.fubo.tv/station_logos/eleven_sports_c.png" tvg-country="US" size="Medium", ELEVEN SPORTS NETWORK
+http://mlsh1.com:2086/iptvreal/55225/5380
+#EXTINF:0 type="stream" channelId="2540" name="USA: ESPN" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_us.png" tvg-country="US" size="Medium", ESPN
+http://mlsh1.com:2086/iptvreal/55225/5138
+#EXTINF:0 type="stream" channelId="344" name="USA: ESPN 2" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_2.png" tvg-country="US" size="Medium", ESPN 2
+http://mlsh1.com:2086/iptvreal/55225/5128
+#EXTINF:0 type="stream" channelId="4596" name="USA: ESPN GOAL LINE" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ee/espn-goal-line-us.png" tvg-country="US" size="Medium", ESPN GOAL LINE
+http://mlsh1.com:2086/iptvreal/55225/5139
+#EXTINF:0 type="stream" channelId="4555" name="USA: ESPN NEWS" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ee/espnews.png" tvg-country="US" size="Medium", ESPN NEWS
+http://mlsh1.com:2086/iptvreal/55225/5141
+#EXTINF:0 type="stream" channelId="3211" name="USA: ESPN U" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_u.png" tvg-country="US" size="Medium", ESPN U
+http://mlsh1.com:2086/iptvreal/55225/5124
+#EXTINF:0 type="stream" channelId="2021" name="USA: FIGHT NETWORK" group="USA TV SPORTS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/500px-Fight_network_logo.svg.png" tvg-country="US" size="Medium", FIGHT NETWORK
+http://mlsh1.com:2086/iptvreal/55225/5197
+#EXTINF:0 type="stream" channelId="1329" name="USA: FOX SPORTS 1" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_1_cl.png" tvg-country="US" size="Medium", FOX SPORTS 1
+http://mlsh1.com:2086/iptvreal/55225/3896
+#EXTINF:0 type="stream" channelId="170" name="USA: FOX SPORTS 2" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_2_lam.png" tvg-country="US" size="Medium", FOX SPORTS 2
+http://mlsh1.com:2086/iptvreal/55225/3898
+#EXTINF:0 type="stream" channelId="1389" name="USA: GOLF CHANNEL" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.png" tvg-country="US" size="Medium", GOLF CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/5328
+#EXTINF:0 type="stream" channelId="4604" name="USA: LONGHORN NETWORK" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_longhorn_network_us.png" tvg-country="US" size="Medium", LONGHORN NETWORK
+http://mlsh1.com:2086/iptvreal/55225/5191
+#EXTINF:0 type="stream" channelId="4618" name="USA: MARQUEE SPORTS NETWORK" group="USA TV SPORTS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Marquee_Sports_Network_Logo.svg/1200px-Marquee_Sports_Network_Logo.svg.png" tvg-country="US" size="Medium", MARQUEE SPORTS NETWORK
+http://mlsh1.com:2086/iptvreal/55225/51091
+#EXTINF:0 type="stream" channelId="4587" name="USA: MAV TV" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/mm/mav_tv_us.png" tvg-country="US" size="Medium", MAV TV
+http://mlsh1.com:2086/iptvreal/55225/5192
+#EXTINF:0 type="stream" channelId="4543" name="USA: MSG" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/mm/msg_network_us.png" tvg-country="US" size="Medium", MSG
+http://mlsh1.com:2086/iptvreal/55225/4283
+#EXTINF:0 type="stream" channelId="4542" name="USA: MSG 2" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/mm/msg_network_us_plus2.png" tvg-country="US" size="Medium", MSG 2
+http://mlsh1.com:2086/iptvreal/55225/4282
+#EXTINF:0 type="stream" channelId="4542" name="USA: MSG PLUS" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/mm/msg_plus.png" tvg-country="US" size="Medium", MSG PLUS
+http://mlsh1.com:2086/iptvreal/55225/57408
+#EXTINF:0 type="stream" channelId="3217" name="USA: NBCSN" group="USA TV SPORTS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/2000px-NBC_Sports_Network_logo.svg.png" tvg-country="US" size="Medium", NBCSN
+http://mlsh1.com:2086/iptvreal/55225/5151
+#EXTINF:0 type="stream" channelId="4533" name="USA: NESN" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/nn/nesn-us.png" tvg-country="US" size="Medium", NESN
+http://mlsh1.com:2086/iptvreal/55225/5152
+#EXTINF:0 type="stream" channelId="2901" name="USA: OLYMPIC CHANNEL" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/oo/olympic_channel_es.png" tvg-country="US" size="Medium", OLYMPIC CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/5387
+#EXTINF:0 type="stream" channelId="1333" name="USA: REDBULL TV" group="USA TV SPORTS" logo="https://descargar.org/wp-content/uploads/2017/08/red-bull-tv-windows-logo.png" tvg-country="US" size="Medium", REDBULL TV
+http://mlsh1.com:2086/iptvreal/55225/5307
+#EXTINF:0 type="stream" channelId="4607" name="USA: SEC NETWORK" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_sec_network_us.png" tvg-country="US" size="Medium", SEC NETWORK
+http://mlsh1.com:2086/iptvreal/55225/5176
+#EXTINF:0 type="stream" channelId="4600" name="USA: SPECTRUM SPORTSNET" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ss/spectrum-sportsnet-us.png" tvg-country="US" size="Medium", SPECTRUM SPORTSNET
+http://mlsh1.com:2086/iptvreal/55225/6073
+#EXTINF:0 type="stream" channelId="4561" name="USA: SPORTSMAN CHANNEL" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ss/sportsman-channel-us.png" tvg-country="US" size="Medium", SPORTSMAN CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/5171
+#EXTINF:0 type="stream" channelId="4574" name="USA: SPORTSNET (NEW YORK)" group="USA TV SPORTS" logo="https://imgx.fubo.tv/station_logos/sny_c.png" tvg-country="US" size="Medium", SPORTSNET (NEW YORK)
+http://mlsh1.com:2086/iptvreal/55225/5386
+#EXTINF:0 type="stream" channelId="4563" name="USA: TENNIS CHANNEL" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png" tvg-country="US" size="Medium", TENNIS CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/5385
+#EXTINF:0 type="stream" channelId="2531" name="USA: TVG" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/tt/tvg_us.png" tvg-country="US" size="Medium", TVG
+http://mlsh1.com:2086/iptvreal/55225/5330
+#EXTINF:0 type="stream" channelId="4038" name="USA: TVG 2" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/tt/tvg_us.png" tvg-country="US" size="Medium", TVG 2
+http://mlsh1.com:2086/iptvreal/55225/5327
+#EXTINF:0 type="stream" channelId="2064" name="USA: WORLD FISHING NETWORK FHD 1080" group="USA TV SPORTS" logo="https://imgx.fubo.tv/station_logos/wfn_c.png" tvg-country="US" size="Medium", WORLD FISHING NETWORK FHD 1080
+http://mlsh1.com:2086/iptvreal/55225/5179
+#EXTINF:0 type="stream" channelId="2065" name="USA: WWE NETWORK" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/ww/world_wrestling_entertainment.png" tvg-country="US" size="Medium", WWE NETWORK
+http://mlsh1.com:2086/iptvreal/55225/5180
+#EXTINF:0 type="stream" channelId="805" name="USA: NBA TV" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png" tvg-country="US" size="Medium",  NBA TV
+http://mlsh1.com:2086/iptvreal/55225/4024
+#EXTINF:0 type="stream" channelId="2894" name="USA: NFL NETWORK" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/nn/nfl_network_us.png" tvg-country="US" size="Medium",  NFL NETWORK
+http://mlsh1.com:2086/iptvreal/55225/3963
+#EXTINF:0 type="stream" channelId="-1" name="USA: NFL FANTASY LIVE" group="USA TV SPORTS" logo="https://avtsim.com/wp-content/uploads/2018/01/fantasy-football.png" tvg-country="US" size="Medium",  NFL FANTASY LIVE
+http://mlsh1.com:2086/iptvreal/55225/148222
+#EXTINF:0 type="stream" channelId="2041" name="USA: NHL NETWORK" group="USA TV SPORTS" logo="https://www.lyngsat-logo.com/logo/tv/nn/nhl-network-us.png" tvg-country="US" size="Medium",  NHL NETWORK
+http://mlsh1.com:2086/iptvreal/55225/4067
