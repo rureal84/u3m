@@ -1,22 +1,22 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="1118" name="BBC ONE FHD UK" group="UK | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_one.jpg" tvg-country="GB" size="Medium", BBC ONE
-http://mlsh1.com:2086/iptvreal/55225/19
+http://mlsh1.com:2086/iptvreal/55225/635
 #EXTINF:0 type="stream" channelId="1119" name="BBC TWO FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc-two-uk.png" tvg-country="GB" size="Medium", BBC TWO
-http://mlsh1.com:2086/iptvreal/55225/20
+http://mlsh1.com:2086/iptvreal/55225/638
 #EXTINF:0 type="stream" channelId="1143" name="BBC NEWS UK" group="UK | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bbc_news.jpg" tvg-country="GB" size="Medium", BBC NEWS
 http://mlsh1.com:2086/iptvreal/55225/48
 #EXTINF:0 type="stream" channelId="3192" name="BBC EARTH" group="UK | TV" logo="https://upload.wikimedia.org/wikipedia/en/5/56/Sony_BBC_Earth.png" tvg-country="GB" size="Medium", BBC EARTH
 http://mlsh1.com:2086/iptvreal/55225/87446
 #EXTINF:0 type="stream" channelId="1210" name="CHANNEL 4 FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/cc/channel_4_uk.png" tvg-country="GB" size="Medium", CHANNEL 4
-http://mlsh1.com:2086/iptvreal/55225/646
+http://mlsh1.com:2086/iptvreal/55225/126
 #EXTINF:0 type="stream" channelId="1227" name="4 SEVEN FHD UK" group="UK | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel4_seven_uk.jpg" tvg-country="GB" size="Medium", 4 SEVEN
-http://mlsh1.com:2086/iptvreal/55225/687
+http://mlsh1.com:2086/iptvreal/55225/84
 #EXTINF:0 type="stream" channelId="1223" name="MORE4 FHD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/More4_2018.svg/revision/latest/scale-to-width-down/200?cb=20180927102632" tvg-country="GB" size="Medium", MORE4
-http://mlsh1.com:2086/iptvreal/55225/768
+http://mlsh1.com:2086/iptvreal/55225/769
 #EXTINF:0 type="stream" channelId="1224" name="E4 FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ee/e4-uk-uk.png" tvg-country="GB" size="Medium", E4
-http://mlsh1.com:2086/iptvreal/55225/767
+http://mlsh1.com:2086/iptvreal/55225/57
 #EXTINF:0 type="stream" channelId="1199" name="CHANNEL 5 FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-5-uk.png" tvg-country="GB" size="Medium", CHANNEL 5
-http://mlsh1.com:2086/iptvreal/55225/652
+http://mlsh1.com:2086/iptvreal/55225/52
 #EXTINF:0 type="stream" channelId="4452" name="5 SELECT SD UK" group="UK | TV" logo="https://media.info/i/lf/0/1554378465/6254.png" tvg-country="GB" size="Medium", 5 SELECT
 http://mlsh1.com:2086/iptvreal/55225/721
 #EXTINF:0 type="stream" channelId="1447" name="5 SPIKE SD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ss/spike_tv_us.png" tvg-country="GB" size="Medium", 5 SPIKE
@@ -26,7 +26,7 @@ http://mlsh1.com:2086/iptvreal/55225/700
 #EXTINF:0 type="stream" channelId="1235" name="5 USA SD UK" group="UK | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/channel5_usa.jpg" tvg-country="GB" size="Medium", 5 USA
 http://mlsh1.com:2086/iptvreal/55225/709
 #EXTINF:0 type="stream" channelId="1156" name="ALIBI FHD UK" group="UK | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/alibi_uktv.jpg" tvg-country="GB" size="Medium", ALIBI
-http://mlsh1.com:2086/iptvreal/55225/764
+http://mlsh1.com:2086/iptvreal/55225/44
 #EXTINF:0 type="stream" channelId="3462" name="BLAZE HD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/bb/blaze_uk.png" tvg-country="GB" size="Medium", BLAZE
 http://mlsh1.com:2086/iptvreal/55225/49
 #EXTINF:0 type="stream" channelId="317" name="CBS DRAMA SD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/cc/cbs-drama-uk.png" tvg-country="GB" size="Medium", CBS DRAMA
@@ -38,7 +38,7 @@ http://mlsh1.com:2086/iptvreal/55225/713
 #EXTINF:0 type="stream" channelId="1167" name="CHALLENGE SD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/cc/challenge_tv_uk.png" tvg-country="GB" size="Medium", CHALLENGE
 http://mlsh1.com:2086/iptvreal/55225/712
 #EXTINF:0 type="stream" channelId="1190" name="COMEDY CENTRAL FHD UK" group="UK | TV" logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" tvg-country="GB" size="Medium", COMEDY CENTRAL
-http://mlsh1.com:2086/iptvreal/55225/759
+http://mlsh1.com:2086/iptvreal/55225/28
 #EXTINF:0 type="stream" channelId="3464" name="COMEDY XTRA SD UK" group="UK | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/comedy_central_extra_central_eu.jpg" tvg-country="GB" size="Medium", COMEDY XTRA
 http://mlsh1.com:2086/iptvreal/55225/699
 #EXTINF:0 type="stream" channelId="1157" name="Dave FHD UK" group="UK | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/dave_uktv.jpg" tvg-country="GB" size="Medium", Dave
@@ -50,7 +50,7 @@ http://mlsh1.com:2086/iptvreal/55225/92
 #EXTINF:0 type="stream" channelId="1158" name="DRAMA +1" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/dd/drama_uktv.png" tvg-country="GB" size="Medium", DRAMA +1
 http://mlsh1.com:2086/iptvreal/55225/67608
 #EXTINF:0 type="stream" channelId="1188" name="E! ENTERTAINMENT FHD UK" group="UK | TV" logo="https://imgx.fubo.tv/station_logos/e_c.png" tvg-country="GB" size="Medium", E! ENTERTAINMENT
-http://mlsh1.com:2086/iptvreal/55225/770
+http://mlsh1.com:2086/iptvreal/55225/771
 #EXTINF:0 type="stream" channelId="1159" name="EDEN HD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ee/eden-uk.png" tvg-country="GB" size="Medium", EDEN
 http://mlsh1.com:2086/iptvreal/55225/58
 #EXTINF:0 type="stream" channelId="1244" name="FOOD NETWORK HD UK" group="UK | TV" logo="https://imgx.fubo.tv/station_logos/food_network_c.png" tvg-country="GB" size="Medium", FOOD NETWORK
@@ -60,27 +60,27 @@ http://mlsh1.com:2086/iptvreal/55225/726
 #EXTINF:0 type="stream" channelId="177" name="FOX FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_global.png" tvg-country="GB" size="Medium", FOX
 http://mlsh1.com:2086/iptvreal/55225/763
 #EXTINF:0 type="stream" channelId="1317" name="FOX NEWS UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" tvg-country="GB" size="Medium", FOX NEWS
-http://mlsh1.com:2086/iptvreal/55225/97
+http://mlsh1.com:2086/iptvreal/55225/57
 #EXTINF:0 type="stream" channelId="1160" name="GOLD FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/gg/gold_uktv.png" tvg-country="GB" size="Medium", GOLD
-http://mlsh1.com:2086/iptvreal/55225/757
+http://mlsh1.com:2086/iptvreal/55225/557
 #EXTINF:0 type="stream" channelId="4515" name="HOME SD UK" group="UK | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/home_uktv.jpg" tvg-country="GB" size="Medium", HOME
 http://mlsh1.com:2086/iptvreal/55225/720
 #EXTINF:0 type="stream" channelId="1179" name="ITV 1 FHD UK" group="UK | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/itv_uk_hd.jpg" tvg-country="GB" size="Medium", ITV 1
-http://mlsh1.com:2086/iptvreal/55225/642
+http://mlsh1.com:2086/iptvreal/55225/21
 #EXTINF:0 type="stream" channelId="1183" name="ITV 2 FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_2.png" tvg-country="GB" size="Medium", ITV 2
-http://mlsh1.com:2086/iptvreal/55225/679
+http://mlsh1.com:2086/iptvreal/55225/21
 #EXTINF:0 type="stream" channelId="1184" name="ITV 3 FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_3.png" tvg-country="GB" size="Medium", ITV 3
-http://mlsh1.com:2086/iptvreal/55225/683
+http://mlsh1.com:2086/iptvreal/55225/64
 #EXTINF:0 type="stream" channelId="1185" name="ITV 4 HD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_4.png" tvg-country="GB" size="Medium", ITV 4
 http://mlsh1.com:2086/iptvreal/55225/65
 #EXTINF:0 type="stream" channelId="3459" name="ITVBE FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ii/itv_uk_be.png" tvg-country="GB" size="Medium", ITVBE
-http://mlsh1.com:2086/iptvreal/55225/701
+http://mlsh1.com:2086/iptvreal/55225/702
 #EXTINF:0 type="stream" channelId="1181" name="UTV FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/uu/u_tv_ro.png" tvg-country="GB" size="Medium", UTV
 http://mlsh1.com:2086/iptvreal/55225/754
 #EXTINF:0 type="stream" channelId="1200" name="LIFETIME FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ll/lifetime-us.png" tvg-country="GB" size="Medium", LIFETIME
-http://mlsh1.com:2086/iptvreal/55225/722
+http://mlsh1.com:2086/iptvreal/55225/66
 #EXTINF:0 type="stream" channelId="4036" name="PARAMOUNT FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/pp/paramount_channel_us.png" tvg-country="GB" size="Medium", PARAMOUNT
-http://mlsh1.com:2086/iptvreal/55225/718
+http://mlsh1.com:2086/iptvreal/55225/68
 #EXTINF:0 type="stream" channelId="3512" name="PBS AMERICA SD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/pp/pbs_america.png" tvg-country="GB" size="Medium", PBS AMERICA
 http://mlsh1.com:2086/iptvreal/55225/110
 #EXTINF:0 type="stream" channelId="1168" name="PICK SD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/pp/pick-uk-uk.png" tvg-country="GB" size="Medium", PICK
@@ -94,17 +94,17 @@ http://mlsh1.com:2086/iptvreal/55225/710
 #EXTINF:0 type="stream" channelId="3524" name="S4C FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/ss/s4c_uk.png" tvg-country="GB" size="Medium", S4C
 http://mlsh1.com:2086/iptvreal/55225/766
 #EXTINF:0 type="stream" channelId="1171" name="SKY ARTS FHD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/6/62/Sky_arts_2020.png/revision/latest/scale-to-width-down/300?cb=20200630162600" tvg-country="GB" size="Medium", SKY ARTS
-http://mlsh1.com:2086/iptvreal/55225/762
+http://mlsh1.com:2086/iptvreal/55225/70
 #EXTINF:0 type="stream" channelId="1172" name="SKY ATLANTIC FHD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/5/51/Sky_Atlantic_2020.svg/revision/latest/scale-to-width-down/300?cb=20200917154647" tvg-country="GB" size="Medium", SKY ATLANTIC
-http://mlsh1.com:2086/iptvreal/55225/26
+http://mlsh1.com:2086/iptvreal/55225/677
 #EXTINF:0 type="stream" channelId="4436" name="SKY COMEDY FHD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/7/73/Sky_Comedy_logo.svg/revision/latest/scale-to-width-down/300?cb=20200825185441" tvg-country="GB" size="Medium", SKY COMEDY
-http://mlsh1.com:2086/iptvreal/55225/760
+http://mlsh1.com:2086/iptvreal/55225/80
 #EXTINF:0 type="stream" channelId="4435" name="SKY CRIME FHD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/Sky_Crime_2020.svg/revision/latest/scale-to-width-down/300?cb=20200830152352" tvg-country="GB" size="Medium", SKY CRIME
-http://mlsh1.com:2086/iptvreal/55225/931
+http://mlsh1.com:2086/iptvreal/55225/930
 #EXTINF:0 type="stream" channelId="1175" name="SKY NEWS" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/7/76/Sky_News_2020.png/revision/latest/scale-to-width-down/300?cb=20200903074826" tvg-country="GB" size="Medium", SKY NEWS
 http://mlsh1.com:2086/iptvreal/55225/7
 #EXTINF:0 type="stream" channelId="4437" name="SKY ONE FHD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3f/Sky_One_2020.svg/revision/latest/scale-to-width-down/300?cb=20200917161500" tvg-country="GB" size="Medium", SKY ONE
-http://mlsh1.com:2086/iptvreal/55225/654
+http://mlsh1.com:2086/iptvreal/55225/653
 #EXTINF:0 type="stream" channelId="4438" name="SKY TWO SD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Sky_Two_2020.svg/revision/latest/scale-to-width-down/300?cb=20200705161149" tvg-country="GB" size="Medium", SKY TWO
 http://mlsh1.com:2086/iptvreal/55225/112
 #EXTINF:0 type="stream" channelId="1166" name="SKY WITNESS HD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0d/Sky_Witness_2020.svg/revision/latest/scale-to-width-down/300?cb=20200915165141" tvg-country="GB" size="Medium", SKY WITNESS
@@ -114,13 +114,13 @@ http://mlsh1.com:2086/iptvreal/55225/113
 #EXTINF:0 type="stream" channelId="1180" name="STV FHD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/6/65/STV_logo_2009.svg/revision/latest/scale-to-width-down/200?cb=20110922120403" tvg-country="GB" size="Medium", STV
 http://mlsh1.com:2086/iptvreal/55225/753
 #EXTINF:0 type="stream" channelId="73" name="SYFY FHD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Syfy_%282017%29.svg/revision/latest/scale-to-width-down/300?cb=20171210093256" tvg-country="GB" size="Medium", SYFY
-http://mlsh1.com:2086/iptvreal/55225/761
+http://mlsh1.com:2086/iptvreal/55225/77
 #EXTINF:0 type="stream" channelId="895" name="TCM HD UK" group="UK | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/c/c0/TCM_%28UK_and_Ireland%29_2019.svg/revision/latest/scale-to-width-down/250?cb=20191223184954" tvg-country="GB" size="Medium", TCM
 http://mlsh1.com:2086/iptvreal/55225/78
 #EXTINF:0 type="stream" channelId="1247" name="TG4 HD UK" group="UK | TV" logo="https://av3.ie/wp-content/uploads/2017/03/tg4.png" tvg-country="GB" size="Medium", TG4
 http://mlsh1.com:2086/iptvreal/55225/81
 #EXTINF:0 type="stream" channelId="67" name="TLC FHD UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/tt/tlc_ie.png" tvg-country="GB" size="Medium", TLC
-http://mlsh1.com:2086/iptvreal/55225/765
+http://mlsh1.com:2086/iptvreal/55225/79
 #EXTINF:0 type="stream" channelId="54" name="TRAVEL CHANNEL UK" group="UK | TV" logo="https://www.lyngsat-logo.com/logo/tv/tt/travel_channel_us.png" tvg-country="GB" size="Medium", TRAVEL CHANNEL
 http://mlsh1.com:2086/iptvreal/55225/115
 #EXTINF:0 type="stream" channelId="4466" name="VIRGIN ONE HD UK" group="UK | TV" logo="https://upload.wikimedia.org/wikipedia/en/c/c9/Virgin_Media_One_logo.png" tvg-country="GB" size="Medium", VIRGIN ONE
