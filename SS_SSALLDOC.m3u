@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="50" name="ANIMAL PLANET HD UK" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" tvg-country="GB" size="Medium", ANIMAL PLANET
+http://mlsh1.com:2086/iptvreal/55225/46
+#EXTINF:0 type="stream" channelId="50" name="ANIMAL PLANET +1 UK" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" shift="-1" tvg-country="GB" size="Medium", ANIMAL PLANET +1
+http://mlsh1.com:2086/iptvreal/55225/67605
+#EXTINF:0 type="stream" channelId="50" name="USA: ANIMAL PLANET" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" tvg-country="US" size="Medium", ANIMAL PLANET
+http://mlsh1.com:2086/iptvreal/55225/2283
+#EXTINF:0 type="stream" channelId="50" name="USA: ANIMAL PLANET (WEST)" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/animal-planet_c.png" shift="-3" tvg-country="US" size="Medium", ANIMAL PLANET (WEST)
+http://mlsh1.com:2086/iptvreal/55225/100631
+#EXTINF:0 type="stream" channelId="50" group="DOCUMENTARY" tvg-country="CA" size="Medium", ANIMAL PLANET
+http://mlsh1.com:2086/iptvreal/55225/6117
+#EXTINF:0 type="stream" channelId="57" name="DISCOVERY CHANNEL HD UK" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/discovery_c.png" tvg-country="GB" size="Medium", DISCOVERY CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/22
+#EXTINF:0 type="stream" channelId="57" name="DISCOVERY CHANNEL UK SD" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/discovery_c.png" shift="-1" tvg-country="GB" size="Medium", DISCOVERY CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/643
+#EXTINF:0 type="stream" channelId="57" group="DOCUMENTARY" tvg-country="CA" size="Medium", DISCOVERY CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/6178
+#EXTINF:0 type="stream" channelId="57" name="USA: DISCOVERY CHANNEL" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/discovery_c.png" tvg-country="US" size="Medium", DISCOVERY CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/2287
+#EXTINF:0 type="stream" channelId="2620" name="DISCOVERY HOME AND HEALTH +1 UK" group="DOCUMENTARY" logo="https://pbs.twimg.com/profile_images/1032703404328538112/6rYEqx6g_400x400.jpg" tvg-country="GB" size="Medium", DISCOVERY HOME AND HEALTH +1
+http://mlsh1.com:2086/iptvreal/55225/68524
+#EXTINF:0 type="stream" channelId="58" name="DISCOVERY SCIENCE SD UK" group="DOCUMENTARY" logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png" tvg-country="GB" size="Medium", DISCOVERY SCIENCE
+http://mlsh1.com:2086/iptvreal/55225/88
+#EXTINF:0 type="stream" channelId="3486" name="DISCOVERY SHED SD UK" group="DOCUMENTARY" logo="https://ewsat.com/img/DISCOVERY_SHED.png" tvg-country="GB" size="Medium", DISCOVERY SHED
+http://mlsh1.com:2086/iptvreal/55225/89
+#EXTINF:0 type="stream" channelId="3702" name="USA: DISCOVERY FAMILY" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/discovery-family-channel_c.png" tvg-country="US" size="Medium", DISCOVERY FAMILY
+http://mlsh1.com:2086/iptvreal/55225/2290
+#EXTINF:0 type="stream" channelId="3190" name="USA: DISCOVERY LIFE" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/discovery-life_c.png" tvg-country="US" size="Medium", DISCOVERY LIFE
+http://mlsh1.com:2086/iptvreal/55225/2291
+#EXTINF:0 type="stream" channelId="2840" name="DISCOVERY TURBO" group="DOCUMENTARY" logo="https://skynz.akamaized.net/documents/24003/50987/MK_DiscoveryTurbo_LogoInvert_250x180.png/8452b9c3-c7a9-4eac-9a75-b00640de0526" tvg-country="GB" size="Medium", DISCOVERY TURBO
+http://mlsh1.com:2086/iptvreal/55225/615
+#EXTINF:0 type="stream" channelId="2840" name="DISCOVERY TURBO +1" group="DOCUMENTARY" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTlJCM21B3vNWz0y9ypX3BVqScz2e4jSL3CIIFoc91-r2srIh8G&usqp=CAU" shift="-1" tvg-country="GB" size="Medium", DISCOVERY TURBO +1
+http://mlsh1.com:2086/iptvreal/55225/67607
+#EXTINF:0 type="stream" channelId="1425" group="DOCUMENTARY" tvg-country="CA" size="Medium", DTOUR
+http://mlsh1.com:2086/iptvreal/55225/6185
+#EXTINF:0 type="stream" channelId="2017" name="USA: DISCOVERY VELOCITY" group="DOCUMENTARY" logo="http://1.bp.blogspot.com/-4fNOZlvPkkA/ThKLxX--_6I/AAAAAAAABtc/7ZK84Oo7Mdg/s500/Velocity+logo+2011.png" tvg-country="US" size="Medium", DISCOVERY VELOCITY
+http://mlsh1.com:2086/iptvreal/55225/2295
+#EXTINF:0 type="stream" channelId="4066" name="USA: MOTOR TREND" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/mm/motor-trend-it.png" tvg-country="US" size="Medium", MOTOR TREND
+http://mlsh1.com:2086/iptvreal/55225/6103
+#EXTINF:0 type="stream" channelId="1254" name="TOGETHER TV UK" group="DOCUMENTARY" logo="https://www.togethertv.com/sites/togethertv.com/files/together-tv-logo.png" tvg-country="GB" size="Medium", TOGETHER TV
+http://mlsh1.com:2086/iptvreal/55225/827
+#EXTINF:0 type="stream" channelId="3485" name="DISCOVERY HISTORY SD UK" group="DOCUMENTARY" logo="https://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/743/cached.offlinehbpl.hbpl.co.uk/news/OMC/85B1580A-9FA6-F2E6-EC5F13E7C57BD7A7.jpg" tvg-country="GB" size="Medium", DISCOVERY HISTORY
+http://mlsh1.com:2086/iptvreal/55225/86
+#EXTINF:0 type="stream" channelId="1455" name="USA: HISTORY CHANNEL" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/history_channel_c.png" tvg-country="US" size="Medium", HISTORY CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/2299
+#EXTINF:0 type="stream" channelId="1455" group="DOCUMENTARY" tvg-country="CA" size="Medium" background="CA", HISTORY CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/6213
+#EXTINF:0 type="stream" channelId="1455" name="HISTORY 2 HD UK" group="DOCUMENTARY" logo="http://3.bp.blogspot.com/-RzXst6jpzBw/Toi5hYDW9AI/AAAAAAAACPA/jFKuVx6JcaQ/s320/History+2+logo+2011.png" tvg-country="GB" size="Medium", HISTORY 2
+http://mlsh1.com:2086/iptvreal/55225/61
+#EXTINF:0 type="stream" channelId="1201" name="USA: H2" group="DOCUMENTARY" logo="http://sappi.panaceiafilmes.com/2/wp-content/uploads/2017/06/H2-logo.png" tvg-country="US" size="Medium", H2
+http://mlsh1.com:2086/iptvreal/55225/5230
+#EXTINF:0 type="stream" channelId="56" name="NAT GEO HD UK" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" tvg-country="GB" size="Medium", NAT GEO
+http://mlsh1.com:2086/iptvreal/55225/23
+#EXTINF:0 type="stream" channelId="56" name="USA: NATIONAL GEOGRAPHIC" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" tvg-country="US" size="Medium", NATIONAL GEOGRAPHIC
+http://mlsh1.com:2086/iptvreal/55225/2305
+#EXTINF:0 type="stream" channelId="164" name="USA: NAT GEO WILD" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" tvg-country="US" size="Medium", NAT GEO WILD
+http://mlsh1.com:2086/iptvreal/55225/2304
+#EXTINF:0 type="stream" channelId="164" name="NAT GEO WILD HD UK" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" tvg-country="GB" size="Medium", NAT GEO WILD
+http://mlsh1.com:2086/iptvreal/55225/37
+#EXTINF:0 type="stream" channelId="4597" name="USA: NAT GEO MUNDO" group="DOCUMENTARY" logo="data:image/jpeg;base64tvg-country=" tvg-country="US" size="Medium", NAT GEO MUNDO
+http://mlsh1.com:2086/iptvreal/55225/2303
+#EXTINF:0 type="stream" channelId="353" name="USA: OUTDOOR CHANNEL" group="DOCUMENTARY" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/outdoor_channel_hd.jpg" tvg-country="US" size="Medium", OUTDOOR CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/4298
+#EXTINF:0 type="stream" channelId="2620" name="HOME & HEALTH UK" group="DOCUMENTARY" logo="https://pbs.twimg.com/profile_images/1032703404328538112/6rYEqx6g_400x400.jpg" tvg-country="GB" size="Medium", HOME & HEALTH
+http://mlsh1.com:2086/iptvreal/55225/87
+#EXTINF:0 type="stream" channelId="59" name="USA: INVESTIGATION DISCOVERY" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png" tvg-country="US" size="Medium", INVESTIGATION DISCOVERY
+http://mlsh1.com:2086/iptvreal/55225/2300
+#EXTINF:0 type="stream" channelId="59" name="INVESTIGATION DISCOVERY SD UK" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png" tvg-country="GB" size="Medium", INVESTIGATION DISCOVERY
+http://mlsh1.com:2086/iptvreal/55225/100
+#EXTINF:0 type="stream" channelId="59" name="INVESTIGATION DISCOVERY + 1 UK" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/ii/investigation_discovery_us.png" shift="-1" tvg-country="GB" size="Medium", INVESTIGATION DISCOVERY + 1
+http://mlsh1.com:2086/iptvreal/55225/793
+#EXTINF:0 type="stream" channelId="1165" name="YESTERDAY" group="DOCUMENTARY" logo="https://static.filmon.com/assets/channels/1039/big_logo.png" tvg-country="GB" size="Medium", YESTERDAY
+http://mlsh1.com:2086/iptvreal/55225/612
+#EXTINF:0 type="stream" channelId="1165" name="YESTERDAY +1 UK" group="DOCUMENTARY" logo="https://static.filmon.com/assets/channels/1039/big_logo.png" tvg-country="GB" size="Medium", YESTERDAY +1
+http://mlsh1.com:2086/iptvreal/55225/68521
+#EXTINF:0 type="stream" channelId="1189" name="USA: CRIME AND INVESTIGATION" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" tvg-country="US" size="Medium", CRIME AND INVESTIGATION
+http://mlsh1.com:2086/iptvreal/55225/2285
+#EXTINF:0 type="stream" channelId="1189" name="CRIME & INVESTIGATION HD" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png" tvg-country="GB" size="Medium", CRIME & INVESTIGATION
+http://mlsh1.com:2086/iptvreal/55225/645
+#EXTINF:0 type="stream" channelId="4560" name="USA: DESTINATION AMERICA" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/destination-america_c.png" tvg-country="US" size="Medium", DESTINATION AMERICA
+http://mlsh1.com:2086/iptvreal/55225/2286
+#EXTINF:0 type="stream" channelId="1244" name="USA: FOOD NETWORK" group="DOCUMENTARY" logo="https://imgx.fubo.tv/station_logos/food_network_c.png" tvg-country="US" size="Medium", FOOD NETWORK
+http://mlsh1.com:2086/iptvreal/55225/2297
+#EXTINF:0 type="stream" channelId="721" name="USA: NASA TV" group="DOCUMENTARY" logo="https://i.imgur.com/VX4uHSO.png" tvg-country="US" size="Medium", NASA TV
+http://mlsh1.com:2086/iptvreal/55225/6346
+#EXTINF:0 type="stream" channelId="54" name="USA: TRAVEL CHANNEL" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/tt/travel_channel_us.png" tvg-country="US" size="Medium", TRAVEL CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/2307
+#EXTINF:0 type="stream" channelId="54" name="TRAVEL CHANNEL +1 UK" group="DOCUMENTARY" logo="https://www.lyngsat-logo.com/logo/tv/tt/travel_channel_us.png" shift="-1" tvg-country="GB" size="Medium", TRAVEL CHANNEL +1
+http://mlsh1.com:2086/iptvreal/55225/68522
