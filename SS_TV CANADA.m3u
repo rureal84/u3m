@@ -77,8 +77,6 @@ http://mlsh1.com:2086/iptvreal/55225/6223
 http://mlsh1.com:2086/iptvreal/55225/6225
 #EXTINF:0 type="stream" channelId="1973" name="CA: MTV" group="CANADIAN TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/MTV_Logo_2010.svg/140px-MTV_Logo_2010.svg.png" tvg-country="CA" size="Medium", MTV
 http://mlsh1.com:2086/iptvreal/55225/6226
-#EXTINF:0 type="stream" channelId="1393" name="CA: MTV 2" group="CANADIAN TV" logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/150px-MTV2_logo_2013.svg.png" tvg-country="CA" size="Medium", MTV 2
-http://mlsh1.com:2086/iptvreal/55225/6227
 #EXTINF:0 type="stream" channelId="1408" name="CA: MUCH MUSIC" group="CANADIAN TV" logo="https://seeklogo.com/images/M/MuchMusic-logo-7E42B1AE67-seeklogo.com.png" tvg-country="CA" size="Medium", MUCH MUSIC
 http://mlsh1.com:2086/iptvreal/55225/6228
 #EXTINF:0 type="stream" channelId="164" name="CA: NAT GEO WILD" group="CANADIAN TV" logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" tvg-country="CA" size="Medium", NAT GEO WILD
