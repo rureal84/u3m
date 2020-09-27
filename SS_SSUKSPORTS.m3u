@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="3473" name="BOXNATION FHD UK" group="UK | SPORTS" logo="https://archive.org/download/boxnation_201708/boxnation.png" tvg-country="GB" size="Medium", BOXNATION
+http://mlsh1.com:2086/iptvreal/55225/2
+#EXTINF:0 type="stream" channelId="1193" name="BT SPORT 1 FHD UK" group="UK | SPORTS" logo="https://archive.org/download/BtSport1/bt%20sport%201.png" tvg-country="GB" size="Medium", BT SPORT 1
+http://mlsh1.com:2086/iptvreal/55225/579
+#EXTINF:0 type="stream" channelId="1195" name="BT SPORT 2 FHD UK" group="UK | SPORTS" logo="https://archive.org/download/BtSport2_201708/bt%20sport%202.png" tvg-country="GB" size="Medium", BT SPORT 2
+http://mlsh1.com:2086/iptvreal/55225/580
+#EXTINF:0 type="stream" channelId="3475" name="BT SPORT 3 FHD UK" group="UK | SPORTS" logo="https://ia800809.us.archive.org/11/items/BtSport3/bt%20sport%203.png" tvg-country="GB" size="Medium", BT SPORT 3
+http://mlsh1.com:2086/iptvreal/55225/56163
+#EXTINF:0 type="stream" channelId="3478" name="BT SPORT ESPN HD UK" group="UK | SPORTS" logo="https://archive.org/download/BtSportEspn/bt%20sport%20espn.png" tvg-country="GB" size="Medium", BT SPORT ESPN
+http://mlsh1.com:2086/iptvreal/55225/6
+#EXTINF:0 type="stream" channelId="82" name="EUROSPORT 1 FHD UK" group="UK | SPORTS" logo="https://archive.org/download/Eurosport1/eurosport%201.png" tvg-country="GB" size="Medium", EUROSPORT 1
+http://mlsh1.com:2086/iptvreal/55225/565
+#EXTINF:0 type="stream" channelId="82" name="EUROSPORT 1 HD UK" group="UK | SPORTS" logo="https://archive.org/download/Eurosport1/eurosport%201.png" tvg-country="GB" size="Medium", EUROSPORT 1
+http://mlsh1.com:2086/iptvreal/55225/82
+#EXTINF:0 type="stream" channelId="83" name="EUROSPORT 2 FHD UK" group="UK | SPORTS" logo="https://archive.org/download/Eurosport2/eurosport%202.png" tvg-country="GB" size="Medium", EUROSPORT 2
+http://mlsh1.com:2086/iptvreal/55225/566
+#EXTINF:0 type="stream" channelId="4433" name="FREESPORTS FHD UK" group="UK | SPORTS" logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" tvg-country="GB" size="Medium", FREESPORTS
+http://mlsh1.com:2086/iptvreal/55225/559
+#EXTINF:0 type="stream" channelId="4433" name="FREESPORTS SD UK" group="UK | SPORTS" logo="https://www.freesports.tv/assets/components/mor/General/img/freesports-logo.png" tvg-country="GB" size="Medium", FREESPORTS
+http://mlsh1.com:2086/iptvreal/55225/558
+#EXTINF:0 type="stream" channelId="1367" name="LA LIGA TV FHD UK" group="UK | SPORTS" logo="https://www.thesportsdb.com/images/media/league/badge/7onmyv1534768460.png" tvg-country="GB" size="Medium", LA LIGA TV
+http://mlsh1.com:2086/iptvreal/55225/34519
+#EXTINF:0 type="stream" channelId="3383" name="MOTORSPORT TV UK" group="UK | SPORTS" logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Motorsport.com_Logo.png" tvg-country="GB" size="Medium", MOTORSPORT TV
+http://mlsh1.com:2086/iptvreal/55225/664
+#EXTINF:0 type="stream" channelId="3514" name="PREMIER SPORTS 1 HD UK" group="UK | SPORTS" logo="http://brisca.com/_Assets/images/news/premierSports.png" tvg-country="GB" size="Medium", PREMIER SPORTS 1
+http://mlsh1.com:2086/iptvreal/55225/69
+#EXTINF:0 type="stream" channelId="3513" name="PREMIER SPORTS 2 HD UK" group="UK | SPORTS" logo="http://brisca.com/_Assets/images/news/premierSports.png" tvg-country="GB" size="Medium", PREMIER SPORTS 2
+http://mlsh1.com:2086/iptvreal/55225/83
+#EXTINF:0 type="stream" channelId="3517" name="RACING TV FHD UK" group="UK | SPORTS" logo="http://www.thepja.co.uk/wp-content/uploads/2019/01/Racing-TV.png" tvg-country="GB" size="Medium", RACING TV
+http://mlsh1.com:2086/iptvreal/55225/25
+#EXTINF:0 type="stream" channelId="1176" name="SKY SPORTS NFL FHD UK" group="UK | SPORTS" logo="https://archive.org/download/SkySportsAction_201708/sky%20sports%20action.png" tvg-country="GB" size="Medium", SKY SPORTS NFL
+http://mlsh1.com:2086/iptvreal/55225/9
+#EXTINF:0 type="stream" channelId="4461" name="SKY SPORTS ARENA FHD UK" group="UK | SPORTS" logo="https://archive.org/download/SkySportsArena_201708/sky%20sports%20arena.png" tvg-country="GB" size="Medium", SKY SPORTS ARENA
+http://mlsh1.com:2086/iptvreal/55225/10
+#EXTINF:0 type="stream" channelId="4445" name="SKY SPORTS CRICKET FHD UK" group="UK | SPORTS" logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png" tvg-country="GB" size="Medium", SKY SPORTS CRICKET
+http://mlsh1.com:2086/iptvreal/55225/11
+#EXTINF:0 type="stream" channelId="1177" name="SKY SPORTS F1 FHD UK" group="UK | SPORTS" logo="https://ia800807.us.archive.org/31/items/SkySportsF1New_201708/sky%20sports%20f1%20new.png" tvg-country="GB" size="Medium", SKY SPORTS F1
+http://mlsh1.com:2086/iptvreal/55225/12
+#EXTINF:0 type="stream" channelId="4460" name="SKY SPORTS FOOTBALL FHD UK" group="UK | SPORTS" logo="https://archive.org/download/SkySportsFootball_201708/sky%20sports%20football.png" tvg-country="GB" size="Medium", SKY SPORTS FOOTBALL
+http://mlsh1.com:2086/iptvreal/55225/13
+#EXTINF:0 type="stream" channelId="4447" name="SKY SPORTS GOLF FHD UK" group="UK | SPORTS" logo="https://archive.org/download/SkySportsGolf_201708/sky%20sports%20golf.png" tvg-country="GB" size="Medium", SKY SPORTS GOLF
+http://mlsh1.com:2086/iptvreal/55225/14
+#EXTINF:0 type="stream" channelId="4444" name="SKY SPORTS MAIN EVENT FHD UK" group="UK | SPORTS" logo="https://archive.org/download/SkySportsMainEvent_201708/sky%20sports%20main%20event.png" tvg-country="GB" size="Medium", SKY SPORTS MAIN EVENT
+http://mlsh1.com:2086/iptvreal/55225/15
+#EXTINF:0 type="stream" channelId="3540" name="SKY SPORTS MIX FHD UK" group="UK | SPORTS" logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png" tvg-country="GB" size="Medium", SKY SPORTS MIX
+http://mlsh1.com:2086/iptvreal/55225/56139
+#EXTINF:0 type="stream" channelId="1178" name="SKY SPORTS NEWS FHD" group="UK | SPORTS" logo="https://archive.org/download/SkySportsNewsHqNew_201708/sky%20sports%20news%20hq%20new.png" tvg-country="GB" size="Medium", SKY SPORTS NEWS
+http://mlsh1.com:2086/iptvreal/55225/577
+#EXTINF:0 type="stream" channelId="4443" name="SKY SPORTS PREMIER LEAGUE FHD UK" group="UK | SPORTS" logo="https://archive.org/download/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" tvg-country="GB" size="Medium", SKY SPORTS PREMIER LEAGUE
+http://mlsh1.com:2086/iptvreal/55225/18
+#EXTINF:0 type="stream" channelId="3469" name="SKY SPORTS RACING FHD" group="UK | SPORTS" logo="https://www.sky.com/shop/export/sites/www.sky.com/shop/__EPG/EPGImages/SkySportsRacing.png_1926146284.png" tvg-country="GB" size="Medium", SKY SPORTS RACING
+http://mlsh1.com:2086/iptvreal/55225/38
+#EXTINF:0 type="stream" channelId="4469" name="VIRGIN SPORT HD UK" group="UK | SPORTS" logo="https://admin.sportforcharity.com//uploads/vkzqytq5cpizSfvr.png" tvg-country="GB" size="Medium", VIRGIN SPORT
+http://mlsh1.com:2086/iptvreal/55225/1977
