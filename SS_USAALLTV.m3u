@@ -1,0 +1,175 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="1208" name="USA: A&E" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/a_e_c.png" tvg-country="US" size="Medium", A&E
+http://mlsh1.com:2086/iptvreal/55225/4125
+#EXTINF:0 type="stream" channelId="1444" name="USA: ABC" group="USA | TV" logo="http://epg.justco.cc/guide/logos/ABC.png" tvg-country="US" size="Medium", ABC
+http://mlsh1.com:2086/iptvreal/55225/4126
+#EXTINF:0 type="stream" channelId="2501" name="USA: AMC" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/amc_c.png" tvg-country="US" size="Medium", AMC
+http://mlsh1.com:2086/iptvreal/55225/4131
+#EXTINF:0 type="stream" channelId="1209" name="USA: AMERICAN HEROES CHANNEL" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/american-heroes-channel_c.png" tvg-country="US" size="Medium", AMERICAN HEROES CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/4132
+#EXTINF:0 type="stream" channelId="1901" name="USA: ANTENNA TV" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/1200px-Antenna_TV_logo.svg.png" tvg-country="US" size="Medium", ANTENNA TV
+http://mlsh1.com:2086/iptvreal/55225/5301
+#EXTINF:0 type="stream" channelId="4616" name="USA: AXS TV" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/commons/1/18/AXS_TV_Logo.png" tvg-country="US" size="Medium", AXS TV
+http://mlsh1.com:2086/iptvreal/55225/4137
+#EXTINF:0 type="stream" channelId="1150" name="USA: BBC AMERICA" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/bbc-america_c.png" tvg-country="US" size="Medium", BBC AMERICA
+http://mlsh1.com:2086/iptvreal/55225/4139
+#EXTINF:0 type="stream" channelId="1448" name="USA: BET" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/bet_c.png" shift="4" tvg-country="US" size="Medium", BET
+http://mlsh1.com:2086/iptvreal/55225/4149
+#EXTINF:0 type="stream" channelId="1448" name="USA: BET (WEST)" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/bet_c.png" tvg-country="US" size="Medium", BET (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47926
+#EXTINF:0 type="stream" channelId="4590" name="USA: BET HER" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/bet_her_c.png" tvg-country="US" size="Medium", BET HER
+http://mlsh1.com:2086/iptvreal/55225/4150
+#EXTINF:0 type="stream" channelId="3732" name="USA: BET JAMS" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/bet_jams_c.png" tvg-country="US" size="Medium", BET JAMS
+http://mlsh1.com:2086/iptvreal/55225/4152
+#EXTINF:0 type="stream" channelId="119" name="USA: BLOOMBERG" group="USA | TV" logo="https://cdn.tvpassport.com/image/station/240x135/bloomberg.png" tvg-country="US" size="Medium", BLOOMBERG
+http://mlsh1.com:2086/iptvreal/55225/4154
+#EXTINF:0 type="stream" channelId="1410" name="USA: BRAVO" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/bravo_c.png" tvg-country="US" size="Medium", BRAVO
+http://mlsh1.com:2086/iptvreal/55225/4157
+#EXTINF:0 type="stream" channelId="1410" name="USA: BRAVO (WEST)" group="USA | TV" logo="http://mlsh1.com:2086/images/c636b6dfbb545476b3084560c2d6fa1f.png" shift="-3" tvg-country="US" size="Medium", BRAVO (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47925
+#EXTINF:0 type="stream" channelId="1666" name="USA: BUZZER TV" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/en/b/be/Buzzr_%28TV_Network%29_Logo.png" tvg-country="US" size="Medium", BUZZER TV
+http://mlsh1.com:2086/iptvreal/55225/4161
+#EXTINF:0 type="stream" channelId="3205" name="USA: CBS" group="USA | TV" logo="https://tvseriesfinale.com/wp-content/uploads/2015/09/cbs42-590x157.jpg" tvg-country="US" size="Medium", CBS
+http://mlsh1.com:2086/iptvreal/55225/4165
+#EXTINF:0 type="stream" channelId="3210" name="USA: CMT" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/cmt_c.png" tvg-country="US" size="Medium", CMT
+http://mlsh1.com:2086/iptvreal/55225/4183
+#EXTINF:0 type="stream" channelId="527" name="USA: CNBC" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/cnbc_c.png" tvg-country="US" size="Medium", CNBC
+http://mlsh1.com:2086/iptvreal/55225/4184
+#EXTINF:0 type="stream" channelId="2883" name="USA: CNN" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/cnn_c.png" tvg-country="US" size="Medium", CNN
+http://mlsh1.com:2086/iptvreal/55225/4186
+#EXTINF:0 type="stream" channelId="1190" name="USA: COMEDY CENTRAL" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" tvg-country="US" size="Medium", COMEDY CENTRAL
+http://mlsh1.com:2086/iptvreal/55225/4187
+#EXTINF:0 type="stream" channelId="1190" name="USA: COMEDY CENTRAL (WEST)" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/comedy_central_c.png" shift="-3" tvg-country="US" size="Medium", COMEDY CENTRAL (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47923
+#EXTINF:0 type="stream" channelId="1829" name="USA: CONTV" group="USA | TV" logo="https://p14.zdassets.com/hc/settings_assets/667658/200059238/nUGjGiWPOdPJxcFva0eEpw-Contv-logoBig.png" tvg-country="US" size="Medium", CONTV
+http://mlsh1.com:2086/iptvreal/55225/5267
+#EXTINF:0 type="stream" channelId="4576" name="USA: COOKING CHANNEL" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/cooking-channel_c.png" tvg-country="US" size="Medium", COOKING CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/4189
+#EXTINF:0 type="stream" channelId="3206" name="USA: CW" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/cw-c.png" tvg-country="US" size="Medium", CW
+http://mlsh1.com:2086/iptvreal/55225/4192
+#EXTINF:0 type="stream" channelId="2179" name="USA: DANCESTAR TV" group="USA | TV" logo="https://static1.squarespace.com/static/57e016db6b8f5bbe95acde7d/t/5b620bab352f53819eb8df27/1533152171765/2017_DSTV_Logo_Silver+2.png" tvg-country="US" size="Medium", DANCESTAR TV
+http://mlsh1.com:2086/iptvreal/55225/5293
+#EXTINF:0 type="stream" channelId="57" name="USA: DISCOVERY (WEST)" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/discovery_c.png" tvg-country="US" size="Medium", DISCOVERY (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47922
+#EXTINF:0 type="stream" channelId="1188" name="USA: E! ENTERTAINMENT" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/e_c.png" tvg-country="US" size="Medium", E! ENTERTAINMENT
+http://mlsh1.com:2086/iptvreal/55225/4212
+#EXTINF:0 type="stream" channelId="1188" name="USA: E! ENTERTAINMENT TELEVISION (WEST)" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/e_c.png" shift="-3" tvg-country="US" size="Medium", E! ENTERTAINMENT TELEVISION (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47921
+#EXTINF:0 type="stream" channelId="4603" name="USA: EL REY NETWORK" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/El_Rey_Network.jpeg/220px-El_Rey_Network.jpeg" tvg-country="US" size="Medium", EL REY NETWORK
+http://mlsh1.com:2086/iptvreal/55225/4211
+#EXTINF:0 type="stream" channelId="1244" name="USA: FOOD NETWORK" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/food_network_c.png" tvg-country="US" size="Medium", FOOD NETWORK
+http://mlsh1.com:2086/iptvreal/55225/4225
+#EXTINF:0 type="stream" channelId="177" name="USA: FOX" group="USA | TV" logo="http://www.c4dzone.com/data/blg/images/logo_fox.jpg" tvg-country="US" size="Medium", FOX
+http://mlsh1.com:2086/iptvreal/55225/4232
+#EXTINF:0 type="stream" channelId="2990" name="USA: FOX BUSINESS" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/foxbusiness_c.png" tvg-country="US" size="Medium", FOX BUSINESS
+http://mlsh1.com:2086/iptvreal/55225/4228
+#EXTINF:0 type="stream" channelId="1317" name="USA: FOX NEWS CHANNEL" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/fox_news_c.png" tvg-country="US" size="Medium", FOX NEWS CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/4234
+#EXTINF:0 type="stream" channelId="4579" name="USA: FREE SPEECH TV" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Logo_of_Free_Speech_TV.png" tvg-country="US" size="Medium", FREE SPEECH TV
+http://mlsh1.com:2086/iptvreal/55225/87362
+#EXTINF:0 type="stream" channelId="3213" name="USA: FREEFORM" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Freeform.svg/200px-Freeform.svg.png" tvg-country="US" size="Medium", FREEFORM
+http://mlsh1.com:2086/iptvreal/55225/4236
+#EXTINF:0 type="stream" channelId="3214" name="USA: FUSE" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Fuse_Black_Logo_2017.png" tvg-country="US" size="Medium", FUSE
+http://mlsh1.com:2086/iptvreal/55225/4238
+#EXTINF:0 type="stream" channelId="1303" name="USA: FX" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" tvg-country="US" size="Medium", FX
+http://mlsh1.com:2086/iptvreal/55225/4240
+#EXTINF:0 type="stream" channelId="2023" name="USA: FXX" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" tvg-country="US" size="Medium", FXX
+http://mlsh1.com:2086/iptvreal/55225/4243
+#EXTINF:0 type="stream" channelId="2024" name="USA: FYI" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/fyi_c.png" tvg-country="US" size="Medium", FYI
+http://mlsh1.com:2086/iptvreal/55225/4245
+#EXTINF:0 type="stream" channelId="1211" name="USA: GAME SHOW NETWORK (GSN)" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/game-show-network_c.png" tvg-country="US" size="Medium", GAME SHOW NETWORK (GSN)
+http://mlsh1.com:2086/iptvreal/55225/4247
+#EXTINF:0 type="stream" channelId="1330" name="USA: HBO 1" group="USA | TV" logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_pk.png" tvg-country="US" size="Medium", HBO 1
+http://mlsh1.com:2086/iptvreal/55225/13613
+#EXTINF:0 type="stream" channelId="1418" name="USA: HGTV" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/hgtv_c.png" tvg-country="US" size="Medium", HGTV
+http://mlsh1.com:2086/iptvreal/55225/4262
+#EXTINF:0 type="stream" channelId="1392" name="USA: HLN" group="USA | TV" logo="https://www.lyngsat-logo.com/logo/tv/hh/hln_us.png" tvg-country="US" size="Medium", HLN
+http://mlsh1.com:2086/iptvreal/55225/4264
+#EXTINF:0 type="stream" channelId="4610" name="USA: HSN" group="USA | TV" logo="https://headquarters101.com/wp-content/uploads/2018/07/hsn-logo.jpg" tvg-country="US" size="Medium", HSN
+http://mlsh1.com:2086/iptvreal/55225/4265
+#EXTINF:0 type="stream" channelId="2032" name="USA: IFC" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/ifc_c.png" tvg-country="US" size="Medium", IFC
+http://mlsh1.com:2086/iptvreal/55225/4266
+#EXTINF:0 type="stream" channelId="4537" name="USA: INSP" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/insp_c.png" tvg-country="US" size="Medium", INSP
+http://mlsh1.com:2086/iptvreal/55225/4268
+#EXTINF:0 type="stream" channelId="2705" name="USA: LOGO TV" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Logo_TV_2015.svg/1200px-Logo_TV_2015.svg.png" tvg-country="US" size="Medium", LOGO TV
+http://mlsh1.com:2086/iptvreal/55225/4276
+#EXTINF:0 type="stream" channelId="1318" name="USA: MSNBC" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/msnbc_c.png" tvg-country="US" size="Medium", MSNBC
+http://mlsh1.com:2086/iptvreal/55225/4286
+#EXTINF:0 type="stream" channelId="1973" name="USA: MTV" group="USA | TV" logo="https://thevpn.guru/wp-content/uploads/2014/08/How-to-watch-American-MTV-outside-USA-using-VPN-or-Smart-DNS-Proxies.png" tvg-country="US" size="Medium", MTV
+http://mlsh1.com:2086/iptvreal/55225/4288
+#EXTINF:0 type="stream" channelId="1393" name="USA: MTV 2" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/1200px-MTV2_logo_2013.svg.png" tvg-country="US" size="Medium", MTV 2
+http://mlsh1.com:2086/iptvreal/55225/4290
+#EXTINF:0 type="stream" channelId="2780" name="USA: MTV CLASSIC" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" tvg-country="US" size="Medium", MTV CLASSIC
+http://mlsh1.com:2086/iptvreal/55225/4287
+#EXTINF:0 type="stream" channelId="237" name="USA: MTV LIVE" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/90/MTV_Live.svg/1200px-MTV_Live.svg.png" tvg-country="US" size="Medium", MTV LIVE
+http://mlsh1.com:2086/iptvreal/55225/4289
+#EXTINF:0 type="stream" channelId="2702" name="USA: MTV U" group="USA | TV" logo="https://www.bing.com/th?id=OIP.7V61rNkX_bV44JsOoI4JigAAAA&pid=Api&rs=1" tvg-country="US" size="Medium", MTV U
+http://mlsh1.com:2086/iptvreal/55225/4291
+#EXTINF:0 type="stream" channelId="828" name="USA: OPRAH WINFREY NETWORK (OWN)" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/oprah_winfrey_network_us_hd.jpg" tvg-country="US" size="Medium", OPRAH WINFREY NETWORK (OWN)
+http://mlsh1.com:2086/iptvreal/55225/4297
+#EXTINF:0 type="stream" channelId="4562" name="USA: OVATION" group="USA | TV" logo="http://www.tubefilter.com/wp-content/uploads/2015/03/ovation-tv.jpg" tvg-country="US" size="Medium", OVATION
+http://mlsh1.com:2086/iptvreal/55225/4300
+#EXTINF:0 type="stream" channelId="3218" name="USA: OXYGEN" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/oxygen_tv_us.jpg" tvg-country="US" size="Medium", OXYGEN
+http://mlsh1.com:2086/iptvreal/55225/4301
+#EXTINF:0 type="stream" channelId="3218" name="USA: OXYGEN (WEST)" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/oxygen_tv_us.jpg" shift="-3" tvg-country="US" size="Medium", OXYGEN (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47915
+#EXTINF:0 type="stream" channelId="4036" name="USA: PARAMOUNT TV" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/paramount_channel_fr.jpg" tvg-country="US" size="Medium", PARAMOUNT TV
+http://mlsh1.com:2086/iptvreal/55225/4310
+#EXTINF:0 type="stream" channelId="1390" name="USA: PBS" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/pbs.jpg" tvg-country="US" size="Medium", PBS
+http://mlsh1.com:2086/iptvreal/55225/4311
+#EXTINF:0 type="stream" channelId="979" name="USA: QVC" group="USA | TV" logo="https://www.lyngsat-logo.com/logo/tv/qq/qvc.png" tvg-country="US" size="Medium", QVC
+http://mlsh1.com:2086/iptvreal/55225/5304
+#EXTINF:0 type="stream" channelId="4524" name="USA: QVC 2" group="USA | TV" logo="https://www.lyngsat-logo.com/logo/tv/qq/qvc-2-us.png" tvg-country="US" size="Medium", QVC 2
+http://mlsh1.com:2086/iptvreal/55225/5305
+#EXTINF:0 type="stream" channelId="3219" name="USA: REELZ" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/reelz_channel.jpg" tvg-country="US" size="Medium", REELZ
+http://mlsh1.com:2086/iptvreal/55225/4315
+#EXTINF:0 type="stream" channelId="4684" name="USA: REVOLT" group="USA | TV" logo="https://www.lyngsat-logo.com/logo/tv/rr/revolt_tv_us.png" tvg-country="US" size="Medium", REVOLT
+http://mlsh1.com:2086/iptvreal/55225/4316
+#EXTINF:0 type="stream" channelId="2051" name="USA: SMITHSONIAN CHANNEL (WEST)" group="USA | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/Smithsonian_Channel_2014.svg/revision/latest/scale-to-width-down/300?cb=20171121235002" tvg-country="US" size="Medium", SMITHSONIAN CHANNEL (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47914
+#EXTINF:0 type="stream" channelId="1447" name="USA: SPIKE" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/spike_tv.jpg" tvg-country="US" size="Medium", SPIKE
+http://mlsh1.com:2086/iptvreal/55225/4328
+#EXTINF:0 type="stream" channelId="2054" name="USA: SUNDANCE" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/sundance_channel_us.jpg" tvg-country="US" size="Medium", SUNDANCE
+http://mlsh1.com:2086/iptvreal/55225/4340
+#EXTINF:0 type="stream" channelId="73" name="USA: SYFY" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/syfy_us.jpg" tvg-country="US" size="Medium", SYFY
+http://mlsh1.com:2086/iptvreal/55225/4341
+#EXTINF:0 type="stream" channelId="73" name="USA: SYFY (WEST)" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/syfy_us.jpg" shift="-3" tvg-country="US" size="Medium", SYFY (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47913
+#EXTINF:0 type="stream" channelId="3228" name="USA: TBS" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/tbs_c.png" tvg-country="US" size="Medium", TBS
+http://mlsh1.com:2086/iptvreal/55225/4343
+#EXTINF:0 type="stream" channelId="67" name="USA: TLC" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" tvg-country="US" size="Medium", TLC
+http://mlsh1.com:2086/iptvreal/55225/4364
+#EXTINF:0 type="stream" channelId="67" name="USA: TLC (WEST)" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tlc_us.jpg" shift="3" tvg-country="US" size="Medium", TLC (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47911
+#EXTINF:0 type="stream" channelId="-1" name="USA: TNT EAST" group="USA | TV" logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20170925062841" tvg-country="US" size="Medium", TNT
+http://mlsh1.com:2086/iptvreal/55225/5198
+#EXTINF:0 type="stream" channelId="54" name="USA: TRAVEL CHANNEL (WEST)" group="USA | TV" logo="https://www.lyngsat-logo.com/logo/tv/tt/travel_channel_us.png" tvg-country="US" size="Medium", TRAVEL CHANNEL (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47909
+#EXTINF:0 type="stream" channelId="2626" name="USA: TRU TV" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/tru_tv_us.jpg" tvg-country="US" size="Medium", TRU TV
+http://mlsh1.com:2086/iptvreal/55225/4368
+#EXTINF:0 type="stream" channelId="895" name="USA: TURNER CLASSIC MOVIES (TCM)" group="USA | TV" logo="https://www.lyngsat-logo.com/logo/tv/tt/tcm_global.png" tvg-country="US" size="Medium", TURNER CLASSIC MOVIES (TCM)
+http://mlsh1.com:2086/iptvreal/55225/4345
+#EXTINF:0 type="stream" channelId="2714" name="USA: TV LAND" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/tv_land_c.png" tvg-country="US" size="Medium", TV LAND
+http://mlsh1.com:2086/iptvreal/55225/45642
+#EXTINF:0 type="stream" channelId="2714" name="USA: TV LAND (WEST)" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/tv_land_c.png" shift="-3" tvg-country="US" size="Medium", TV LAND (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47907
+#EXTINF:0 type="stream" channelId="4564" name="USA: TV ONE" group="USA | TV" logo="http://legacy.shadowandact.com/wp-content/uploads/2016/11/TV_One_Logo_highres.jpg" tvg-country="US" size="Medium", TV ONE
+http://mlsh1.com:2086/iptvreal/55225/5329
+#EXTINF:0 type="stream" channelId="3229" name="USA: USA NETWORK" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/usa_network.jpg" tvg-country="US" size="Medium", USA NETWORK
+http://mlsh1.com:2086/iptvreal/55225/4378
+#EXTINF:0 type="stream" channelId="3229" name="USA: USA NETWORK (WEST)" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/usa_c.png" tvg-country="US" size="Medium", USA NETWORK (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47905
+#EXTINF:0 type="stream" channelId="151" name="USA: VH 1" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vh1_us.jpg" tvg-country="US" size="Medium", VH 1
+http://mlsh1.com:2086/iptvreal/55225/4381
+#EXTINF:0 type="stream" channelId="151" name="USA: VH1 (WEST)" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/vh1_us.jpg" shift="-3" tvg-country="US" size="Medium", VH1 (WEST)
+http://mlsh1.com:2086/iptvreal/55225/47906
+#EXTINF:0 type="stream" channelId="3551" name="USA: VICELAND" group="USA | TV" logo="http://www.underconsideration.com/brandnew/archives/viceland_logo.png" tvg-country="US" size="Medium", VICELAND
+http://mlsh1.com:2086/iptvreal/55225/4382
+#EXTINF:0 type="stream" channelId="3230" name="USA: WE TV" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/we-tv_c.png" tvg-country="US" size="Medium", WE TV
+http://mlsh1.com:2086/iptvreal/55225/4383
+#EXTINF:0 type="stream" channelId="4554" name="USA: WEATHER CHANNEL" group="USA | TV" logo="https://imgx.fubo.tv/station_logos/the_weather_channel_c.png" tvg-country="US" size="Medium", WEATHER CHANNEL
+http://mlsh1.com:2086/iptvreal/55225/4384
+#EXTINF:0 type="stream" channelId="4606" name="USA: WEATHER NATION" group="USA | TV" logo="https://upload.wikimedia.org/wikipedia/en/e/e2/WeatherNation_logo.png" tvg-country="US" size="Medium", WEATHER NATION
+http://mlsh1.com:2086/iptvreal/55225/87473
+#EXTINF:0 type="stream" channelId="3231" name="USA: WGN AMERICA" group="USA | TV" logo="http://www.tv-logo.com/pt-data/uploads/images/logo/wgn_america.jpg" tvg-country="US" size="Medium", WGN AMERICA
+http://mlsh1.com:2086/iptvreal/55225/4386
