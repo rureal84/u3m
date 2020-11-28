@@ -1,0 +1,133 @@
+﻿#EXTM3U x-tvg-url="https://i.mjh.nz/au/Sydney/epg.xml.gz"
+#EXTINF:-1 tvg-id="tv.101406020627" tvg-logo="https://i.mjh.nz/.images/tv.101406020627.png" ,10 Bold
+http://mlsh1.com:2086/kscodtwb/55225/105172
+#EXTINF:-1 tvg-id="tv.101406020628" tvg-logo="https://i.mjh.nz/.images/tv.101406020628.png" ,10 Peach
+http://mlsh1.com:2086/kscodtwb/55225/105129
+#EXTINF:-1 tvg-id="tv.101305020525" tvg-logo="https://i.mjh.nz/.images/tv.101305020525.png" ,7flix
+http://mlsh1.com:2086/kscodtwb/55225/105098
+#EXTINF:-1 tvg-id="tv.101305020523" tvg-logo="https://i.mjh.nz/.images/tv.101305020523.png" ,7mate
+http://mlsh1.com:2086/kscodtwb/55225/105203
+#EXTINF:-1 tvg-id="tv.101305020522" tvg-logo="https://i.mjh.nz/.images/tv.101305020522.png" ,7TWO
+http://mlsh1.com:2086/kscodtwb/55225/105202
+#EXTINF:-1 tvg-id="tv.101204200427" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png" ,9Gem
+http://mlsh1.com:2086/kscodtwb/55225/105133
+#EXTINF:-1 tvg-id="tv.101204200428" tvg-logo="https://i.mjh.nz/.images/tv.101204200428.png" ,9Go!
+http://mlsh1.com:2086/kscodtwb/55225/105132
+#EXTINF:-1 tvg-id="tv.101204200424" tvg-logo="https://i.mjh.nz/.images/tv.101204200424.png" ,9Life
+http://mlsh1.com:2086/kscodtwb/55225/105131
+#EXTINF:-1 tvg-id="tv.101204200429" tvg-logo="https://i.mjh.nz/.images/tv.101204200429.png" ,9Rush Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105204
+#EXTINF:-1 tvg-id="tv.101002210224" tvg-logo="https://i.mjh.nz/.images/tv.101002210224.png" ,ABC Me
+http://mlsh1.com:2086/kscodtwb/55225/105061
+#EXTINF:-1 tvg-id="tv.101002210220" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" ,ABC News
+http://mlsh1.com:2086/kscodtwb/55225/105061
+#EXTINF:-1 tvg-id="tv.acctv" tvg-logo="http://i.mjh.nz/.images/tv.acctv.png" ,ACCTV
+http://mlsh1.com:2086/kscodtwb/55225/105249
+#EXTINF:-1 tvg-id="tv.46" tvg-logo="http://i.mjh.nz/.images/tv.46.png" ,Al Jazeera
+http://mlsh1.com:2086/kscodtwb/55225/105177
+#EXTINF:-1 tvg-id="tv.7ausbiz" tvg-logo="http://i.mjh.nz/.images/tv.7ausbiz.png" ,ausbiz TV
+http://mlsh1.com:2086/kscodtwb/55225/105123
+#EXTINF:-1 tvg-id="tv.101204200421" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png" ,Channel 9
+http://mlsh1.com:2086/kscodtwb/55225/105167
+#EXTINF:-1 tvg-id="tv.fox.sports.news" tvg-logo="http://i.mjh.nz/.images/tv.fox.sports.news.png" ,Fox Sports News
+http://mlsh1.com:2086/kscodtwb/55225/105250
+#EXTINF:-1 tvg-id="tv.7fueltv" tvg-logo="http://i.mjh.nz/.images/tv.7fueltv.png" ,Fuel TV
+http://mlsh1.com:2086/kscodtwb/55225/105212
+#EXTINF:-1 tvg-id="tv.320203000305" tvg-logo="https://i.mjh.nz/.images/tv.320203000305.png" ,NITV
+http://mlsh1.com:2086/kscodtwb/55225/105059
+#EXTINF:-1 tvg-id="tv.7olympics" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png" ,Olympics Channel
+http://mlsh1.com:2086/kscodtwb/55225/105251
+#EXTINF:-1 tvg-id="tv.7openshop" tvg-logo="http://i.mjh.nz/.images/tv.7openshop.png" ,openshop
+http://mlsh1.com:2086/kscodtwb/55225/105090
+#EXTINF:-1 tvg-id="tv.7outdoor" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png" ,Outdoor Channel
+http://mlsh1.com:2086/kscodtwb/55225/105092
+#EXTINF:-1 tvg-id="tv.7pac12" tvg-logo="http://i.mjh.nz/.images/tv.7pac12.png" ,PAC-12
+http://mlsh1.com:2086/kscodtwb/55225/105213
+#EXTINF:-1 tvg-id="tv.101305020528" tvg-logo="https://i.mjh.nz/.images/tv.101305020528.png" ,RACING.COM
+http://mlsh1.com:2086/kscodtwb/55225/105091
+#EXTINF:-1 tvg-id="tv.redbull.tv" tvg-logo="http://i.mjh.nz/.images/tv.redbull.tv.png" ,Redbull TV
+http://mlsh1.com:2086/kscodtwb/55225/105058
+#EXTINF:-1 tvg-id="tv.320203000301" tvg-logo="https://i.mjh.nz/.images/tv.320203000301.png" ,SBS
+http://mlsh1.com:2086/kscodtwb/55225/105252
+#EXTINF:-1 tvg-id="tv.320203000304" tvg-logo="https://i.mjh.nz/.images/tv.320203000304.png" ,SBS Food
+http://mlsh1.com:2086/kscodtwb/55225/105057
+#EXTINF:-1 tvg-id="tv.320203000303" tvg-logo="https://i.mjh.nz/.images/tv.320203000303.png" ,SBS VICELAND
+http://mlsh1.com:2086/kscodtwb/55225/105252
+#EXTINF:-1 tvg-id="tv.320203000307" tvg-logo="https://i.mjh.nz/.images/tv.320203000307.png" ,SBS World Movies
+http://mlsh1.com:2086/kscodtwb/55225/105056
+#EXTINF:-1 tvg-id="tv.101305020520" tvg-logo="https://i.mjh.nz/.images/tv.101305020520.png" ,Seven
+http://mlsh1.com:2086/kscodtwb/55225/105214
+#EXTINF:-1 tvg-id="tv.snowy-mountains" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" ,Snowy Mountains Television
+http://mlsh1.com:2086/kscodtwb/55225/105254
+#EXTINF:-1 tvg-id="tv.101406020625" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" ,TEN
+http://mlsh1.com:2086/kscodtwb/55225/105055
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="7flix Sydney" tvg-logo="https://www.logofootball.net/wp-content/uploads/Sydney-FC-Logo.png" ,7flix Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105098
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="7mate Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/7mate_(logo).svg/1200px-7mate_(logo).svg.png" ,7mate Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105203
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="7TWO Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Sydney_FC_Logo.svg/1200px-Sydney_FC_Logo.svg.png" ,7TWO Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105202
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="9Gem Sydney" tvg-logo="https://www.logofootball.net/wp-content/uploads/Sydney-FC-Logo.png" ,9Gem Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105133
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="9Go! Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ad/9Go%21_logo.png" ,9Go! Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105132
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="9Life Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/9Life_logo.png/260px-9Life_logo.png" ,9Life Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105131
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="9Rush Sydney" tvg-logo="https://www.logofootball.net/wp-content/uploads/Sydney-FC-Logo.png" ,9Rush Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105204
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="ABC ME Canberra" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/ABC_ME_logo.svg/1006px-ABC_ME_logo.svg.png" ,ABC ME Canberra
+http://mlsh1.com:2086/kscodtwb/55225/105077
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="ABC NEWS Sydney" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f9/ABC_Australia_logo.png/revision/latest?cb=20180502083044" ,ABC NEWS Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105061
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="ACCTV Sydney" tvg-logo="https://www.logofootball.net/wp-content/uploads/Sydney-FC-Logo.png" ,ACCTV Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105249
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="Al Jazeera" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" ,Al Jazeera
+http://mlsh1.com:2086/kscodtwb/55225/105177
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="AU: FOX SPORTS NEWS" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/6/6554.1489225299.png" ,AU: FOX SPORTS NEWS
+http://mlsh1.com:2086/kscodtwb/55225/5334
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="AUS: FOOTY PLAY +" tvg-logo="http://mlsh1.com:2086/images/b3f686d11157acdac97c129aa92ca3e9.png" ,AUS: FOOTY PLAY +
+http://mlsh1.com:2086/kscodtwb/55225/97749
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-id="foxcricket.au" tvg-name="AUS: FOX CRICKET" tvg-logo="https://www.cricket.com.au/-/media/Logos/Broadcasters/Fox%20Sports%20New.ashx" ,AUS: FOX CRICKET
+http://mlsh1.com:2086/kscodtwb/55225/69317
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-id="foxleaguehd.au" tvg-name="AUS: FOX LEAGUE" tvg-logo="http://icons.00100.co/icon/au/FoxLeague.au.png" ,AUS: FOX LEAGUE
+http://mlsh1.com:2086/kscodtwb/55225/69322
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-id="foxsportsnewshd.au" tvg-name="AUS: FOX SPORTS NEWS" tvg-logo="http://mlsh1.com:2086/images/c14303c7f7ab463ceb22eec05c4301be.png" ,AUS: FOX SPORTS NEWS
+http://mlsh1.com:2086/kscodtwb/55225/97762
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="AUS:10 Bold Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1024px-Network_10_logo_2018.svg.png" ,AUS:10 Bold Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105172
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="AUS:10 Peach Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/10_Peach_logo_2018.svg/250px-10_Peach_logo_2018.svg.png" ,AUS:10 Peach Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105129
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="ausbiz_TV" tvg-logo="Logo N/A" ,ausbiz_TV
+http://mlsh1.com:2086/kscodtwb/55225/105123
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="Channel 9 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/52/Nine2012_Glossed_Logo.png" ,Channel 9 Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105167
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="Fox Sports News Sydney" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/59/FoxSportsNews_logo_1.png/revision/latest?cb=20130509121604" ,Fox Sports News Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105250
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="Fuel TV Sydney" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/60/Sydney_sixers.png/revision/latest?cb=20161228114940" ,Fuel TV Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105212
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="NITV Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Sydney_FC_Logo.svg/1200px-Sydney_FC_Logo.svg.png" ,NITV Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105059
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="Olympics Channel Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Olympic_Channel_logo.png/220px-Olympic_Channel_logo.png" ,Olympics Channel Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105251
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="openshop Sydney" tvg-logo="https://seeklogo.net/wp-content/uploads/2017/05/sydney-fc-logo.png" ,openshop Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105090
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="Outdoor Channel Sydney" tvg-logo="https://www.satellitetv-deal.com/images/logos/Outdoor-Channel-logo.png" ,Outdoor Channel Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105092
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="PAC 12 Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Pac-12_logo.svg/811px-Pac-12_logo.svg.png" ,PAC 12 Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105213
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="RACING COM Sydney" tvg-logo="https://www.logofootball.net/wp-content/uploads/Sydney-FC-Logo.png" ,RACING COM Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105091
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="Redbull TV Sydney" tvg-logo="https://clipartart.com/images/logo-redbull-clipart-3.jpg" ,Redbull TV Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105058
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="SBS Food Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/SBS_Food_logo.svg/220px-SBS_Food_logo.svg.png" ,SBS Food Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105057
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="SBS Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/SBS_logo.svg/1280px-SBS_logo.svg.png" ,SBS Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105252
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="SBS VICELAND HD Sydney" tvg-logo="http://vignette4.wikia.nocookie.net/logopedia/images/6/60/Screen_Shot_2015-07-18_at_2.54.10_pm.png/revision/latest?cb=20160428141625" ,SBS VICELAND HD Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105253
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="SBS World Movies Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fd/SBS_World_Movies_logo_2019.svg/1200px-SBS_World_Movies_logo_2019.svg.png" ,SBS World Movies Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105056
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="Seven Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/7-eleven_logo.svg/791px-7-eleven_logo.svg.png" ,Seven Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105214
+#EXTINF:-1 group-title="AUSTRALIAN & NEW ZEALAND TV" tvg-name="TEN Sydney" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png" ,TEN Sydney
+http://mlsh1.com:2086/kscodtwb/55225/105055
